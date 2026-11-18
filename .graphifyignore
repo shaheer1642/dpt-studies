@@ -1,0 +1,32 @@
+# graphify reads this instead of .gitignore for this project (gitignore is
+# switched off in graphify-out/build config so the extracted Lippincott text,
+# which git ignores, can be graphed).
+
+# Never graph: tooling, OS files, git
+.venv/
+.git/
+.DS_Store
+.gitignore
+.graphifyignore
+graphify-out/
+
+# Project plumbing, not study content
+CLAUDE.md
+pharmacology/prompts/
+pharmacology/tools/
+
+# Rendered copy of answers/past-paper-answers.html; the HTML is the source
+pharmacology/answers/*.pdf
+
+# Past-paper photos: already transcribed to the .txt files next to them
+*.jpeg
+*.jpg
+*.png
+
+# Textbooks: graph Lippincott's extracted page text only, for now
+pharmacology/books/*.pdf
+pharmacology/books/text/katzung/
+# Lippincott front matter, index (p. 851 on) and figure-source pages
+pharmacology/books/text/lippincott/fm_*.txt
+pharmacology/books/text/lippincott/085[1-9].txt
+pharmacology/books/text/lippincott/086*.txt

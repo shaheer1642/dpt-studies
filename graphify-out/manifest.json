@@ -1,0 +1,4730 @@
+{
+  "pharmacology/answers/past-paper-answers.html": {
+    "mtime": 1794840401.5878036,
+    "seen": 1795030114.709884,
+    "ast_hash": "b624ec9a313b38b84fccf5730872bca8",
+    "semantic_hash": "b624ec9a313b38b84fccf5730872bca8"
+  },
+  "pharmacology/books/text/lippincott/0001.txt": {
+    "mtime": 1794839131.2726376,
+    "seen": 1795030114.7098901,
+    "ast_hash": "c2640faef31a2e2fc28ac73fa8c60468",
+    "semantic_hash": "c2640faef31a2e2fc28ac73fa8c60468"
+  },
+  "pharmacology/books/text/lippincott/0002.txt": {
+    "mtime": 1794839131.3059123,
+    "seen": 1795030114.7098932,
+    "ast_hash": "60af901890aa5630fb110525b29e47a4",
+    "semantic_hash": "60af901890aa5630fb110525b29e47a4"
+  },
+  "pharmacology/books/text/lippincott/0003.txt": {
+    "mtime": 1794839131.3221927,
+    "seen": 1795030114.709894,
+    "ast_hash": "d32f916413159e3d41bca9357217fc68",
+    "semantic_hash": "d32f916413159e3d41bca9357217fc68"
+  },
+  "pharmacology/books/text/lippincott/0004.txt": {
+    "mtime": 1794839131.3468006,
+    "seen": 1795030114.7098958,
+    "ast_hash": "d31589a314559c197bd6529e0cd5ad77",
+    "semantic_hash": "d31589a314559c197bd6529e0cd5ad77"
+  },
+  "pharmacology/books/text/lippincott/0005.txt": {
+    "mtime": 1794839131.3598418,
+    "seen": 1795030114.709897,
+    "ast_hash": "440d7f9deeef2ff248b35f194e95242a",
+    "semantic_hash": "440d7f9deeef2ff248b35f194e95242a"
+  },
+  "pharmacology/books/text/lippincott/0006.txt": {
+    "mtime": 1794839131.3847277,
+    "seen": 1795030114.709898,
+    "ast_hash": "8b07912073ff54c54deac538921aa78f",
+    "semantic_hash": "8b07912073ff54c54deac538921aa78f"
+  },
+  "pharmacology/books/text/lippincott/0007.txt": {
+    "mtime": 1794839131.4024932,
+    "seen": 1795030114.709899,
+    "ast_hash": "98d84e1df0c30dc4a258492d8fb42dc2",
+    "semantic_hash": "98d84e1df0c30dc4a258492d8fb42dc2"
+  },
+  "pharmacology/books/text/lippincott/0008.txt": {
+    "mtime": 1794839131.42111,
+    "seen": 1795030114.709901,
+    "ast_hash": "e29f72b2882117b54109c12921e473e6",
+    "semantic_hash": "e29f72b2882117b54109c12921e473e6"
+  },
+  "pharmacology/books/text/lippincott/0009.txt": {
+    "mtime": 1794839131.441926,
+    "seen": 1795030114.709902,
+    "ast_hash": "d3c13d79185289d57d612b563f86ec5f",
+    "semantic_hash": "d3c13d79185289d57d612b563f86ec5f"
+  },
+  "pharmacology/books/text/lippincott/0010.txt": {
+    "mtime": 1794839131.4578707,
+    "seen": 1795030114.709903,
+    "ast_hash": "153628eaf4f9c73934dc789ef15591d0",
+    "semantic_hash": "153628eaf4f9c73934dc789ef15591d0"
+  },
+  "pharmacology/books/text/lippincott/0011.txt": {
+    "mtime": 1794839131.4727416,
+    "seen": 1795030114.709904,
+    "ast_hash": "39ff08bc891e8f7339c8c1cde680e05a",
+    "semantic_hash": "39ff08bc891e8f7339c8c1cde680e05a"
+  },
+  "pharmacology/books/text/lippincott/0012.txt": {
+    "mtime": 1794839131.4876413,
+    "seen": 1795030114.709905,
+    "ast_hash": "679b1905f4ee07d78a45f290a24d2746",
+    "semantic_hash": "679b1905f4ee07d78a45f290a24d2746"
+  },
+  "pharmacology/books/text/lippincott/0013.txt": {
+    "mtime": 1794839131.5067275,
+    "seen": 1795030114.7099059,
+    "ast_hash": "cbe8425fbfc03fc42c03e162d36ebb97",
+    "semantic_hash": "cbe8425fbfc03fc42c03e162d36ebb97"
+  },
+  "pharmacology/books/text/lippincott/0014.txt": {
+    "mtime": 1794839131.5230224,
+    "seen": 1795030114.709907,
+    "ast_hash": "9f72ee1d8858b75b5a374e571b6bdc97",
+    "semantic_hash": "9f72ee1d8858b75b5a374e571b6bdc97"
+  },
+  "pharmacology/books/text/lippincott/0015.txt": {
+    "mtime": 1794839131.5470047,
+    "seen": 1795030114.709908,
+    "ast_hash": "8d2f447392e56ffebe4ff62d8c7a9f63",
+    "semantic_hash": "8d2f447392e56ffebe4ff62d8c7a9f63"
+  },
+  "pharmacology/books/text/lippincott/0016.txt": {
+    "mtime": 1794839131.5704603,
+    "seen": 1795030114.709909,
+    "ast_hash": "f97ab57c8dedda89029b60d555db5b72",
+    "semantic_hash": "f97ab57c8dedda89029b60d555db5b72"
+  },
+  "pharmacology/books/text/lippincott/0017.txt": {
+    "mtime": 1794839131.5872264,
+    "seen": 1795030114.709911,
+    "ast_hash": "b3657d5eb2e73080554738a77206480e",
+    "semantic_hash": "b3657d5eb2e73080554738a77206480e"
+  },
+  "pharmacology/books/text/lippincott/0018.txt": {
+    "mtime": 1794839131.604807,
+    "seen": 1795030114.709912,
+    "ast_hash": "6c97708c16a75c2325c17a0290c320ff",
+    "semantic_hash": "6c97708c16a75c2325c17a0290c320ff"
+  },
+  "pharmacology/books/text/lippincott/0019.txt": {
+    "mtime": 1794839131.6320164,
+    "seen": 1795030114.709913,
+    "ast_hash": "0e4223761935f1e06c04e41321c423e1",
+    "semantic_hash": "0e4223761935f1e06c04e41321c423e1"
+  },
+  "pharmacology/books/text/lippincott/0020.txt": {
+    "mtime": 1794839131.6470344,
+    "seen": 1795030114.7099142,
+    "ast_hash": "631df2b12f4883a61a92c2545734aea1",
+    "semantic_hash": "631df2b12f4883a61a92c2545734aea1"
+  },
+  "pharmacology/books/text/lippincott/0021.txt": {
+    "mtime": 1794839131.6626515,
+    "seen": 1795030114.709915,
+    "ast_hash": "02cc2563625e9c7201b2ec5b61a4e8e6",
+    "semantic_hash": "02cc2563625e9c7201b2ec5b61a4e8e6"
+  },
+  "pharmacology/books/text/lippincott/0022.txt": {
+    "mtime": 1794839131.683808,
+    "seen": 1795030114.7099168,
+    "ast_hash": "b3dded0a5e30103ea79c59937580b377",
+    "semantic_hash": "b3dded0a5e30103ea79c59937580b377"
+  },
+  "pharmacology/books/text/lippincott/0023.txt": {
+    "mtime": 1794839131.7009974,
+    "seen": 1795030114.709918,
+    "ast_hash": "2c8372e5ef782b36c2c650628d6402fe",
+    "semantic_hash": "2c8372e5ef782b36c2c650628d6402fe"
+  },
+  "pharmacology/books/text/lippincott/0024.txt": {
+    "mtime": 1794839131.7207453,
+    "seen": 1795030114.709919,
+    "ast_hash": "05e71118a6ab0a4df44c95c18df0ee79",
+    "semantic_hash": "05e71118a6ab0a4df44c95c18df0ee79"
+  },
+  "pharmacology/books/text/lippincott/0025.txt": {
+    "mtime": 1794839131.747516,
+    "seen": 1795030114.70992,
+    "ast_hash": "db9c327fea6324a879af2b5ae01945cd",
+    "semantic_hash": "db9c327fea6324a879af2b5ae01945cd"
+  },
+  "pharmacology/books/text/lippincott/0026.txt": {
+    "mtime": 1794839131.7632208,
+    "seen": 1795030114.7099211,
+    "ast_hash": "f4b2bb87e4a154766d33829b1239065e",
+    "semantic_hash": "f4b2bb87e4a154766d33829b1239065e"
+  },
+  "pharmacology/books/text/lippincott/0027.txt": {
+    "mtime": 1794839131.7791715,
+    "seen": 1795030114.709923,
+    "ast_hash": "504a433b7cf1397605ee537270f0f1c9",
+    "semantic_hash": "504a433b7cf1397605ee537270f0f1c9"
+  },
+  "pharmacology/books/text/lippincott/0028.txt": {
+    "mtime": 1794839131.7999032,
+    "seen": 1795030114.709924,
+    "ast_hash": "c2df06a4801b55036e354cdc2331ccab",
+    "semantic_hash": "c2df06a4801b55036e354cdc2331ccab"
+  },
+  "pharmacology/books/text/lippincott/0029.txt": {
+    "mtime": 1794839131.8397765,
+    "seen": 1795030114.7099252,
+    "ast_hash": "1ee6feb5121e3b02d7f31b5d9eb71320",
+    "semantic_hash": "1ee6feb5121e3b02d7f31b5d9eb71320"
+  },
+  "pharmacology/books/text/lippincott/0030.txt": {
+    "mtime": 1794839131.865106,
+    "seen": 1795030114.709926,
+    "ast_hash": "13cb64b88ebcb040091ba05cc31552d8",
+    "semantic_hash": "13cb64b88ebcb040091ba05cc31552d8"
+  },
+  "pharmacology/books/text/lippincott/0031.txt": {
+    "mtime": 1794839131.895843,
+    "seen": 1795030114.7099268,
+    "ast_hash": "1ae93973d07234d4f624ba21003805d3",
+    "semantic_hash": "1ae93973d07234d4f624ba21003805d3"
+  },
+  "pharmacology/books/text/lippincott/0032.txt": {
+    "mtime": 1794839131.925255,
+    "seen": 1795030114.709928,
+    "ast_hash": "3674437610b77a622e836e0c7910ddee",
+    "semantic_hash": "3674437610b77a622e836e0c7910ddee"
+  },
+  "pharmacology/books/text/lippincott/0033.txt": {
+    "mtime": 1794839131.9429922,
+    "seen": 1795030114.709929,
+    "ast_hash": "2e80dd00bf114dc389e92e9263401400",
+    "semantic_hash": "2e80dd00bf114dc389e92e9263401400"
+  },
+  "pharmacology/books/text/lippincott/0034.txt": {
+    "mtime": 1794839132.0437002,
+    "seen": 1795030114.70993,
+    "ast_hash": "a0491f21b1148cc36de4124697d91bdd",
+    "semantic_hash": "a0491f21b1148cc36de4124697d91bdd"
+  },
+  "pharmacology/books/text/lippincott/0035.txt": {
+    "mtime": 1794839132.0607154,
+    "seen": 1795030114.709931,
+    "ast_hash": "e1891cfbc9e7d3b72aacdee356eb1311",
+    "semantic_hash": "e1891cfbc9e7d3b72aacdee356eb1311"
+  },
+  "pharmacology/books/text/lippincott/0036.txt": {
+    "mtime": 1794839132.088105,
+    "seen": 1795030114.709932,
+    "ast_hash": "1647cd61d430db51dd3b95300b94563a",
+    "semantic_hash": "1647cd61d430db51dd3b95300b94563a"
+  },
+  "pharmacology/books/text/lippincott/0037.txt": {
+    "mtime": 1794839132.1285203,
+    "seen": 1795030114.709934,
+    "ast_hash": "a8e536daf0438cbc0978cd8c654ce138",
+    "semantic_hash": "a8e536daf0438cbc0978cd8c654ce138"
+  },
+  "pharmacology/books/text/lippincott/0038.txt": {
+    "mtime": 1794839132.15126,
+    "seen": 1795030114.7099352,
+    "ast_hash": "0c6a81d420611c66566ff1db3d2742df",
+    "semantic_hash": "0c6a81d420611c66566ff1db3d2742df"
+  },
+  "pharmacology/books/text/lippincott/0039.txt": {
+    "mtime": 1794839132.1686728,
+    "seen": 1795030114.7099361,
+    "ast_hash": "1c11b81e9f3e2e5076a796ba2832f322",
+    "semantic_hash": "1c11b81e9f3e2e5076a796ba2832f322"
+  },
+  "pharmacology/books/text/lippincott/0040.txt": {
+    "mtime": 1794839132.225988,
+    "seen": 1795030114.7099369,
+    "ast_hash": "cc75ba47825125ca28fa2234712092ab",
+    "semantic_hash": "cc75ba47825125ca28fa2234712092ab"
+  },
+  "pharmacology/books/text/lippincott/0041.txt": {
+    "mtime": 1794839132.2407112,
+    "seen": 1795030114.7099378,
+    "ast_hash": "fe6f8b6bdc58788c3830b616ec16d4c5",
+    "semantic_hash": "fe6f8b6bdc58788c3830b616ec16d4c5"
+  },
+  "pharmacology/books/text/lippincott/0042.txt": {
+    "mtime": 1794839132.2647364,
+    "seen": 1795030114.709939,
+    "ast_hash": "0d26f2bf452b982a90c9d1828d51249d",
+    "semantic_hash": "0d26f2bf452b982a90c9d1828d51249d"
+  },
+  "pharmacology/books/text/lippincott/0043.txt": {
+    "mtime": 1794839132.2852647,
+    "seen": 1795030114.709941,
+    "ast_hash": "54c9c108be8b4ce24d7bce9c49ab5abc",
+    "semantic_hash": "54c9c108be8b4ce24d7bce9c49ab5abc"
+  },
+  "pharmacology/books/text/lippincott/0044.txt": {
+    "mtime": 1794839132.3048303,
+    "seen": 1795030114.709942,
+    "ast_hash": "ef4e62e436ba81005b074ba495ffae2a",
+    "semantic_hash": "ef4e62e436ba81005b074ba495ffae2a"
+  },
+  "pharmacology/books/text/lippincott/0045.txt": {
+    "mtime": 1794839132.3245533,
+    "seen": 1795030114.709943,
+    "ast_hash": "11f509113ddbcaba78f0b9cd917c9a18",
+    "semantic_hash": "11f509113ddbcaba78f0b9cd917c9a18"
+  },
+  "pharmacology/books/text/lippincott/0046.txt": {
+    "mtime": 1794839132.3437736,
+    "seen": 1795030114.709944,
+    "ast_hash": "95663d27e0839e0a0bd412d100af80bd",
+    "semantic_hash": "95663d27e0839e0a0bd412d100af80bd"
+  },
+  "pharmacology/books/text/lippincott/0047.txt": {
+    "mtime": 1794839132.3629625,
+    "seen": 1795030114.7099452,
+    "ast_hash": "ed1180132cf628201cf6f5e3d771a672",
+    "semantic_hash": "ed1180132cf628201cf6f5e3d771a672"
+  },
+  "pharmacology/books/text/lippincott/0048.txt": {
+    "mtime": 1794839132.3797534,
+    "seen": 1795030114.7099469,
+    "ast_hash": "3ee89bda45aa814f398e6270b40fbb4c",
+    "semantic_hash": "3ee89bda45aa814f398e6270b40fbb4c"
+  },
+  "pharmacology/books/text/lippincott/0049.txt": {
+    "mtime": 1794839132.40208,
+    "seen": 1795030114.7099478,
+    "ast_hash": "21b2e13486b98a9bad61b5cdff8ccfe9",
+    "semantic_hash": "21b2e13486b98a9bad61b5cdff8ccfe9"
+  },
+  "pharmacology/books/text/lippincott/0050.txt": {
+    "mtime": 1794839132.422891,
+    "seen": 1795030114.709949,
+    "ast_hash": "f94c7a67dbb4f10300efed0d8b71e2ee",
+    "semantic_hash": "f94c7a67dbb4f10300efed0d8b71e2ee"
+  },
+  "pharmacology/books/text/lippincott/0051.txt": {
+    "mtime": 1794839132.445513,
+    "seen": 1795030114.70995,
+    "ast_hash": "492012fadf55310efa617294cc5885ce",
+    "semantic_hash": "492012fadf55310efa617294cc5885ce"
+  },
+  "pharmacology/books/text/lippincott/0052.txt": {
+    "mtime": 1794839132.4620981,
+    "seen": 1795030114.709951,
+    "ast_hash": "a5150a2a1ded829d098621e019f5cfc4",
+    "semantic_hash": "a5150a2a1ded829d098621e019f5cfc4"
+  },
+  "pharmacology/books/text/lippincott/0054.txt": {
+    "mtime": 1794839132.4913232,
+    "seen": 1795030114.709952,
+    "ast_hash": "d7d2cad2bbd88ec0c43624361532382a",
+    "semantic_hash": "d7d2cad2bbd88ec0c43624361532382a"
+  },
+  "pharmacology/books/text/lippincott/0055.txt": {
+    "mtime": 1794839132.5055485,
+    "seen": 1795030114.709953,
+    "ast_hash": "017aaf49b95c1f4848921ac8a2ceb52e",
+    "semantic_hash": "017aaf49b95c1f4848921ac8a2ceb52e"
+  },
+  "pharmacology/books/text/lippincott/0056.txt": {
+    "mtime": 1794839132.5131319,
+    "seen": 1795030114.709954,
+    "ast_hash": "3413f4ce9144ca10d26a93e96c84a6dc",
+    "semantic_hash": "3413f4ce9144ca10d26a93e96c84a6dc"
+  },
+  "pharmacology/books/text/lippincott/0057.txt": {
+    "mtime": 1794839132.547716,
+    "seen": 1795030114.709955,
+    "ast_hash": "a86978883595eaf269c262556af380fe",
+    "semantic_hash": "a86978883595eaf269c262556af380fe"
+  },
+  "pharmacology/books/text/lippincott/0058.txt": {
+    "mtime": 1794839132.5675943,
+    "seen": 1795030114.7099571,
+    "ast_hash": "c01cc9c3ba9f9e3be8f1818e6eba0fd6",
+    "semantic_hash": "c01cc9c3ba9f9e3be8f1818e6eba0fd6"
+  },
+  "pharmacology/books/text/lippincott/0059.txt": {
+    "mtime": 1794839132.596932,
+    "seen": 1795030114.7099578,
+    "ast_hash": "a0b7f83f342b02b192ba97cd90910bed",
+    "semantic_hash": "a0b7f83f342b02b192ba97cd90910bed"
+  },
+  "pharmacology/books/text/lippincott/0060.txt": {
+    "mtime": 1794839132.6612132,
+    "seen": 1795030114.709959,
+    "ast_hash": "8dd01374174bb1cb4d868816109f326c",
+    "semantic_hash": "8dd01374174bb1cb4d868816109f326c"
+  },
+  "pharmacology/books/text/lippincott/0061.txt": {
+    "mtime": 1794839132.6985133,
+    "seen": 1795030114.70996,
+    "ast_hash": "a872132143790fd52ae05cabb44c4723",
+    "semantic_hash": "a872132143790fd52ae05cabb44c4723"
+  },
+  "pharmacology/books/text/lippincott/0062.txt": {
+    "mtime": 1794839132.7306564,
+    "seen": 1795030114.709961,
+    "ast_hash": "38635d34e33f40c763c302e958c64922",
+    "semantic_hash": "38635d34e33f40c763c302e958c64922"
+  },
+  "pharmacology/books/text/lippincott/0063.txt": {
+    "mtime": 1794839132.766561,
+    "seen": 1795030114.709962,
+    "ast_hash": "7cf699c00a744b3f84b49ab0f4525d2b",
+    "semantic_hash": "7cf699c00a744b3f84b49ab0f4525d2b"
+  },
+  "pharmacology/books/text/lippincott/0064.txt": {
+    "mtime": 1794839132.7980502,
+    "seen": 1795030114.709963,
+    "ast_hash": "ee35e018cbca37f288963e066d73a191",
+    "semantic_hash": "ee35e018cbca37f288963e066d73a191"
+  },
+  "pharmacology/books/text/lippincott/0065.txt": {
+    "mtime": 1794839132.8138921,
+    "seen": 1795030114.709964,
+    "ast_hash": "5629190ee92fd3741e56fecbae8b966d",
+    "semantic_hash": "5629190ee92fd3741e56fecbae8b966d"
+  },
+  "pharmacology/books/text/lippincott/0066.txt": {
+    "mtime": 1794839132.8430798,
+    "seen": 1795030114.709965,
+    "ast_hash": "339ec36332f8952555318d238a9807fa",
+    "semantic_hash": "339ec36332f8952555318d238a9807fa"
+  },
+  "pharmacology/books/text/lippincott/0067.txt": {
+    "mtime": 1794839132.8642097,
+    "seen": 1795030114.7099662,
+    "ast_hash": "12b2f39e426a89cd8cf1b911b904ab66",
+    "semantic_hash": "12b2f39e426a89cd8cf1b911b904ab66"
+  },
+  "pharmacology/books/text/lippincott/0068.txt": {
+    "mtime": 1794839132.8851254,
+    "seen": 1795030114.7099671,
+    "ast_hash": "f71df6deda97abc560990999fd1c71d7",
+    "semantic_hash": "f71df6deda97abc560990999fd1c71d7"
+  },
+  "pharmacology/books/text/lippincott/0069.txt": {
+    "mtime": 1794839132.9051855,
+    "seen": 1795030114.7099679,
+    "ast_hash": "7f999a2532fbf58402fb9fc146346ae4",
+    "semantic_hash": "7f999a2532fbf58402fb9fc146346ae4"
+  },
+  "pharmacology/books/text/lippincott/0070.txt": {
+    "mtime": 1794839132.9278746,
+    "seen": 1795030114.7099688,
+    "ast_hash": "166390e386457755c7f453457caaab3d",
+    "semantic_hash": "166390e386457755c7f453457caaab3d"
+  },
+  "pharmacology/books/text/lippincott/0071.txt": {
+    "mtime": 1794839132.944798,
+    "seen": 1795030114.709971,
+    "ast_hash": "4bdfea89d98ddd6dcbe571869046572f",
+    "semantic_hash": "4bdfea89d98ddd6dcbe571869046572f"
+  },
+  "pharmacology/books/text/lippincott/0072.txt": {
+    "mtime": 1794839132.9580863,
+    "seen": 1795030114.709972,
+    "ast_hash": "b412764e4d791d2843fd75d3174d539e",
+    "semantic_hash": "b412764e4d791d2843fd75d3174d539e"
+  },
+  "pharmacology/books/text/lippincott/0073.txt": {
+    "mtime": 1794839132.9753141,
+    "seen": 1795030114.709973,
+    "ast_hash": "601c42cd6144cb3a1310bf2783a124e9",
+    "semantic_hash": "601c42cd6144cb3a1310bf2783a124e9"
+  },
+  "pharmacology/books/text/lippincott/0074.txt": {
+    "mtime": 1794839132.9929698,
+    "seen": 1795030114.709974,
+    "ast_hash": "22516d12c9da60e22e7979569c59998a",
+    "semantic_hash": "22516d12c9da60e22e7979569c59998a"
+  },
+  "pharmacology/books/text/lippincott/0075.txt": {
+    "mtime": 1794839133.0125103,
+    "seen": 1795030114.709975,
+    "ast_hash": "00b27d10f762b99bf4f2b1d0673fc94d",
+    "semantic_hash": "00b27d10f762b99bf4f2b1d0673fc94d"
+  },
+  "pharmacology/books/text/lippincott/0076.txt": {
+    "mtime": 1794839133.0282426,
+    "seen": 1795030114.709976,
+    "ast_hash": "0d7d1a34c68d860a3793f60168c7ff92",
+    "semantic_hash": "0d7d1a34c68d860a3793f60168c7ff92"
+  },
+  "pharmacology/books/text/lippincott/0077.txt": {
+    "mtime": 1794839133.0460808,
+    "seen": 1795030114.7099771,
+    "ast_hash": "a0caa756261b78ca805c73314b21164f",
+    "semantic_hash": "a0caa756261b78ca805c73314b21164f"
+  },
+  "pharmacology/books/text/lippincott/0078.txt": {
+    "mtime": 1794839133.0723655,
+    "seen": 1795030114.709978,
+    "ast_hash": "090d13604aa709d7c41981c34e629d91",
+    "semantic_hash": "090d13604aa709d7c41981c34e629d91"
+  },
+  "pharmacology/books/text/lippincott/0079.txt": {
+    "mtime": 1794839133.0931554,
+    "seen": 1795030114.7099788,
+    "ast_hash": "7a2d5232b871e0ee6abe16dfb7637f51",
+    "semantic_hash": "7a2d5232b871e0ee6abe16dfb7637f51"
+  },
+  "pharmacology/books/text/lippincott/0080.txt": {
+    "mtime": 1794839133.1199954,
+    "seen": 1795030114.709981,
+    "ast_hash": "245a6b0d1d13cdccbc5d46b14ecb558e",
+    "semantic_hash": "245a6b0d1d13cdccbc5d46b14ecb558e"
+  },
+  "pharmacology/books/text/lippincott/0081.txt": {
+    "mtime": 1794839133.1351829,
+    "seen": 1795030114.709982,
+    "ast_hash": "2640c7f0ac20b858f9c05019a51c3210",
+    "semantic_hash": "2640c7f0ac20b858f9c05019a51c3210"
+  },
+  "pharmacology/books/text/lippincott/0082.txt": {
+    "mtime": 1794839133.1502776,
+    "seen": 1795030114.7099829,
+    "ast_hash": "40e450e6791136710332aca41a8ff14b",
+    "semantic_hash": "40e450e6791136710332aca41a8ff14b"
+  },
+  "pharmacology/books/text/lippincott/0083.txt": {
+    "mtime": 1794839133.1676664,
+    "seen": 1795030114.709984,
+    "ast_hash": "10878df4bbbdfb34c5e7df58c195d7aa",
+    "semantic_hash": "10878df4bbbdfb34c5e7df58c195d7aa"
+  },
+  "pharmacology/books/text/lippincott/0084.txt": {
+    "mtime": 1794839133.1818268,
+    "seen": 1795030114.709985,
+    "ast_hash": "b2e0f1da0aad136f0d1f31a35256a71b",
+    "semantic_hash": "b2e0f1da0aad136f0d1f31a35256a71b"
+  },
+  "pharmacology/books/text/lippincott/0085.txt": {
+    "mtime": 1794839133.196846,
+    "seen": 1795030114.7099872,
+    "ast_hash": "eee9bfaa8a9fe901ac4baef68ee39b76",
+    "semantic_hash": "eee9bfaa8a9fe901ac4baef68ee39b76"
+  },
+  "pharmacology/books/text/lippincott/0086.txt": {
+    "mtime": 1794839133.212164,
+    "seen": 1795030114.709988,
+    "ast_hash": "f131d1ce1b6b611ab3aae1c1076f5fb8",
+    "semantic_hash": "f131d1ce1b6b611ab3aae1c1076f5fb8"
+  },
+  "pharmacology/books/text/lippincott/0087.txt": {
+    "mtime": 1794839133.2251678,
+    "seen": 1795030114.7099898,
+    "ast_hash": "9dd67d2744c2c014e7b698865f504b1f",
+    "semantic_hash": "9dd67d2744c2c014e7b698865f504b1f"
+  },
+  "pharmacology/books/text/lippincott/0088.txt": {
+    "mtime": 1794839133.2397234,
+    "seen": 1795030114.709991,
+    "ast_hash": "9ae2e21d9736fe0c301423d734c11f7d",
+    "semantic_hash": "9ae2e21d9736fe0c301423d734c11f7d"
+  },
+  "pharmacology/books/text/lippincott/0090.txt": {
+    "mtime": 1794839133.2619298,
+    "seen": 1795030114.709992,
+    "ast_hash": "bc71122e344419e7574a2f5198e7eccc",
+    "semantic_hash": "bc71122e344419e7574a2f5198e7eccc"
+  },
+  "pharmacology/books/text/lippincott/0091.txt": {
+    "mtime": 1794839133.2767746,
+    "seen": 1795030114.709994,
+    "ast_hash": "801be922daf1de558752ebed5136590b",
+    "semantic_hash": "801be922daf1de558752ebed5136590b"
+  },
+  "pharmacology/books/text/lippincott/0092.txt": {
+    "mtime": 1794839133.2935224,
+    "seen": 1795030114.709995,
+    "ast_hash": "d48a9828167717668ee95f2b4c819471",
+    "semantic_hash": "d48a9828167717668ee95f2b4c819471"
+  },
+  "pharmacology/books/text/lippincott/0094.txt": {
+    "mtime": 1794839133.3252182,
+    "seen": 1795030114.709996,
+    "ast_hash": "bcc1d6b4ceb2c6a1f86a0844036c7cf1",
+    "semantic_hash": "bcc1d6b4ceb2c6a1f86a0844036c7cf1"
+  },
+  "pharmacology/books/text/lippincott/0095.txt": {
+    "mtime": 1794839133.3455157,
+    "seen": 1795030114.709997,
+    "ast_hash": "4fe22c5e8bbc374974b792ff93601e60",
+    "semantic_hash": "4fe22c5e8bbc374974b792ff93601e60"
+  },
+  "pharmacology/books/text/lippincott/0096.txt": {
+    "mtime": 1794839133.361115,
+    "seen": 1795030114.7099981,
+    "ast_hash": "2d4cf82fc3428294fd832c49bd34929b",
+    "semantic_hash": "2d4cf82fc3428294fd832c49bd34929b"
+  },
+  "pharmacology/books/text/lippincott/0097.txt": {
+    "mtime": 1794839133.3771098,
+    "seen": 1795030114.709999,
+    "ast_hash": "f8b9c6edb5828aad567bae160091df3c",
+    "semantic_hash": "f8b9c6edb5828aad567bae160091df3c"
+  },
+  "pharmacology/books/text/lippincott/0098.txt": {
+    "mtime": 1794839133.393034,
+    "seen": 1795030114.71,
+    "ast_hash": "fc392c94536004b7ae25ba807b33a3e8",
+    "semantic_hash": "fc392c94536004b7ae25ba807b33a3e8"
+  },
+  "pharmacology/books/text/lippincott/0099.txt": {
+    "mtime": 1794839133.41263,
+    "seen": 1795030114.710001,
+    "ast_hash": "9b5be5a8f4367ccfada45b602301cb71",
+    "semantic_hash": "9b5be5a8f4367ccfada45b602301cb71"
+  },
+  "pharmacology/books/text/lippincott/0100.txt": {
+    "mtime": 1794839133.4309537,
+    "seen": 1795030114.710002,
+    "ast_hash": "1f8b01119b50ad65b8717c117cd3e0b2",
+    "semantic_hash": "1f8b01119b50ad65b8717c117cd3e0b2"
+  },
+  "pharmacology/books/text/lippincott/0101.txt": {
+    "mtime": 1794839133.4466321,
+    "seen": 1795030114.7100039,
+    "ast_hash": "f12f0ead7b22fe732ab9a13c3ab0dc87",
+    "semantic_hash": "f12f0ead7b22fe732ab9a13c3ab0dc87"
+  },
+  "pharmacology/books/text/lippincott/0103.txt": {
+    "mtime": 1794839133.4666238,
+    "seen": 1795030114.710005,
+    "ast_hash": "26f0363fedad88b7e62a1ca7e362545d",
+    "semantic_hash": "26f0363fedad88b7e62a1ca7e362545d"
+  },
+  "pharmacology/books/text/lippincott/0104.txt": {
+    "mtime": 1794839133.48764,
+    "seen": 1795030114.710006,
+    "ast_hash": "d0a273f1c3a6412bd10d4ba4e9089cf1",
+    "semantic_hash": "d0a273f1c3a6412bd10d4ba4e9089cf1"
+  },
+  "pharmacology/books/text/lippincott/0106.txt": {
+    "mtime": 1794839133.538492,
+    "seen": 1795030114.710007,
+    "ast_hash": "4fc2ee008f6e909c35d51f3a8e909ebe",
+    "semantic_hash": "4fc2ee008f6e909c35d51f3a8e909ebe"
+  },
+  "pharmacology/books/text/lippincott/0107.txt": {
+    "mtime": 1794839133.5703697,
+    "seen": 1795030114.7100081,
+    "ast_hash": "0e4422ac3f77b673b14f7cdfcfb973fc",
+    "semantic_hash": "0e4422ac3f77b673b14f7cdfcfb973fc"
+  },
+  "pharmacology/books/text/lippincott/0108.txt": {
+    "mtime": 1794839133.5906155,
+    "seen": 1795030114.710009,
+    "ast_hash": "7a60ee89c843f551c1b30daaef3564cf",
+    "semantic_hash": "7a60ee89c843f551c1b30daaef3564cf"
+  },
+  "pharmacology/books/text/lippincott/0109.txt": {
+    "mtime": 1794839133.6067023,
+    "seen": 1795030114.71001,
+    "ast_hash": "0cd879aa2ea8db6f7b05bf3bae32b1bc",
+    "semantic_hash": "0cd879aa2ea8db6f7b05bf3bae32b1bc"
+  },
+  "pharmacology/books/text/lippincott/0110.txt": {
+    "mtime": 1794839133.6267605,
+    "seen": 1795030114.7100108,
+    "ast_hash": "70483c00048f9881617da56e3e6682b1",
+    "semantic_hash": "70483c00048f9881617da56e3e6682b1"
+  },
+  "pharmacology/books/text/lippincott/0111.txt": {
+    "mtime": 1794839133.6430879,
+    "seen": 1795030114.710012,
+    "ast_hash": "9dde7b07711f17c34fc4057c6ae999de",
+    "semantic_hash": "9dde7b07711f17c34fc4057c6ae999de"
+  },
+  "pharmacology/books/text/lippincott/0112.txt": {
+    "mtime": 1794839133.6975195,
+    "seen": 1795030114.710013,
+    "ast_hash": "5fe16b21a33981ccdc725e20b7a24677",
+    "semantic_hash": "5fe16b21a33981ccdc725e20b7a24677"
+  },
+  "pharmacology/books/text/lippincott/0117.txt": {
+    "mtime": 1794839133.764691,
+    "seen": 1795030114.710015,
+    "ast_hash": "c7f8af38dc7b0cb8eb6864ff14c26ffa",
+    "semantic_hash": "c7f8af38dc7b0cb8eb6864ff14c26ffa"
+  },
+  "pharmacology/books/text/lippincott/0118.txt": {
+    "mtime": 1794839133.7759972,
+    "seen": 1795030114.710016,
+    "ast_hash": "741a8a2fcd03eb254f1ffae655c6be53",
+    "semantic_hash": "741a8a2fcd03eb254f1ffae655c6be53"
+  },
+  "pharmacology/books/text/lippincott/0119.txt": {
+    "mtime": 1794839133.8006682,
+    "seen": 1795030114.710017,
+    "ast_hash": "83d4a866a8bc084d4600509a059bc934",
+    "semantic_hash": "83d4a866a8bc084d4600509a059bc934"
+  },
+  "pharmacology/books/text/lippincott/0120.txt": {
+    "mtime": 1794839133.8211474,
+    "seen": 1795030114.7100182,
+    "ast_hash": "d50383e34bde88263828343154215221",
+    "semantic_hash": "d50383e34bde88263828343154215221"
+  },
+  "pharmacology/books/text/lippincott/0121.txt": {
+    "mtime": 1794839133.846785,
+    "seen": 1795030114.710019,
+    "ast_hash": "2a14074d1be4aaf677a75bf18eff166c",
+    "semantic_hash": "2a14074d1be4aaf677a75bf18eff166c"
+  },
+  "pharmacology/books/text/lippincott/0122.txt": {
+    "mtime": 1794839133.870126,
+    "seen": 1795030114.71002,
+    "ast_hash": "8845bdb175d689f4d593eccfcc736d46",
+    "semantic_hash": "8845bdb175d689f4d593eccfcc736d46"
+  },
+  "pharmacology/books/text/lippincott/0123.txt": {
+    "mtime": 1794839133.889244,
+    "seen": 1795030114.710021,
+    "ast_hash": "a1feb418799cb7418c335896ccc81722",
+    "semantic_hash": "a1feb418799cb7418c335896ccc81722"
+  },
+  "pharmacology/books/text/lippincott/0124.txt": {
+    "mtime": 1794839133.905744,
+    "seen": 1795030114.710022,
+    "ast_hash": "133c2c8e56e61283c18a8f5378af4d9b",
+    "semantic_hash": "133c2c8e56e61283c18a8f5378af4d9b"
+  },
+  "pharmacology/books/text/lippincott/0125.txt": {
+    "mtime": 1794839133.9266675,
+    "seen": 1795030114.710023,
+    "ast_hash": "a72e986b51ec5164b4b2d12a53c643f3",
+    "semantic_hash": "a72e986b51ec5164b4b2d12a53c643f3"
+  },
+  "pharmacology/books/text/lippincott/0126.txt": {
+    "mtime": 1794839133.9415777,
+    "seen": 1795030114.710025,
+    "ast_hash": "50bf71fb64f2101b9d45ad29801cf57d",
+    "semantic_hash": "50bf71fb64f2101b9d45ad29801cf57d"
+  },
+  "pharmacology/books/text/lippincott/0127.txt": {
+    "mtime": 1794839133.9672334,
+    "seen": 1795030114.710026,
+    "ast_hash": "14c0bccbaed16625805a7429065bca06",
+    "semantic_hash": "14c0bccbaed16625805a7429065bca06"
+  },
+  "pharmacology/books/text/lippincott/0128.txt": {
+    "mtime": 1794839133.9928665,
+    "seen": 1795030114.710027,
+    "ast_hash": "0088d352f2673a9140acb1e43046097f",
+    "semantic_hash": "0088d352f2673a9140acb1e43046097f"
+  },
+  "pharmacology/books/text/lippincott/0129.txt": {
+    "mtime": 1794839134.009944,
+    "seen": 1795030114.710028,
+    "ast_hash": "ad2ed6f9a1f6285f88b054baa198a424",
+    "semantic_hash": "ad2ed6f9a1f6285f88b054baa198a424"
+  },
+  "pharmacology/books/text/lippincott/0133.txt": {
+    "mtime": 1794839134.0590634,
+    "seen": 1795030114.7100291,
+    "ast_hash": "a5e2da21762daad8ee54edac24aa7a2a",
+    "semantic_hash": "a5e2da21762daad8ee54edac24aa7a2a"
+  },
+  "pharmacology/books/text/lippincott/0134.txt": {
+    "mtime": 1794839134.0711427,
+    "seen": 1795030114.71003,
+    "ast_hash": "9a916e0ca288dbae1a5afccd92170226",
+    "semantic_hash": "9a916e0ca288dbae1a5afccd92170226"
+  },
+  "pharmacology/books/text/lippincott/0135.txt": {
+    "mtime": 1794839134.092951,
+    "seen": 1795030114.710031,
+    "ast_hash": "a9dbf3246f6c7d5fb5061c3a2fb3da4d",
+    "semantic_hash": "a9dbf3246f6c7d5fb5061c3a2fb3da4d"
+  },
+  "pharmacology/books/text/lippincott/0136.txt": {
+    "mtime": 1794839134.1100767,
+    "seen": 1795030114.710033,
+    "ast_hash": "169ade1c832d60f0d1cccb440773e3e6",
+    "semantic_hash": "169ade1c832d60f0d1cccb440773e3e6"
+  },
+  "pharmacology/books/text/lippincott/0137.txt": {
+    "mtime": 1794839134.1340413,
+    "seen": 1795030114.710034,
+    "ast_hash": "187a327b7ebf5beae92049109bffffac",
+    "semantic_hash": "187a327b7ebf5beae92049109bffffac"
+  },
+  "pharmacology/books/text/lippincott/0138.txt": {
+    "mtime": 1794839134.1530535,
+    "seen": 1795030114.7100348,
+    "ast_hash": "989b4eef260efe19a543b02b61c8d09f",
+    "semantic_hash": "989b4eef260efe19a543b02b61c8d09f"
+  },
+  "pharmacology/books/text/lippincott/0139.txt": {
+    "mtime": 1794839134.1747968,
+    "seen": 1795030114.710036,
+    "ast_hash": "e26d0f5a2f6170d1edcee6aa1b2e0c37",
+    "semantic_hash": "e26d0f5a2f6170d1edcee6aa1b2e0c37"
+  },
+  "pharmacology/books/text/lippincott/0140.txt": {
+    "mtime": 1794839134.2023742,
+    "seen": 1795030114.710037,
+    "ast_hash": "3e617f02df1b1bc14079c7b164ff4993",
+    "semantic_hash": "3e617f02df1b1bc14079c7b164ff4993"
+  },
+  "pharmacology/books/text/lippincott/0141.txt": {
+    "mtime": 1794839134.2296486,
+    "seen": 1795030114.710038,
+    "ast_hash": "1cdd2bd99ea1b51a853fbca09c991724",
+    "semantic_hash": "1cdd2bd99ea1b51a853fbca09c991724"
+  },
+  "pharmacology/books/text/lippincott/0142.txt": {
+    "mtime": 1794839134.2495635,
+    "seen": 1795030114.71004,
+    "ast_hash": "37d5368beb64e87c86ccde845c87a995",
+    "semantic_hash": "37d5368beb64e87c86ccde845c87a995"
+  },
+  "pharmacology/books/text/lippincott/0143.txt": {
+    "mtime": 1794839134.2724898,
+    "seen": 1795030114.710041,
+    "ast_hash": "0f81d92ab9634576b7689c7a47b49da0",
+    "semantic_hash": "0f81d92ab9634576b7689c7a47b49da0"
+  },
+  "pharmacology/books/text/lippincott/0144.txt": {
+    "mtime": 1794839134.290519,
+    "seen": 1795030114.710042,
+    "ast_hash": "588d955898527ebb11f7bccc8b76333e",
+    "semantic_hash": "588d955898527ebb11f7bccc8b76333e"
+  },
+  "pharmacology/books/text/lippincott/0147.txt": {
+    "mtime": 1794839134.3222578,
+    "seen": 1795030114.710043,
+    "ast_hash": "330ad872bdedac2c52c511255ecd9587",
+    "semantic_hash": "330ad872bdedac2c52c511255ecd9587"
+  },
+  "pharmacology/books/text/lippincott/0148.txt": {
+    "mtime": 1794839134.3424602,
+    "seen": 1795030114.710044,
+    "ast_hash": "c7c83173e06d3964f5f1ffdab36107a7",
+    "semantic_hash": "c7c83173e06d3964f5f1ffdab36107a7"
+  },
+  "pharmacology/books/text/lippincott/0149.txt": {
+    "mtime": 1794839134.374467,
+    "seen": 1795030114.7100449,
+    "ast_hash": "5f6603d00a693de7d62f65a26e326314",
+    "semantic_hash": "5f6603d00a693de7d62f65a26e326314"
+  },
+  "pharmacology/books/text/lippincott/0150.txt": {
+    "mtime": 1794839134.3951652,
+    "seen": 1795030114.710046,
+    "ast_hash": "d62e34f863f8b6a2b8228825ddf99dee",
+    "semantic_hash": "d62e34f863f8b6a2b8228825ddf99dee"
+  },
+  "pharmacology/books/text/lippincott/0151.txt": {
+    "mtime": 1794839134.4285266,
+    "seen": 1795030114.710048,
+    "ast_hash": "589bc0099c4e6f4a495bc8a63162a78d",
+    "semantic_hash": "589bc0099c4e6f4a495bc8a63162a78d"
+  },
+  "pharmacology/books/text/lippincott/0152.txt": {
+    "mtime": 1794839134.456034,
+    "seen": 1795030114.710049,
+    "ast_hash": "c353a45312443771b11fa36c5958762a",
+    "semantic_hash": "c353a45312443771b11fa36c5958762a"
+  },
+  "pharmacology/books/text/lippincott/0153.txt": {
+    "mtime": 1794839134.4866912,
+    "seen": 1795030114.71005,
+    "ast_hash": "c69c6a3cf05ab19f72b4cb18c4c064bc",
+    "semantic_hash": "c69c6a3cf05ab19f72b4cb18c4c064bc"
+  },
+  "pharmacology/books/text/lippincott/0154.txt": {
+    "mtime": 1794839134.5155523,
+    "seen": 1795030114.710051,
+    "ast_hash": "1b160a1a2d5593bd5ec04211334e0aa7",
+    "semantic_hash": "1b160a1a2d5593bd5ec04211334e0aa7"
+  },
+  "pharmacology/books/text/lippincott/0155.txt": {
+    "mtime": 1794839134.5425987,
+    "seen": 1795030114.7100532,
+    "ast_hash": "8f2a7d1c6888ca57614aa6f848aaa538",
+    "semantic_hash": "8f2a7d1c6888ca57614aa6f848aaa538"
+  },
+  "pharmacology/books/text/lippincott/0156.txt": {
+    "mtime": 1794839134.5729418,
+    "seen": 1795030114.710054,
+    "ast_hash": "86215cd62d48d6053022174ad39b2c1f",
+    "semantic_hash": "86215cd62d48d6053022174ad39b2c1f"
+  },
+  "pharmacology/books/text/lippincott/0157.txt": {
+    "mtime": 1794839134.5998073,
+    "seen": 1795030114.7100549,
+    "ast_hash": "32da09da6ffc5e82c487b7780341d006",
+    "semantic_hash": "32da09da6ffc5e82c487b7780341d006"
+  },
+  "pharmacology/books/text/lippincott/0158.txt": {
+    "mtime": 1794839134.6391947,
+    "seen": 1795030114.7100558,
+    "ast_hash": "495ee89db6935e912f473f486b495166",
+    "semantic_hash": "495ee89db6935e912f473f486b495166"
+  },
+  "pharmacology/books/text/lippincott/0159.txt": {
+    "mtime": 1794839134.6717196,
+    "seen": 1795030114.710057,
+    "ast_hash": "c52797404f701154c72579886c691d34",
+    "semantic_hash": "c52797404f701154c72579886c691d34"
+  },
+  "pharmacology/books/text/lippincott/0160.txt": {
+    "mtime": 1794839134.6862497,
+    "seen": 1795030114.710058,
+    "ast_hash": "c0a6d47bc1960eb25e1aa29232cd54b7",
+    "semantic_hash": "c0a6d47bc1960eb25e1aa29232cd54b7"
+  },
+  "pharmacology/books/text/lippincott/0161.txt": {
+    "mtime": 1794839134.7078424,
+    "seen": 1795030114.710059,
+    "ast_hash": "5593dc585d4a1becf9e65951239c0971",
+    "semantic_hash": "5593dc585d4a1becf9e65951239c0971"
+  },
+  "pharmacology/books/text/lippincott/0162.txt": {
+    "mtime": 1794839134.7161212,
+    "seen": 1795030114.710061,
+    "ast_hash": "d1ac695d56f24617987eafdfd76cc66b",
+    "semantic_hash": "d1ac695d56f24617987eafdfd76cc66b"
+  },
+  "pharmacology/books/text/lippincott/0163.txt": {
+    "mtime": 1794839134.7323756,
+    "seen": 1795030114.710062,
+    "ast_hash": "e9628d68f49426cc98111aeb9f95e8c6",
+    "semantic_hash": "e9628d68f49426cc98111aeb9f95e8c6"
+  },
+  "pharmacology/books/text/lippincott/0167.txt": {
+    "mtime": 1794839134.8046172,
+    "seen": 1795030114.7100632,
+    "ast_hash": "a53749c88b451e71280f163381f93524",
+    "semantic_hash": "a53749c88b451e71280f163381f93524"
+  },
+  "pharmacology/books/text/lippincott/0168.txt": {
+    "mtime": 1794839134.8300877,
+    "seen": 1795030114.7100642,
+    "ast_hash": "5a651c302dbe6a276a4a9a12d1052040",
+    "semantic_hash": "5a651c302dbe6a276a4a9a12d1052040"
+  },
+  "pharmacology/books/text/lippincott/0169.txt": {
+    "mtime": 1794839134.8519313,
+    "seen": 1795030114.710065,
+    "ast_hash": "c528ff65be10eef4e49bb9709faf0319",
+    "semantic_hash": "c528ff65be10eef4e49bb9709faf0319"
+  },
+  "pharmacology/books/text/lippincott/0170.txt": {
+    "mtime": 1794839134.8712118,
+    "seen": 1795030114.7100658,
+    "ast_hash": "bd42a466693d1230d3726ec870ab9ff2",
+    "semantic_hash": "bd42a466693d1230d3726ec870ab9ff2"
+  },
+  "pharmacology/books/text/lippincott/0171.txt": {
+    "mtime": 1794839134.9050252,
+    "seen": 1795030114.710067,
+    "ast_hash": "ceb0f916a0312b9341c18321352f715d",
+    "semantic_hash": "ceb0f916a0312b9341c18321352f715d"
+  },
+  "pharmacology/books/text/lippincott/0172.txt": {
+    "mtime": 1794839134.9282887,
+    "seen": 1795030114.710068,
+    "ast_hash": "5892712a56469dc55f2e10c3147541aa",
+    "semantic_hash": "5892712a56469dc55f2e10c3147541aa"
+  },
+  "pharmacology/books/text/lippincott/0173.txt": {
+    "mtime": 1794839134.9442668,
+    "seen": 1795030114.710069,
+    "ast_hash": "9816930bce92c5ab2b1df453a1c5cd8d",
+    "semantic_hash": "9816930bce92c5ab2b1df453a1c5cd8d"
+  },
+  "pharmacology/books/text/lippincott/0174.txt": {
+    "mtime": 1794839134.9641433,
+    "seen": 1795030114.7100701,
+    "ast_hash": "34a944f9949f62fdb67a37358bf325ea",
+    "semantic_hash": "34a944f9949f62fdb67a37358bf325ea"
+  },
+  "pharmacology/books/text/lippincott/0175.txt": {
+    "mtime": 1794839135.0185618,
+    "seen": 1795030114.710071,
+    "ast_hash": "2895a94f4c8776e56424169fddf8a2b7",
+    "semantic_hash": "2895a94f4c8776e56424169fddf8a2b7"
+  },
+  "pharmacology/books/text/lippincott/0176.txt": {
+    "mtime": 1794839135.0304396,
+    "seen": 1795030114.710073,
+    "ast_hash": "8ae2fd7cc1fc0175dff997ba72268338",
+    "semantic_hash": "8ae2fd7cc1fc0175dff997ba72268338"
+  },
+  "pharmacology/books/text/lippincott/0177.txt": {
+    "mtime": 1794839135.0487516,
+    "seen": 1795030114.7100742,
+    "ast_hash": "bb25c8bf4c621cfe9ec5689bfa1b9fd1",
+    "semantic_hash": "bb25c8bf4c621cfe9ec5689bfa1b9fd1"
+  },
+  "pharmacology/books/text/lippincott/0178.txt": {
+    "mtime": 1794839135.0697572,
+    "seen": 1795030114.710075,
+    "ast_hash": "624749ed8f82ec5cff91c25be510588e",
+    "semantic_hash": "624749ed8f82ec5cff91c25be510588e"
+  },
+  "pharmacology/books/text/lippincott/0181.txt": {
+    "mtime": 1794839135.0960767,
+    "seen": 1795030114.7100759,
+    "ast_hash": "e7b42214de668f1edcfcde8e56a124a4",
+    "semantic_hash": "e7b42214de668f1edcfcde8e56a124a4"
+  },
+  "pharmacology/books/text/lippincott/0182.txt": {
+    "mtime": 1794839135.1190512,
+    "seen": 1795030114.7100768,
+    "ast_hash": "c5860697673466e543f9810118874e74",
+    "semantic_hash": "c5860697673466e543f9810118874e74"
+  },
+  "pharmacology/books/text/lippincott/0183.txt": {
+    "mtime": 1794839135.1526916,
+    "seen": 1795030114.710078,
+    "ast_hash": "b178ad449c05b858d8a2b1a201f85dc6",
+    "semantic_hash": "b178ad449c05b858d8a2b1a201f85dc6"
+  },
+  "pharmacology/books/text/lippincott/0184.txt": {
+    "mtime": 1794839135.1801903,
+    "seen": 1795030114.710079,
+    "ast_hash": "9df332966c7bcf85adcd7ff1fd622fce",
+    "semantic_hash": "9df332966c7bcf85adcd7ff1fd622fce"
+  },
+  "pharmacology/books/text/lippincott/0185.txt": {
+    "mtime": 1794839135.207325,
+    "seen": 1795030114.710081,
+    "ast_hash": "133029a4bb2bb398bd9d549f69708f56",
+    "semantic_hash": "133029a4bb2bb398bd9d549f69708f56"
+  },
+  "pharmacology/books/text/lippincott/0186.txt": {
+    "mtime": 1794839135.2294722,
+    "seen": 1795030114.710082,
+    "ast_hash": "70684c1338ef0945655faa5c5a4d3f69",
+    "semantic_hash": "70684c1338ef0945655faa5c5a4d3f69"
+  },
+  "pharmacology/books/text/lippincott/0187.txt": {
+    "mtime": 1794839135.2527156,
+    "seen": 1795030114.710083,
+    "ast_hash": "42980844cf0d7572285951436e601e3a",
+    "semantic_hash": "42980844cf0d7572285951436e601e3a"
+  },
+  "pharmacology/books/text/lippincott/0188.txt": {
+    "mtime": 1794839135.274606,
+    "seen": 1795030114.7100842,
+    "ast_hash": "b7b63dc140d5b5445a98a767fc5f915a",
+    "semantic_hash": "b7b63dc140d5b5445a98a767fc5f915a"
+  },
+  "pharmacology/books/text/lippincott/0189.txt": {
+    "mtime": 1794839135.298064,
+    "seen": 1795030114.7100852,
+    "ast_hash": "911aedc5e01e28b18b7df43e3ab16347",
+    "semantic_hash": "911aedc5e01e28b18b7df43e3ab16347"
+  },
+  "pharmacology/books/text/lippincott/0190.txt": {
+    "mtime": 1794839135.3202863,
+    "seen": 1795030114.710088,
+    "ast_hash": "dfb1be3f6d866174a183514d1bead41e",
+    "semantic_hash": "dfb1be3f6d866174a183514d1bead41e"
+  },
+  "pharmacology/books/text/lippincott/0191.txt": {
+    "mtime": 1794839135.3466446,
+    "seen": 1795030114.710089,
+    "ast_hash": "9403f6bb64e60337ac19c8e88998a0df",
+    "semantic_hash": "9403f6bb64e60337ac19c8e88998a0df"
+  },
+  "pharmacology/books/text/lippincott/0192.txt": {
+    "mtime": 1794839135.3661907,
+    "seen": 1795030114.71009,
+    "ast_hash": "b7e5d53cdb3b69fa951e003b57393dd0",
+    "semantic_hash": "b7e5d53cdb3b69fa951e003b57393dd0"
+  },
+  "pharmacology/books/text/lippincott/0193.txt": {
+    "mtime": 1794839135.3818667,
+    "seen": 1795030114.710091,
+    "ast_hash": "1a855835d684dadee825ecd7da8a1207",
+    "semantic_hash": "1a855835d684dadee825ecd7da8a1207"
+  },
+  "pharmacology/books/text/lippincott/0194.txt": {
+    "mtime": 1794839135.3978412,
+    "seen": 1795030114.710092,
+    "ast_hash": "333caecc2747ddad4fe65f3449b2ca4a",
+    "semantic_hash": "333caecc2747ddad4fe65f3449b2ca4a"
+  },
+  "pharmacology/books/text/lippincott/0197.txt": {
+    "mtime": 1794839135.4286165,
+    "seen": 1795030114.710093,
+    "ast_hash": "9372822de286241136e4e7127a5988e9",
+    "semantic_hash": "9372822de286241136e4e7127a5988e9"
+  },
+  "pharmacology/books/text/lippincott/0198.txt": {
+    "mtime": 1794839135.4520597,
+    "seen": 1795030114.710094,
+    "ast_hash": "80743effe8767701dc2d2e551fee6eb3",
+    "semantic_hash": "80743effe8767701dc2d2e551fee6eb3"
+  },
+  "pharmacology/books/text/lippincott/0199.txt": {
+    "mtime": 1794839135.506758,
+    "seen": 1795030114.7100952,
+    "ast_hash": "c34e32d5bcfb35a9ee3fa8958204e78a",
+    "semantic_hash": "c34e32d5bcfb35a9ee3fa8958204e78a"
+  },
+  "pharmacology/books/text/lippincott/0200.txt": {
+    "mtime": 1794839135.5235577,
+    "seen": 1795030114.7100968,
+    "ast_hash": "b68dadea691bd331e2b141f0385aa3c4",
+    "semantic_hash": "b68dadea691bd331e2b141f0385aa3c4"
+  },
+  "pharmacology/books/text/lippincott/0201.txt": {
+    "mtime": 1794839135.5377462,
+    "seen": 1795030114.710098,
+    "ast_hash": "3628564376528aeca04ca01c2c52b93e",
+    "semantic_hash": "3628564376528aeca04ca01c2c52b93e"
+  },
+  "pharmacology/books/text/lippincott/0202.txt": {
+    "mtime": 1794839135.5640953,
+    "seen": 1795030114.710099,
+    "ast_hash": "7d5f082e8e9be8ef7ad49b32a847a843",
+    "semantic_hash": "7d5f082e8e9be8ef7ad49b32a847a843"
+  },
+  "pharmacology/books/text/lippincott/0203.txt": {
+    "mtime": 1794839135.5800571,
+    "seen": 1795030114.7101,
+    "ast_hash": "88589aa69987fae3c3845d99d51d34fb",
+    "semantic_hash": "88589aa69987fae3c3845d99d51d34fb"
+  },
+  "pharmacology/books/text/lippincott/0204.txt": {
+    "mtime": 1794839135.5945792,
+    "seen": 1795030114.710101,
+    "ast_hash": "cbc00b37b0de62fa01b7ea66ae547466",
+    "semantic_hash": "cbc00b37b0de62fa01b7ea66ae547466"
+  },
+  "pharmacology/books/text/lippincott/0205.txt": {
+    "mtime": 1794839135.648343,
+    "seen": 1795030114.710103,
+    "ast_hash": "48edcfe5cc452c5ca2ae8c2badf76f73",
+    "semantic_hash": "48edcfe5cc452c5ca2ae8c2badf76f73"
+  },
+  "pharmacology/books/text/lippincott/0206.txt": {
+    "mtime": 1794839135.704206,
+    "seen": 1795030114.710104,
+    "ast_hash": "5454b44fd95258300655e3c3c0fbf41b",
+    "semantic_hash": "5454b44fd95258300655e3c3c0fbf41b"
+  },
+  "pharmacology/books/text/lippincott/0207.txt": {
+    "mtime": 1794839135.7299092,
+    "seen": 1795030114.7101052,
+    "ast_hash": "ff45c9398c4176fded74cda8be3dc528",
+    "semantic_hash": "ff45c9398c4176fded74cda8be3dc528"
+  },
+  "pharmacology/books/text/lippincott/0208.txt": {
+    "mtime": 1794839135.7477696,
+    "seen": 1795030114.7101061,
+    "ast_hash": "dadf0e4990c671ba61b03b0fde79cf60",
+    "semantic_hash": "dadf0e4990c671ba61b03b0fde79cf60"
+  },
+  "pharmacology/books/text/lippincott/0213.txt": {
+    "mtime": 1794839135.8355596,
+    "seen": 1795030114.7101078,
+    "ast_hash": "fcdd17973dbc4d7aa2ca75fe623ac550",
+    "semantic_hash": "fcdd17973dbc4d7aa2ca75fe623ac550"
+  },
+  "pharmacology/books/text/lippincott/0214.txt": {
+    "mtime": 1794839135.8506155,
+    "seen": 1795030114.710109,
+    "ast_hash": "add91f283b900cc375a6daf9837aed5d",
+    "semantic_hash": "add91f283b900cc375a6daf9837aed5d"
+  },
+  "pharmacology/books/text/lippincott/0215.txt": {
+    "mtime": 1794839135.8619912,
+    "seen": 1795030114.71011,
+    "ast_hash": "6f4d213bdea0ab8293ee15305f5c3d9d",
+    "semantic_hash": "6f4d213bdea0ab8293ee15305f5c3d9d"
+  },
+  "pharmacology/books/text/lippincott/0216.txt": {
+    "mtime": 1794839135.8822293,
+    "seen": 1795030114.710111,
+    "ast_hash": "512d8ba071f132181ed066a2cd89e704",
+    "semantic_hash": "512d8ba071f132181ed066a2cd89e704"
+  },
+  "pharmacology/books/text/lippincott/0217.txt": {
+    "mtime": 1794839135.9025085,
+    "seen": 1795030114.710112,
+    "ast_hash": "1735d9ea159d6440461cb02d9883bf31",
+    "semantic_hash": "1735d9ea159d6440461cb02d9883bf31"
+  },
+  "pharmacology/books/text/lippincott/0218.txt": {
+    "mtime": 1794839135.921945,
+    "seen": 1795030114.710114,
+    "ast_hash": "6d82244691f04dbb82c7ecd127ea94ca",
+    "semantic_hash": "6d82244691f04dbb82c7ecd127ea94ca"
+  },
+  "pharmacology/books/text/lippincott/0219.txt": {
+    "mtime": 1794839135.9374053,
+    "seen": 1795030114.710115,
+    "ast_hash": "5e28ef0f024c68c0b41f6d818fb4fcab",
+    "semantic_hash": "5e28ef0f024c68c0b41f6d818fb4fcab"
+  },
+  "pharmacology/books/text/lippincott/0220.txt": {
+    "mtime": 1794839135.9728558,
+    "seen": 1795030114.7101161,
+    "ast_hash": "3da27c3f880f18744024ff921731f4a8",
+    "semantic_hash": "3da27c3f880f18744024ff921731f4a8"
+  },
+  "pharmacology/books/text/lippincott/0221.txt": {
+    "mtime": 1794839135.9918332,
+    "seen": 1795030114.710117,
+    "ast_hash": "b72091d90340fb11bf259eb0cce61630",
+    "semantic_hash": "b72091d90340fb11bf259eb0cce61630"
+  },
+  "pharmacology/books/text/lippincott/0222.txt": {
+    "mtime": 1794839136.0249238,
+    "seen": 1795030114.7101178,
+    "ast_hash": "4d548b02e1dad644522f788bf734cd8e",
+    "semantic_hash": "4d548b02e1dad644522f788bf734cd8e"
+  },
+  "pharmacology/books/text/lippincott/0224.txt": {
+    "mtime": 1794839136.0523598,
+    "seen": 1795030114.71012,
+    "ast_hash": "2bb88bc9cba8bbb1441d3dfc33bdde3e",
+    "semantic_hash": "2bb88bc9cba8bbb1441d3dfc33bdde3e"
+  },
+  "pharmacology/books/text/lippincott/0225.txt": {
+    "mtime": 1794839136.0676985,
+    "seen": 1795030114.710121,
+    "ast_hash": "20e32f7aeb7bddc913898ccc195cc691",
+    "semantic_hash": "20e32f7aeb7bddc913898ccc195cc691"
+  },
+  "pharmacology/books/text/lippincott/0226.txt": {
+    "mtime": 1794839136.082856,
+    "seen": 1795030114.7101219,
+    "ast_hash": "c201b0906fd240731c138919c0b82489",
+    "semantic_hash": "c201b0906fd240731c138919c0b82489"
+  },
+  "pharmacology/books/text/lippincott/0227.txt": {
+    "mtime": 1794839136.1038744,
+    "seen": 1795030114.710123,
+    "ast_hash": "b7fe15e388d7d85969613180fcf4f6cd",
+    "semantic_hash": "b7fe15e388d7d85969613180fcf4f6cd"
+  },
+  "pharmacology/books/text/lippincott/0228.txt": {
+    "mtime": 1794839136.1249998,
+    "seen": 1795030114.710124,
+    "ast_hash": "5cf3657e79f9453e0022b78a7bfb30fa",
+    "semantic_hash": "5cf3657e79f9453e0022b78a7bfb30fa"
+  },
+  "pharmacology/books/text/lippincott/0229.txt": {
+    "mtime": 1794839136.14708,
+    "seen": 1795030114.710125,
+    "ast_hash": "abe0bfd1f0e55a181587a28abd61838b",
+    "semantic_hash": "abe0bfd1f0e55a181587a28abd61838b"
+  },
+  "pharmacology/books/text/lippincott/0230.txt": {
+    "mtime": 1794839136.1700082,
+    "seen": 1795030114.710127,
+    "ast_hash": "79cf9eaf4a9a4dbb2bd581e327edead1",
+    "semantic_hash": "79cf9eaf4a9a4dbb2bd581e327edead1"
+  },
+  "pharmacology/books/text/lippincott/0231.txt": {
+    "mtime": 1794839136.1879716,
+    "seen": 1795030114.710128,
+    "ast_hash": "369bf43b370fdb853b61986407752544",
+    "semantic_hash": "369bf43b370fdb853b61986407752544"
+  },
+  "pharmacology/books/text/lippincott/0232.txt": {
+    "mtime": 1794839136.2054508,
+    "seen": 1795030114.7101288,
+    "ast_hash": "6ec9279b97ebaef2b1860f328dd1e8e9",
+    "semantic_hash": "6ec9279b97ebaef2b1860f328dd1e8e9"
+  },
+  "pharmacology/books/text/lippincott/0233.txt": {
+    "mtime": 1794839136.2173405,
+    "seen": 1795030114.71013,
+    "ast_hash": "bf3e0887bbd9b902fee39716691e9dbc",
+    "semantic_hash": "bf3e0887bbd9b902fee39716691e9dbc"
+  },
+  "pharmacology/books/text/lippincott/0234.txt": {
+    "mtime": 1794839136.2272558,
+    "seen": 1795030114.710131,
+    "ast_hash": "abf377b7e1fbb232729f0c8e157ff301",
+    "semantic_hash": "abf377b7e1fbb232729f0c8e157ff301"
+  },
+  "pharmacology/books/text/lippincott/0235.txt": {
+    "mtime": 1794839136.243682,
+    "seen": 1795030114.710132,
+    "ast_hash": "87dc62603c2be380d4b8f0a1e28c0f37",
+    "semantic_hash": "87dc62603c2be380d4b8f0a1e28c0f37"
+  },
+  "pharmacology/books/text/lippincott/0239.txt": {
+    "mtime": 1794839136.2988398,
+    "seen": 1795030114.710133,
+    "ast_hash": "37315e9535f40a20ceba9e29eb162b75",
+    "semantic_hash": "37315e9535f40a20ceba9e29eb162b75"
+  },
+  "pharmacology/books/text/lippincott/0240.txt": {
+    "mtime": 1794839136.3181384,
+    "seen": 1795030114.710134,
+    "ast_hash": "9d33c5cb48eb13a1087088f6e5119ed0",
+    "semantic_hash": "9d33c5cb48eb13a1087088f6e5119ed0"
+  },
+  "pharmacology/books/text/lippincott/0241.txt": {
+    "mtime": 1794839136.3377213,
+    "seen": 1795030114.7101362,
+    "ast_hash": "cab2ab13aa703402f1d37084a9a35c88",
+    "semantic_hash": "cab2ab13aa703402f1d37084a9a35c88"
+  },
+  "pharmacology/books/text/lippincott/0242.txt": {
+    "mtime": 1794839136.3643758,
+    "seen": 1795030114.7101371,
+    "ast_hash": "0d608b125fcbdefdd691080b8a9f3f9d",
+    "semantic_hash": "0d608b125fcbdefdd691080b8a9f3f9d"
+  },
+  "pharmacology/books/text/lippincott/0244.txt": {
+    "mtime": 1794839136.4080155,
+    "seen": 1795030114.710138,
+    "ast_hash": "434c8cf080829ba54fa057d0c5ec0645",
+    "semantic_hash": "434c8cf080829ba54fa057d0c5ec0645"
+  },
+  "pharmacology/books/text/lippincott/0245.txt": {
+    "mtime": 1794839136.4220562,
+    "seen": 1795030114.7101388,
+    "ast_hash": "797a2fabe4e6784553a127b410b25073",
+    "semantic_hash": "797a2fabe4e6784553a127b410b25073"
+  },
+  "pharmacology/books/text/lippincott/0246.txt": {
+    "mtime": 1794839136.4502697,
+    "seen": 1795030114.71014,
+    "ast_hash": "eb953f7c125648264416cb55d21caa3d",
+    "semantic_hash": "eb953f7c125648264416cb55d21caa3d"
+  },
+  "pharmacology/books/text/lippincott/0247.txt": {
+    "mtime": 1794839136.4710715,
+    "seen": 1795030114.710141,
+    "ast_hash": "df1419c5e4c1863c69662f55be4fcbec",
+    "semantic_hash": "df1419c5e4c1863c69662f55be4fcbec"
+  },
+  "pharmacology/books/text/lippincott/0248.txt": {
+    "mtime": 1794839136.4883103,
+    "seen": 1795030114.710142,
+    "ast_hash": "1acbfe62b2680fcf55bde62089a9328d",
+    "semantic_hash": "1acbfe62b2680fcf55bde62089a9328d"
+  },
+  "pharmacology/books/text/lippincott/0249.txt": {
+    "mtime": 1794839136.5110593,
+    "seen": 1795030114.710143,
+    "ast_hash": "28259cbc4e1dad22e6896163f26a658e",
+    "semantic_hash": "28259cbc4e1dad22e6896163f26a658e"
+  },
+  "pharmacology/books/text/lippincott/0250.txt": {
+    "mtime": 1794839136.5263822,
+    "seen": 1795030114.710144,
+    "ast_hash": "f85bb9e5cee0c51b10e73f6544cb0913",
+    "semantic_hash": "f85bb9e5cee0c51b10e73f6544cb0913"
+  },
+  "pharmacology/books/text/lippincott/0251.txt": {
+    "mtime": 1794839136.5438511,
+    "seen": 1795030114.710145,
+    "ast_hash": "c9ea827d076836b5bc4e7ad0e2eb5927",
+    "semantic_hash": "c9ea827d076836b5bc4e7ad0e2eb5927"
+  },
+  "pharmacology/books/text/lippincott/0252.txt": {
+    "mtime": 1794839136.5685227,
+    "seen": 1795030114.7101471,
+    "ast_hash": "a841ff078ef19ef36dbe0b27887777d9",
+    "semantic_hash": "a841ff078ef19ef36dbe0b27887777d9"
+  },
+  "pharmacology/books/text/lippincott/0253.txt": {
+    "mtime": 1794839136.5872886,
+    "seen": 1795030114.710148,
+    "ast_hash": "68f2e3fb64f2c443e393dccc7ddc5370",
+    "semantic_hash": "68f2e3fb64f2c443e393dccc7ddc5370"
+  },
+  "pharmacology/books/text/lippincott/0254.txt": {
+    "mtime": 1794839136.6035416,
+    "seen": 1795030114.710149,
+    "ast_hash": "e789b87d6d0922e4e1da31938e4435cc",
+    "semantic_hash": "e789b87d6d0922e4e1da31938e4435cc"
+  },
+  "pharmacology/books/text/lippincott/0255.txt": {
+    "mtime": 1794839136.6218207,
+    "seen": 1795030114.71015,
+    "ast_hash": "4b14640bdecb67d15988db005a59bcd2",
+    "semantic_hash": "4b14640bdecb67d15988db005a59bcd2"
+  },
+  "pharmacology/books/text/lippincott/0256.txt": {
+    "mtime": 1794839136.627626,
+    "seen": 1795030114.710151,
+    "ast_hash": "da2eb7ba2accb7720401a003c8d36279",
+    "semantic_hash": "da2eb7ba2accb7720401a003c8d36279"
+  },
+  "pharmacology/books/text/lippincott/0257.txt": {
+    "mtime": 1794839136.6463852,
+    "seen": 1795030114.710152,
+    "ast_hash": "b59e81f49794db5427503da725346785",
+    "semantic_hash": "b59e81f49794db5427503da725346785"
+  },
+  "pharmacology/books/text/lippincott/0258.txt": {
+    "mtime": 1794839136.6587021,
+    "seen": 1795030114.7101529,
+    "ast_hash": "a8a8a9ef0061def19fe6da911d10a443",
+    "semantic_hash": "a8a8a9ef0061def19fe6da911d10a443"
+  },
+  "pharmacology/books/text/lippincott/0259.txt": {
+    "mtime": 1794839136.6754577,
+    "seen": 1795030114.710155,
+    "ast_hash": "4f8abe51844fab6679218e1ca17aa656",
+    "semantic_hash": "4f8abe51844fab6679218e1ca17aa656"
+  },
+  "pharmacology/books/text/lippincott/0260.txt": {
+    "mtime": 1794839136.6902008,
+    "seen": 1795030114.710156,
+    "ast_hash": "a41982a8ce84559e399b600e34b2f384",
+    "semantic_hash": "a41982a8ce84559e399b600e34b2f384"
+  },
+  "pharmacology/books/text/lippincott/0261.txt": {
+    "mtime": 1794839136.7133818,
+    "seen": 1795030114.7101572,
+    "ast_hash": "8bf4b9c7bc56ad1bcb26660c6b35a175",
+    "semantic_hash": "8bf4b9c7bc56ad1bcb26660c6b35a175"
+  },
+  "pharmacology/books/text/lippincott/0262.txt": {
+    "mtime": 1794839136.7382817,
+    "seen": 1795030114.710158,
+    "ast_hash": "9ff5e4af49646727beef66eb86961167",
+    "semantic_hash": "9ff5e4af49646727beef66eb86961167"
+  },
+  "pharmacology/books/text/lippincott/0263.txt": {
+    "mtime": 1794839136.7618291,
+    "seen": 1795030114.710159,
+    "ast_hash": "bcc9ef484df489fdacabd5c6d2b3e39b",
+    "semantic_hash": "bcc9ef484df489fdacabd5c6d2b3e39b"
+  },
+  "pharmacology/books/text/lippincott/0264.txt": {
+    "mtime": 1794839136.7805011,
+    "seen": 1795030114.710161,
+    "ast_hash": "75280e17dcf73e7cd91b392c4031ddc9",
+    "semantic_hash": "75280e17dcf73e7cd91b392c4031ddc9"
+  },
+  "pharmacology/books/text/lippincott/0265.txt": {
+    "mtime": 1794839136.8000598,
+    "seen": 1795030114.710162,
+    "ast_hash": "8b61bcde0c4f3a44cb061126f02772de",
+    "semantic_hash": "8b61bcde0c4f3a44cb061126f02772de"
+  },
+  "pharmacology/books/text/lippincott/0266.txt": {
+    "mtime": 1794839136.8427746,
+    "seen": 1795030114.7101629,
+    "ast_hash": "7916cacb4d2cfa06ae0e06285eb45871",
+    "semantic_hash": "7916cacb4d2cfa06ae0e06285eb45871"
+  },
+  "pharmacology/books/text/lippincott/0267.txt": {
+    "mtime": 1794839136.8591197,
+    "seen": 1795030114.710164,
+    "ast_hash": "11c2421a5a81184568ed2be417c8244b",
+    "semantic_hash": "11c2421a5a81184568ed2be417c8244b"
+  },
+  "pharmacology/books/text/lippincott/0268.txt": {
+    "mtime": 1794839136.8760607,
+    "seen": 1795030114.710165,
+    "ast_hash": "ced3a44f10d12486b748b624896b8700",
+    "semantic_hash": "ced3a44f10d12486b748b624896b8700"
+  },
+  "pharmacology/books/text/lippincott/0269.txt": {
+    "mtime": 1794839136.893135,
+    "seen": 1795030114.710166,
+    "ast_hash": "74232f260848cf04ff01d33fcdd914ea",
+    "semantic_hash": "74232f260848cf04ff01d33fcdd914ea"
+  },
+  "pharmacology/books/text/lippincott/0270.txt": {
+    "mtime": 1794839136.9116025,
+    "seen": 1795030114.710167,
+    "ast_hash": "548bcbdd1ccd0dfa8f4f45f1be405a81",
+    "semantic_hash": "548bcbdd1ccd0dfa8f4f45f1be405a81"
+  },
+  "pharmacology/books/text/lippincott/0271.txt": {
+    "mtime": 1794839136.9282448,
+    "seen": 1795030114.7101681,
+    "ast_hash": "0103048b1e4c6f1db3c81d725d4027e4",
+    "semantic_hash": "0103048b1e4c6f1db3c81d725d4027e4"
+  },
+  "pharmacology/books/text/lippincott/0272.txt": {
+    "mtime": 1794839136.946776,
+    "seen": 1795030114.710169,
+    "ast_hash": "e37e9bc8067b508d40b024bef340dc5f",
+    "semantic_hash": "e37e9bc8067b508d40b024bef340dc5f"
+  },
+  "pharmacology/books/text/lippincott/0273.txt": {
+    "mtime": 1794839136.9755867,
+    "seen": 1795030114.710171,
+    "ast_hash": "3b45e7f6de4d15f990e23657df5a5177",
+    "semantic_hash": "3b45e7f6de4d15f990e23657df5a5177"
+  },
+  "pharmacology/books/text/lippincott/0274.txt": {
+    "mtime": 1794839137.0020268,
+    "seen": 1795030114.710172,
+    "ast_hash": "5e425150b19df005dab7722ea8301dcb",
+    "semantic_hash": "5e425150b19df005dab7722ea8301dcb"
+  },
+  "pharmacology/books/text/lippincott/0275.txt": {
+    "mtime": 1794839137.0224636,
+    "seen": 1795030114.710173,
+    "ast_hash": "3e778bd04b020ccb6f05f3b8870a64ce",
+    "semantic_hash": "3e778bd04b020ccb6f05f3b8870a64ce"
+  },
+  "pharmacology/books/text/lippincott/0276.txt": {
+    "mtime": 1794839137.0394068,
+    "seen": 1795030114.7101738,
+    "ast_hash": "86c7715b62bbad15e755ddfeb0603bfa",
+    "semantic_hash": "86c7715b62bbad15e755ddfeb0603bfa"
+  },
+  "pharmacology/books/text/lippincott/0277.txt": {
+    "mtime": 1794839137.0547028,
+    "seen": 1795030114.710175,
+    "ast_hash": "b6435c5f75b4e634a0a74a9637622479",
+    "semantic_hash": "b6435c5f75b4e634a0a74a9637622479"
+  },
+  "pharmacology/books/text/lippincott/0278.txt": {
+    "mtime": 1794839137.0739455,
+    "seen": 1795030114.710176,
+    "ast_hash": "078f31621eff2f4974c61dc749a93f5d",
+    "semantic_hash": "078f31621eff2f4974c61dc749a93f5d"
+  },
+  "pharmacology/books/text/lippincott/0279.txt": {
+    "mtime": 1794839137.0900984,
+    "seen": 1795030114.710177,
+    "ast_hash": "b13b2f6cdff1f70e41b1bde30f4952af",
+    "semantic_hash": "b13b2f6cdff1f70e41b1bde30f4952af"
+  },
+  "pharmacology/books/text/lippincott/0280.txt": {
+    "mtime": 1794839137.1067538,
+    "seen": 1795030114.710179,
+    "ast_hash": "4ac2351bb245ef05f26a04d6ba36bc11",
+    "semantic_hash": "4ac2351bb245ef05f26a04d6ba36bc11"
+  },
+  "pharmacology/books/text/lippincott/0281.txt": {
+    "mtime": 1794839137.1283329,
+    "seen": 1795030114.71018,
+    "ast_hash": "a7850f9c75cb9a1aa424bbcf61adab9e",
+    "semantic_hash": "a7850f9c75cb9a1aa424bbcf61adab9e"
+  },
+  "pharmacology/books/text/lippincott/0282.txt": {
+    "mtime": 1794839137.1447706,
+    "seen": 1795030114.7101812,
+    "ast_hash": "55fd5921763c8082a126d19a183baed4",
+    "semantic_hash": "55fd5921763c8082a126d19a183baed4"
+  },
+  "pharmacology/books/text/lippincott/0283.txt": {
+    "mtime": 1794839137.1740081,
+    "seen": 1795030114.710182,
+    "ast_hash": "d9b229bc0c439247662cadf116a8dc8b",
+    "semantic_hash": "d9b229bc0c439247662cadf116a8dc8b"
+  },
+  "pharmacology/books/text/lippincott/0284.txt": {
+    "mtime": 1794839137.205035,
+    "seen": 1795030114.710183,
+    "ast_hash": "9f51e14493eb8386f4427770ceaa80cb",
+    "semantic_hash": "9f51e14493eb8386f4427770ceaa80cb"
+  },
+  "pharmacology/books/text/lippincott/0285.txt": {
+    "mtime": 1794839137.2310855,
+    "seen": 1795030114.7101839,
+    "ast_hash": "f03eefdddde758765ca79c64f29eec6d",
+    "semantic_hash": "f03eefdddde758765ca79c64f29eec6d"
+  },
+  "pharmacology/books/text/lippincott/0286.txt": {
+    "mtime": 1794839137.2509747,
+    "seen": 1795030114.710186,
+    "ast_hash": "d9111ec71459b867ef3ce3b096053534",
+    "semantic_hash": "d9111ec71459b867ef3ce3b096053534"
+  },
+  "pharmacology/books/text/lippincott/0287.txt": {
+    "mtime": 1794839137.27241,
+    "seen": 1795030114.710187,
+    "ast_hash": "be5a065927a7c36aba269915e922feb5",
+    "semantic_hash": "be5a065927a7c36aba269915e922feb5"
+  },
+  "pharmacology/books/text/lippincott/0288.txt": {
+    "mtime": 1794839137.303448,
+    "seen": 1795030114.7101882,
+    "ast_hash": "67c94486beaabf5ae8cf0b9842c216f7",
+    "semantic_hash": "67c94486beaabf5ae8cf0b9842c216f7"
+  },
+  "pharmacology/books/text/lippincott/0289.txt": {
+    "mtime": 1794839137.322335,
+    "seen": 1795030114.710189,
+    "ast_hash": "c20d16d9eea7c15fe4a99767b93b8729",
+    "semantic_hash": "c20d16d9eea7c15fe4a99767b93b8729"
+  },
+  "pharmacology/books/text/lippincott/0290.txt": {
+    "mtime": 1794839137.3398404,
+    "seen": 1795030114.71019,
+    "ast_hash": "2bbe7667191fe78514e0f4c6358bf804",
+    "semantic_hash": "2bbe7667191fe78514e0f4c6358bf804"
+  },
+  "pharmacology/books/text/lippincott/0291.txt": {
+    "mtime": 1794839137.3652005,
+    "seen": 1795030114.710191,
+    "ast_hash": "7fb6909942fded8c3849583d9a61ea66",
+    "semantic_hash": "7fb6909942fded8c3849583d9a61ea66"
+  },
+  "pharmacology/books/text/lippincott/0292.txt": {
+    "mtime": 1794839137.3812416,
+    "seen": 1795030114.7101922,
+    "ast_hash": "6fad65fc00690aba4a699b8d57a688fc",
+    "semantic_hash": "6fad65fc00690aba4a699b8d57a688fc"
+  },
+  "pharmacology/books/text/lippincott/0293.txt": {
+    "mtime": 1794839137.4064233,
+    "seen": 1795030114.710193,
+    "ast_hash": "9bf63e265bc120475d6ae9fd1131a1a0",
+    "semantic_hash": "9bf63e265bc120475d6ae9fd1131a1a0"
+  },
+  "pharmacology/books/text/lippincott/0294.txt": {
+    "mtime": 1794839137.421022,
+    "seen": 1795030114.7101939,
+    "ast_hash": "210a3ac5c7a2dfd6b146454332be3070",
+    "semantic_hash": "210a3ac5c7a2dfd6b146454332be3070"
+  },
+  "pharmacology/books/text/lippincott/0295.txt": {
+    "mtime": 1794839137.4387126,
+    "seen": 1795030114.710196,
+    "ast_hash": "c22a47dbcd8ec56c3a1f3012e51649f1",
+    "semantic_hash": "c22a47dbcd8ec56c3a1f3012e51649f1"
+  },
+  "pharmacology/books/text/lippincott/0296.txt": {
+    "mtime": 1794839137.4629252,
+    "seen": 1795030114.710197,
+    "ast_hash": "986dd6fab15de3e799e06b50b15a5f0a",
+    "semantic_hash": "986dd6fab15de3e799e06b50b15a5f0a"
+  },
+  "pharmacology/books/text/lippincott/0297.txt": {
+    "mtime": 1794839137.4727886,
+    "seen": 1795030114.710198,
+    "ast_hash": "8600532eed03232ba5c1ea414a00ea3b",
+    "semantic_hash": "8600532eed03232ba5c1ea414a00ea3b"
+  },
+  "pharmacology/books/text/lippincott/0299.txt": {
+    "mtime": 1794839137.492805,
+    "seen": 1795030114.710199,
+    "ast_hash": "81cdb46866e7516f0c522fecf8f21512",
+    "semantic_hash": "81cdb46866e7516f0c522fecf8f21512"
+  },
+  "pharmacology/books/text/lippincott/0300.txt": {
+    "mtime": 1794839137.5112522,
+    "seen": 1795030114.7102,
+    "ast_hash": "37f13b9a184d6821c484133eb53077dd",
+    "semantic_hash": "37f13b9a184d6821c484133eb53077dd"
+  },
+  "pharmacology/books/text/lippincott/0301.txt": {
+    "mtime": 1794839137.542068,
+    "seen": 1795030114.710201,
+    "ast_hash": "5c0e1f9e17d29c0557340f3114e8047e",
+    "semantic_hash": "5c0e1f9e17d29c0557340f3114e8047e"
+  },
+  "pharmacology/books/text/lippincott/0302.txt": {
+    "mtime": 1794839137.5655282,
+    "seen": 1795030114.710203,
+    "ast_hash": "11aa4e03ce00ff93e78135f8b0ab7614",
+    "semantic_hash": "11aa4e03ce00ff93e78135f8b0ab7614"
+  },
+  "pharmacology/books/text/lippincott/0303.txt": {
+    "mtime": 1794839137.5861394,
+    "seen": 1795030114.710204,
+    "ast_hash": "ee98a47ca7046f4b799397956c700eaf",
+    "semantic_hash": "ee98a47ca7046f4b799397956c700eaf"
+  },
+  "pharmacology/books/text/lippincott/0304.txt": {
+    "mtime": 1794839137.6060674,
+    "seen": 1795030114.7102048,
+    "ast_hash": "49a14238050ae5c7e6e4efbcd3f43f85",
+    "semantic_hash": "49a14238050ae5c7e6e4efbcd3f43f85"
+  },
+  "pharmacology/books/text/lippincott/0305.txt": {
+    "mtime": 1794839137.6286175,
+    "seen": 1795030114.710206,
+    "ast_hash": "095021ea480c3b29a9b9319f11a3aade",
+    "semantic_hash": "095021ea480c3b29a9b9319f11a3aade"
+  },
+  "pharmacology/books/text/lippincott/0306.txt": {
+    "mtime": 1794839137.646395,
+    "seen": 1795030114.710207,
+    "ast_hash": "7251e11cad3ceae037b15ada952c7f89",
+    "semantic_hash": "7251e11cad3ceae037b15ada952c7f89"
+  },
+  "pharmacology/books/text/lippincott/0307.txt": {
+    "mtime": 1794839137.663867,
+    "seen": 1795030114.710208,
+    "ast_hash": "b96975a9b8f6b6bb24fb405c5230d2ff",
+    "semantic_hash": "b96975a9b8f6b6bb24fb405c5230d2ff"
+  },
+  "pharmacology/books/text/lippincott/0309.txt": {
+    "mtime": 1794839137.6792881,
+    "seen": 1795030114.71021,
+    "ast_hash": "436fb58053ed97834c5aa7b57021f484",
+    "semantic_hash": "436fb58053ed97834c5aa7b57021f484"
+  },
+  "pharmacology/books/text/lippincott/0310.txt": {
+    "mtime": 1794839137.694341,
+    "seen": 1795030114.710211,
+    "ast_hash": "603597867766648497db5a908ed4f6e4",
+    "semantic_hash": "603597867766648497db5a908ed4f6e4"
+  },
+  "pharmacology/books/text/lippincott/0311.txt": {
+    "mtime": 1794839137.7150102,
+    "seen": 1795030114.710212,
+    "ast_hash": "6b25d3aa36401af65ca3900621e1c237",
+    "semantic_hash": "6b25d3aa36401af65ca3900621e1c237"
+  },
+  "pharmacology/books/text/lippincott/0312.txt": {
+    "mtime": 1794839137.7362862,
+    "seen": 1795030114.7102132,
+    "ast_hash": "3bb8abc485ddf3deb234fde7ca449f50",
+    "semantic_hash": "3bb8abc485ddf3deb234fde7ca449f50"
+  },
+  "pharmacology/books/text/lippincott/0313.txt": {
+    "mtime": 1794839137.7535405,
+    "seen": 1795030114.710214,
+    "ast_hash": "546c2e09ecd0012829bffaf6919bab54",
+    "semantic_hash": "546c2e09ecd0012829bffaf6919bab54"
+  },
+  "pharmacology/books/text/lippincott/0314.txt": {
+    "mtime": 1794839137.767115,
+    "seen": 1795030114.7102149,
+    "ast_hash": "bb415f9151c0a4175653b947503ea027",
+    "semantic_hash": "bb415f9151c0a4175653b947503ea027"
+  },
+  "pharmacology/books/text/lippincott/0315.txt": {
+    "mtime": 1794839137.7835922,
+    "seen": 1795030114.7102358,
+    "ast_hash": "a1c4357336b28fd297f3ad8a2c2a612c",
+    "semantic_hash": "a1c4357336b28fd297f3ad8a2c2a612c"
+  },
+  "pharmacology/books/text/lippincott/0316.txt": {
+    "mtime": 1794839137.8026533,
+    "seen": 1795030114.710238,
+    "ast_hash": "57c5d7f18f3a6bb3e5d979a79ddaf6ed",
+    "semantic_hash": "57c5d7f18f3a6bb3e5d979a79ddaf6ed"
+  },
+  "pharmacology/books/text/lippincott/0317.txt": {
+    "mtime": 1794839137.8199408,
+    "seen": 1795030114.710239,
+    "ast_hash": "7623823f495c23ba512745e6e95e702e",
+    "semantic_hash": "7623823f495c23ba512745e6e95e702e"
+  },
+  "pharmacology/books/text/lippincott/0318.txt": {
+    "mtime": 1794839137.8336697,
+    "seen": 1795030114.71024,
+    "ast_hash": "fceb7abd56954eed986e56a1afe7fa9b",
+    "semantic_hash": "fceb7abd56954eed986e56a1afe7fa9b"
+  },
+  "pharmacology/books/text/lippincott/0319.txt": {
+    "mtime": 1794839137.8488328,
+    "seen": 1795030114.710241,
+    "ast_hash": "5cadc50ed312e70ef3e0545fc939073e",
+    "semantic_hash": "5cadc50ed312e70ef3e0545fc939073e"
+  },
+  "pharmacology/books/text/lippincott/0320.txt": {
+    "mtime": 1794839137.8662004,
+    "seen": 1795030114.710242,
+    "ast_hash": "002dcf4cc4440e577804190e13afabc3",
+    "semantic_hash": "002dcf4cc4440e577804190e13afabc3"
+  },
+  "pharmacology/books/text/lippincott/0321.txt": {
+    "mtime": 1794839137.8834836,
+    "seen": 1795030114.710243,
+    "ast_hash": "7ce00baa9b56893a49f822a457e8e4f3",
+    "semantic_hash": "7ce00baa9b56893a49f822a457e8e4f3"
+  },
+  "pharmacology/books/text/lippincott/0322.txt": {
+    "mtime": 1794839137.8998556,
+    "seen": 1795030114.7102442,
+    "ast_hash": "0be2d3ee602f21cd6b6eb78a7886f339",
+    "semantic_hash": "0be2d3ee602f21cd6b6eb78a7886f339"
+  },
+  "pharmacology/books/text/lippincott/0323.txt": {
+    "mtime": 1794839137.922816,
+    "seen": 1795030114.7102652,
+    "ast_hash": "9d2441bce576df1b5499b0319b89e94d",
+    "semantic_hash": "9d2441bce576df1b5499b0319b89e94d"
+  },
+  "pharmacology/books/text/lippincott/0324.txt": {
+    "mtime": 1794839137.9419503,
+    "seen": 1795030114.710266,
+    "ast_hash": "fd52e611d02f3502dbf3ffca5f859be7",
+    "semantic_hash": "fd52e611d02f3502dbf3ffca5f859be7"
+  },
+  "pharmacology/books/text/lippincott/0325.txt": {
+    "mtime": 1794839137.9596984,
+    "seen": 1795030114.7102668,
+    "ast_hash": "1820f6fe450878adf1307e0808cc004a",
+    "semantic_hash": "1820f6fe450878adf1307e0808cc004a"
+  },
+  "pharmacology/books/text/lippincott/0326.txt": {
+    "mtime": 1794839137.9844468,
+    "seen": 1795030114.710268,
+    "ast_hash": "9257059de75bff306ec80e611ac57686",
+    "semantic_hash": "9257059de75bff306ec80e611ac57686"
+  },
+  "pharmacology/books/text/lippincott/0327.txt": {
+    "mtime": 1794839138.0019696,
+    "seen": 1795030114.71027,
+    "ast_hash": "79659896824599d4ed4348fbac6c540d",
+    "semantic_hash": "79659896824599d4ed4348fbac6c540d"
+  },
+  "pharmacology/books/text/lippincott/0328.txt": {
+    "mtime": 1794839138.0166767,
+    "seen": 1795030114.710271,
+    "ast_hash": "c87dee343a457a832d51b4be6be68563",
+    "semantic_hash": "c87dee343a457a832d51b4be6be68563"
+  },
+  "pharmacology/books/text/lippincott/0331.txt": {
+    "mtime": 1794839138.0593417,
+    "seen": 1795030114.710272,
+    "ast_hash": "9ff47205a86f5ec7e879b065218271d4",
+    "semantic_hash": "9ff47205a86f5ec7e879b065218271d4"
+  },
+  "pharmacology/books/text/lippincott/0332.txt": {
+    "mtime": 1794839138.1146994,
+    "seen": 1795030114.710273,
+    "ast_hash": "5026126ec37a4ae9cf75ddc3f7068e75",
+    "semantic_hash": "5026126ec37a4ae9cf75ddc3f7068e75"
+  },
+  "pharmacology/books/text/lippincott/0333.txt": {
+    "mtime": 1794839138.1334627,
+    "seen": 1795030114.710274,
+    "ast_hash": "48299cbc9d45972964454abedf456a46",
+    "semantic_hash": "48299cbc9d45972964454abedf456a46"
+  },
+  "pharmacology/books/text/lippincott/0334.txt": {
+    "mtime": 1794839138.1510892,
+    "seen": 1795030114.7102752,
+    "ast_hash": "949df686be4b25b0f234a5e0764cacda",
+    "semantic_hash": "949df686be4b25b0f234a5e0764cacda"
+  },
+  "pharmacology/books/text/lippincott/0336.txt": {
+    "mtime": 1794839138.1800768,
+    "seen": 1795030114.7102761,
+    "ast_hash": "9e6579f938ff80a7ed10aec5a84c7bd4",
+    "semantic_hash": "9e6579f938ff80a7ed10aec5a84c7bd4"
+  },
+  "pharmacology/books/text/lippincott/0337.txt": {
+    "mtime": 1794839138.196708,
+    "seen": 1795030114.710277,
+    "ast_hash": "6a041ff77f0e7fc9b6421dc7886fdd53",
+    "semantic_hash": "6a041ff77f0e7fc9b6421dc7886fdd53"
+  },
+  "pharmacology/books/text/lippincott/0338.txt": {
+    "mtime": 1794839138.2147703,
+    "seen": 1795030114.7102778,
+    "ast_hash": "d9eb5b1fc441484f64e17ae602be9a1a",
+    "semantic_hash": "d9eb5b1fc441484f64e17ae602be9a1a"
+  },
+  "pharmacology/books/text/lippincott/0339.txt": {
+    "mtime": 1794839138.2306433,
+    "seen": 1795030114.71028,
+    "ast_hash": "1802d205e619d5264f48682c2b545063",
+    "semantic_hash": "1802d205e619d5264f48682c2b545063"
+  },
+  "pharmacology/books/text/lippincott/0340.txt": {
+    "mtime": 1794839138.2444856,
+    "seen": 1795030114.710281,
+    "ast_hash": "76bd5e166548fc66d3d25ce11e1b2f7a",
+    "semantic_hash": "76bd5e166548fc66d3d25ce11e1b2f7a"
+  },
+  "pharmacology/books/text/lippincott/0341.txt": {
+    "mtime": 1794839138.259838,
+    "seen": 1795030114.710282,
+    "ast_hash": "030fde38d6a709248469fbb255c1e719",
+    "semantic_hash": "030fde38d6a709248469fbb255c1e719"
+  },
+  "pharmacology/books/text/lippincott/0342.txt": {
+    "mtime": 1794839138.286825,
+    "seen": 1795030114.710283,
+    "ast_hash": "ad1f425c9255e769d73f1247575a0906",
+    "semantic_hash": "ad1f425c9255e769d73f1247575a0906"
+  },
+  "pharmacology/books/text/lippincott/0347.txt": {
+    "mtime": 1794839138.3507764,
+    "seen": 1795030114.710285,
+    "ast_hash": "28512e0ce2dcbb218a3a53ee655ea7f8",
+    "semantic_hash": "28512e0ce2dcbb218a3a53ee655ea7f8"
+  },
+  "pharmacology/books/text/lippincott/0348.txt": {
+    "mtime": 1794839138.367592,
+    "seen": 1795030114.710287,
+    "ast_hash": "b88d301b4c95a0d5b5ee467dbb4f824e",
+    "semantic_hash": "b88d301b4c95a0d5b5ee467dbb4f824e"
+  },
+  "pharmacology/books/text/lippincott/0349.txt": {
+    "mtime": 1794839138.3873823,
+    "seen": 1795030114.7102878,
+    "ast_hash": "077fdddb4a9d4d3509d0588d878bfec2",
+    "semantic_hash": "077fdddb4a9d4d3509d0588d878bfec2"
+  },
+  "pharmacology/books/text/lippincott/0350.txt": {
+    "mtime": 1794839138.41854,
+    "seen": 1795030114.71029,
+    "ast_hash": "3dcfd55f330ec5595138058aa8f1666f",
+    "semantic_hash": "3dcfd55f330ec5595138058aa8f1666f"
+  },
+  "pharmacology/books/text/lippincott/0351.txt": {
+    "mtime": 1794839138.4265878,
+    "seen": 1795030114.710291,
+    "ast_hash": "fda11b72e9205100ffd109c304438423",
+    "semantic_hash": "fda11b72e9205100ffd109c304438423"
+  },
+  "pharmacology/books/text/lippincott/0352.txt": {
+    "mtime": 1794839138.4463413,
+    "seen": 1795030114.7102919,
+    "ast_hash": "c9e9547900c5f51f1e4077a13f4c9881",
+    "semantic_hash": "c9e9547900c5f51f1e4077a13f4c9881"
+  },
+  "pharmacology/books/text/lippincott/0353.txt": {
+    "mtime": 1794839138.4634778,
+    "seen": 1795030114.710293,
+    "ast_hash": "3e354ce2784d52169b6901a41f6d3df4",
+    "semantic_hash": "3e354ce2784d52169b6901a41f6d3df4"
+  },
+  "pharmacology/books/text/lippincott/0354.txt": {
+    "mtime": 1794839138.4811468,
+    "seen": 1795030114.710294,
+    "ast_hash": "cdc5be032ff047321489c7517f56fd6d",
+    "semantic_hash": "cdc5be032ff047321489c7517f56fd6d"
+  },
+  "pharmacology/books/text/lippincott/0355.txt": {
+    "mtime": 1794839138.4954927,
+    "seen": 1795030114.710295,
+    "ast_hash": "2019e5878b5af3fd666f33938ed3e4dc",
+    "semantic_hash": "2019e5878b5af3fd666f33938ed3e4dc"
+  },
+  "pharmacology/books/text/lippincott/0356.txt": {
+    "mtime": 1794839138.5144053,
+    "seen": 1795030114.710297,
+    "ast_hash": "7fe24fc4b7131c7fc8653b784b21d025",
+    "semantic_hash": "7fe24fc4b7131c7fc8653b784b21d025"
+  },
+  "pharmacology/books/text/lippincott/0357.txt": {
+    "mtime": 1794839138.5388722,
+    "seen": 1795030114.710298,
+    "ast_hash": "9bc128d968816c7eb0ee827ef70803bf",
+    "semantic_hash": "9bc128d968816c7eb0ee827ef70803bf"
+  },
+  "pharmacology/books/text/lippincott/0358.txt": {
+    "mtime": 1794839138.5656154,
+    "seen": 1795030114.7102988,
+    "ast_hash": "4357fbb9490e0a45d2e23af5b8e16f26",
+    "semantic_hash": "4357fbb9490e0a45d2e23af5b8e16f26"
+  },
+  "pharmacology/books/text/lippincott/0359.txt": {
+    "mtime": 1794839138.584988,
+    "seen": 1795030114.7103,
+    "ast_hash": "f167e001c502e351f427d90fb97df686",
+    "semantic_hash": "f167e001c502e351f427d90fb97df686"
+  },
+  "pharmacology/books/text/lippincott/0360.txt": {
+    "mtime": 1794839138.6026785,
+    "seen": 1795030114.710301,
+    "ast_hash": "6b0d8828522a3f81f2931566897ed221",
+    "semantic_hash": "6b0d8828522a3f81f2931566897ed221"
+  },
+  "pharmacology/books/text/lippincott/0361.txt": {
+    "mtime": 1794839138.640908,
+    "seen": 1795030114.7103019,
+    "ast_hash": "af2f981296f5d523d08828805044af3f",
+    "semantic_hash": "af2f981296f5d523d08828805044af3f"
+  },
+  "pharmacology/books/text/lippincott/0362.txt": {
+    "mtime": 1794839138.6666167,
+    "seen": 1795030114.710303,
+    "ast_hash": "a5e809af2838f388238279159bf3d28d",
+    "semantic_hash": "a5e809af2838f388238279159bf3d28d"
+  },
+  "pharmacology/books/text/lippincott/0365.txt": {
+    "mtime": 1794839138.717398,
+    "seen": 1795030114.710305,
+    "ast_hash": "1b7146c5e252a4b9425165cfe6abf14d",
+    "semantic_hash": "1b7146c5e252a4b9425165cfe6abf14d"
+  },
+  "pharmacology/books/text/lippincott/0366.txt": {
+    "mtime": 1794839138.7426856,
+    "seen": 1795030114.710306,
+    "ast_hash": "def0fc775558ed279b12d6245c58b69a",
+    "semantic_hash": "def0fc775558ed279b12d6245c58b69a"
+  },
+  "pharmacology/books/text/lippincott/0367.txt": {
+    "mtime": 1794839138.7695255,
+    "seen": 1795030114.7103071,
+    "ast_hash": "b09ee5948995da81d96a81068b7a1eae",
+    "semantic_hash": "b09ee5948995da81d96a81068b7a1eae"
+  },
+  "pharmacology/books/text/lippincott/0368.txt": {
+    "mtime": 1794839138.784745,
+    "seen": 1795030114.710308,
+    "ast_hash": "dc50fa7cdc0e3cc819b604d7b025f65f",
+    "semantic_hash": "dc50fa7cdc0e3cc819b604d7b025f65f"
+  },
+  "pharmacology/books/text/lippincott/0369.txt": {
+    "mtime": 1794839138.9552345,
+    "seen": 1795030114.710309,
+    "ast_hash": "9a96a217dcc5bb76575954d902c93356",
+    "semantic_hash": "9a96a217dcc5bb76575954d902c93356"
+  },
+  "pharmacology/books/text/lippincott/0370.txt": {
+    "mtime": 1794839139.1280067,
+    "seen": 1795030114.71031,
+    "ast_hash": "4ea15d57e3c5cd5ed45a47f759d97194",
+    "semantic_hash": "4ea15d57e3c5cd5ed45a47f759d97194"
+  },
+  "pharmacology/books/text/lippincott/0371.txt": {
+    "mtime": 1794839139.293822,
+    "seen": 1795030114.710311,
+    "ast_hash": "3f055aae9e17c6e98d131f2e1ef48676",
+    "semantic_hash": "3f055aae9e17c6e98d131f2e1ef48676"
+  },
+  "pharmacology/books/text/lippincott/0372.txt": {
+    "mtime": 1794839139.3289533,
+    "seen": 1795030114.710312,
+    "ast_hash": "c18d11777355f81a4bc8a085d3c020dd",
+    "semantic_hash": "c18d11777355f81a4bc8a085d3c020dd"
+  },
+  "pharmacology/books/text/lippincott/0373.txt": {
+    "mtime": 1794839139.3641512,
+    "seen": 1795030114.7103128,
+    "ast_hash": "0bbb735753bf41954676a413b9e8afc0",
+    "semantic_hash": "0bbb735753bf41954676a413b9e8afc0"
+  },
+  "pharmacology/books/text/lippincott/0374.txt": {
+    "mtime": 1794839139.3774989,
+    "seen": 1795030114.710315,
+    "ast_hash": "7fe271cf874d41532c8cd187ba2792b6",
+    "semantic_hash": "7fe271cf874d41532c8cd187ba2792b6"
+  },
+  "pharmacology/books/text/lippincott/0375.txt": {
+    "mtime": 1794839139.3965325,
+    "seen": 1795030114.710316,
+    "ast_hash": "6f56a1e215721ddf269ec0e76a0d770c",
+    "semantic_hash": "6f56a1e215721ddf269ec0e76a0d770c"
+  },
+  "pharmacology/books/text/lippincott/0376.txt": {
+    "mtime": 1794839139.4177954,
+    "seen": 1795030114.7103171,
+    "ast_hash": "a1319988e6eed5fcdd528adb02dcf66e",
+    "semantic_hash": "a1319988e6eed5fcdd528adb02dcf66e"
+  },
+  "pharmacology/books/text/lippincott/0377.txt": {
+    "mtime": 1794839139.4313169,
+    "seen": 1795030114.710318,
+    "ast_hash": "57ff60b383b7b7f00d426f6ae121d9c0",
+    "semantic_hash": "57ff60b383b7b7f00d426f6ae121d9c0"
+  },
+  "pharmacology/books/text/lippincott/0378.txt": {
+    "mtime": 1794839139.4473171,
+    "seen": 1795030114.710319,
+    "ast_hash": "58d4f10ededa5b4fed30c98f9b019291",
+    "semantic_hash": "58d4f10ededa5b4fed30c98f9b019291"
+  },
+  "pharmacology/books/text/lippincott/0379.txt": {
+    "mtime": 1794839139.4640942,
+    "seen": 1795030114.7103202,
+    "ast_hash": "2f331156c5f10753d695a158244228e2",
+    "semantic_hash": "2f331156c5f10753d695a158244228e2"
+  },
+  "pharmacology/books/text/lippincott/0380.txt": {
+    "mtime": 1794839139.475857,
+    "seen": 1795030114.710321,
+    "ast_hash": "4dcee9c925dff02cefa39b409edae42b",
+    "semantic_hash": "4dcee9c925dff02cefa39b409edae42b"
+  },
+  "pharmacology/books/text/lippincott/0381.txt": {
+    "mtime": 1794839139.4921482,
+    "seen": 1795030114.710322,
+    "ast_hash": "1efe2cd72987032de66512e09145bff7",
+    "semantic_hash": "1efe2cd72987032de66512e09145bff7"
+  },
+  "pharmacology/books/text/lippincott/0382.txt": {
+    "mtime": 1794839139.519686,
+    "seen": 1795030114.7103229,
+    "ast_hash": "9c504b01990cbad2c35989ace7f4f316",
+    "semantic_hash": "9c504b01990cbad2c35989ace7f4f316"
+  },
+  "pharmacology/books/text/lippincott/0383.txt": {
+    "mtime": 1794839139.533364,
+    "seen": 1795030114.7103271,
+    "ast_hash": "f4f3956324b0edbbc8519c83034fbe7e",
+    "semantic_hash": "f4f3956324b0edbbc8519c83034fbe7e"
+  },
+  "pharmacology/books/text/lippincott/0384.txt": {
+    "mtime": 1794839139.5477405,
+    "seen": 1795030114.710328,
+    "ast_hash": "16508178aa333bbc6776b1a287f8e21f",
+    "semantic_hash": "16508178aa333bbc6776b1a287f8e21f"
+  },
+  "pharmacology/books/text/lippincott/0385.txt": {
+    "mtime": 1794839139.5629458,
+    "seen": 1795030114.710329,
+    "ast_hash": "5ef18f800d710d30542c1e31235e91dc",
+    "semantic_hash": "5ef18f800d710d30542c1e31235e91dc"
+  },
+  "pharmacology/books/text/lippincott/0386.txt": {
+    "mtime": 1794839139.5840776,
+    "seen": 1795030114.71033,
+    "ast_hash": "57db8d047f54975f39c92111ad8a0239",
+    "semantic_hash": "57db8d047f54975f39c92111ad8a0239"
+  },
+  "pharmacology/books/text/lippincott/0387.txt": {
+    "mtime": 1794839139.6002767,
+    "seen": 1795030114.710331,
+    "ast_hash": "7436d1b8a074e06cd69d416680687fde",
+    "semantic_hash": "7436d1b8a074e06cd69d416680687fde"
+  },
+  "pharmacology/books/text/lippincott/0388.txt": {
+    "mtime": 1794839139.6151707,
+    "seen": 1795030114.710332,
+    "ast_hash": "38d855370d7950cfd962ab0159eac3b6",
+    "semantic_hash": "38d855370d7950cfd962ab0159eac3b6"
+  },
+  "pharmacology/books/text/lippincott/0389.txt": {
+    "mtime": 1794839139.6322153,
+    "seen": 1795030114.710334,
+    "ast_hash": "ab0acc0aeb8c3a5cd46ed5342cf89216",
+    "semantic_hash": "ab0acc0aeb8c3a5cd46ed5342cf89216"
+  },
+  "pharmacology/books/text/lippincott/0391.txt": {
+    "mtime": 1794839139.6568656,
+    "seen": 1795030114.710335,
+    "ast_hash": "25cc89b6ed23ae483aa765fa299e0654",
+    "semantic_hash": "25cc89b6ed23ae483aa765fa299e0654"
+  },
+  "pharmacology/books/text/lippincott/0392.txt": {
+    "mtime": 1794839139.696062,
+    "seen": 1795030114.710336,
+    "ast_hash": "c92f4ae730d244952b1405301c8cd6fd",
+    "semantic_hash": "c92f4ae730d244952b1405301c8cd6fd"
+  },
+  "pharmacology/books/text/lippincott/0393.txt": {
+    "mtime": 1794839139.7340798,
+    "seen": 1795030114.710337,
+    "ast_hash": "e22ee98fcb226ebb6922284e995e120c",
+    "semantic_hash": "e22ee98fcb226ebb6922284e995e120c"
+  },
+  "pharmacology/books/text/lippincott/0394.txt": {
+    "mtime": 1794839139.7529294,
+    "seen": 1795030114.710338,
+    "ast_hash": "0448f85c4550a56b335f81b7a919451c",
+    "semantic_hash": "0448f85c4550a56b335f81b7a919451c"
+  },
+  "pharmacology/books/text/lippincott/0395.txt": {
+    "mtime": 1794839139.7727463,
+    "seen": 1795030114.710339,
+    "ast_hash": "e95fae73a81979234ec04028646dd7f3",
+    "semantic_hash": "e95fae73a81979234ec04028646dd7f3"
+  },
+  "pharmacology/books/text/lippincott/0396.txt": {
+    "mtime": 1794839139.7999227,
+    "seen": 1795030114.71034,
+    "ast_hash": "113ab0129880212d02ce3ce65f7372a3",
+    "semantic_hash": "113ab0129880212d02ce3ce65f7372a3"
+  },
+  "pharmacology/books/text/lippincott/0397.txt": {
+    "mtime": 1794839139.850409,
+    "seen": 1795030114.7103412,
+    "ast_hash": "970c86885bae858b7672469d98461ddb",
+    "semantic_hash": "970c86885bae858b7672469d98461ddb"
+  },
+  "pharmacology/books/text/lippincott/0398.txt": {
+    "mtime": 1794839139.8674347,
+    "seen": 1795030114.710342,
+    "ast_hash": "b7a3315ed6bd9b948c77ff347a9e8906",
+    "semantic_hash": "b7a3315ed6bd9b948c77ff347a9e8906"
+  },
+  "pharmacology/books/text/lippincott/0399.txt": {
+    "mtime": 1794839139.88682,
+    "seen": 1795030114.7103438,
+    "ast_hash": "a3831c5146ea6324707e7cc08eca34fc",
+    "semantic_hash": "a3831c5146ea6324707e7cc08eca34fc"
+  },
+  "pharmacology/books/text/lippincott/0401.txt": {
+    "mtime": 1794839139.9775698,
+    "seen": 1795030114.710345,
+    "ast_hash": "de293266550b3259eec44e86713a1e9f",
+    "semantic_hash": "de293266550b3259eec44e86713a1e9f"
+  },
+  "pharmacology/books/text/lippincott/0402.txt": {
+    "mtime": 1794839139.994251,
+    "seen": 1795030114.710346,
+    "ast_hash": "965a87682fdc1c4b4d7a14906fc8562c",
+    "semantic_hash": "965a87682fdc1c4b4d7a14906fc8562c"
+  },
+  "pharmacology/books/text/lippincott/0403.txt": {
+    "mtime": 1794839140.0201182,
+    "seen": 1795030114.710347,
+    "ast_hash": "1f606bf7fac5f325e5611c140958884c",
+    "semantic_hash": "1f606bf7fac5f325e5611c140958884c"
+  },
+  "pharmacology/books/text/lippincott/0404.txt": {
+    "mtime": 1794839140.0397007,
+    "seen": 1795030114.7103481,
+    "ast_hash": "c66b2dfd6ff5fea80ff19a1b3505f573",
+    "semantic_hash": "c66b2dfd6ff5fea80ff19a1b3505f573"
+  },
+  "pharmacology/books/text/lippincott/0405.txt": {
+    "mtime": 1794839140.0560148,
+    "seen": 1795030114.710349,
+    "ast_hash": "64464cf5a7de9c68b05d91a7682bb475",
+    "semantic_hash": "64464cf5a7de9c68b05d91a7682bb475"
+  },
+  "pharmacology/books/text/lippincott/0406.txt": {
+    "mtime": 1794839140.0782163,
+    "seen": 1795030114.71035,
+    "ast_hash": "fc88ffd4e1fd196fb0a5a22f1d24f059",
+    "semantic_hash": "fc88ffd4e1fd196fb0a5a22f1d24f059"
+  },
+  "pharmacology/books/text/lippincott/0407.txt": {
+    "mtime": 1794839140.0971506,
+    "seen": 1795030114.710351,
+    "ast_hash": "d3da08deadbf04bc45bd4a847b04d666",
+    "semantic_hash": "d3da08deadbf04bc45bd4a847b04d666"
+  },
+  "pharmacology/books/text/lippincott/0408.txt": {
+    "mtime": 1794839140.1124742,
+    "seen": 1795030114.710353,
+    "ast_hash": "8844c6e64a407b606d7840b90bbf8c51",
+    "semantic_hash": "8844c6e64a407b606d7840b90bbf8c51"
+  },
+  "pharmacology/books/text/lippincott/0413.txt": {
+    "mtime": 1794839140.1720545,
+    "seen": 1795030114.7103539,
+    "ast_hash": "cc8b82f4b67a4f6804c6bcb781e69c3a",
+    "semantic_hash": "cc8b82f4b67a4f6804c6bcb781e69c3a"
+  },
+  "pharmacology/books/text/lippincott/0415.txt": {
+    "mtime": 1794839140.2110603,
+    "seen": 1795030114.710356,
+    "ast_hash": "768efed28f753afd1d878322a6f6c251",
+    "semantic_hash": "768efed28f753afd1d878322a6f6c251"
+  },
+  "pharmacology/books/text/lippincott/0416.txt": {
+    "mtime": 1794839140.2330134,
+    "seen": 1795030114.710357,
+    "ast_hash": "2a03d385b75c8b863b2a78aa388b4c81",
+    "semantic_hash": "2a03d385b75c8b863b2a78aa388b4c81"
+  },
+  "pharmacology/books/text/lippincott/0417.txt": {
+    "mtime": 1794839140.2496693,
+    "seen": 1795030114.710358,
+    "ast_hash": "6a66af224123091ee237bedcb25c8c44",
+    "semantic_hash": "6a66af224123091ee237bedcb25c8c44"
+  },
+  "pharmacology/books/text/lippincott/0418.txt": {
+    "mtime": 1794839140.2634485,
+    "seen": 1795030114.710359,
+    "ast_hash": "2fa392dbc0ef53cf4d811cd991e5ac88",
+    "semantic_hash": "2fa392dbc0ef53cf4d811cd991e5ac88"
+  },
+  "pharmacology/books/text/lippincott/0419.txt": {
+    "mtime": 1794839140.2805264,
+    "seen": 1795030114.71036,
+    "ast_hash": "d93294ca8bd8e731ff192e8057d97521",
+    "semantic_hash": "d93294ca8bd8e731ff192e8057d97521"
+  },
+  "pharmacology/books/text/lippincott/0420.txt": {
+    "mtime": 1794839140.3009634,
+    "seen": 1795030114.7103622,
+    "ast_hash": "2e25490700c8a05e87410110f97b2815",
+    "semantic_hash": "2e25490700c8a05e87410110f97b2815"
+  },
+  "pharmacology/books/text/lippincott/0421.txt": {
+    "mtime": 1794839140.3263469,
+    "seen": 1795030114.710363,
+    "ast_hash": "3e1b17f16e5f349ea5903d26d9dda65a",
+    "semantic_hash": "3e1b17f16e5f349ea5903d26d9dda65a"
+  },
+  "pharmacology/books/text/lippincott/0422.txt": {
+    "mtime": 1794839140.3471112,
+    "seen": 1795030114.7103639,
+    "ast_hash": "4d4dc01ca8073a25a82e6846dc6d3975",
+    "semantic_hash": "4d4dc01ca8073a25a82e6846dc6d3975"
+  },
+  "pharmacology/books/text/lippincott/0423.txt": {
+    "mtime": 1794839140.3608098,
+    "seen": 1795030114.7103648,
+    "ast_hash": "9e5e38a501e827597f0cdb552883234e",
+    "semantic_hash": "9e5e38a501e827597f0cdb552883234e"
+  },
+  "pharmacology/books/text/lippincott/0424.txt": {
+    "mtime": 1794839140.3745768,
+    "seen": 1795030114.710366,
+    "ast_hash": "2b45271fb37ae5954352ffedcd06f51d",
+    "semantic_hash": "2b45271fb37ae5954352ffedcd06f51d"
+  },
+  "pharmacology/books/text/lippincott/0425.txt": {
+    "mtime": 1794839140.391371,
+    "seen": 1795030114.710367,
+    "ast_hash": "8e182f7b12b4b30f5f815d69d0b84f85",
+    "semantic_hash": "8e182f7b12b4b30f5f815d69d0b84f85"
+  },
+  "pharmacology/books/text/lippincott/0427.txt": {
+    "mtime": 1794839140.4261138,
+    "seen": 1795030114.710368,
+    "ast_hash": "04659080056a505eb738111437b54457",
+    "semantic_hash": "04659080056a505eb738111437b54457"
+  },
+  "pharmacology/books/text/lippincott/0428.txt": {
+    "mtime": 1794839140.454824,
+    "seen": 1795030114.71037,
+    "ast_hash": "4e1d0b357ef38cb1cb66257565676f14",
+    "semantic_hash": "4e1d0b357ef38cb1cb66257565676f14"
+  },
+  "pharmacology/books/text/lippincott/0429.txt": {
+    "mtime": 1794839140.4815156,
+    "seen": 1795030114.710371,
+    "ast_hash": "0171a1fd842424e2a817c4d704b4fc0f",
+    "semantic_hash": "0171a1fd842424e2a817c4d704b4fc0f"
+  },
+  "pharmacology/books/text/lippincott/0430.txt": {
+    "mtime": 1794839140.5317879,
+    "seen": 1795030114.7103722,
+    "ast_hash": "3ecc5efd58bb8be270baabaf5d357707",
+    "semantic_hash": "3ecc5efd58bb8be270baabaf5d357707"
+  },
+  "pharmacology/books/text/lippincott/0431.txt": {
+    "mtime": 1794839140.5538192,
+    "seen": 1795030114.7103732,
+    "ast_hash": "2dc4be57645bf4c9f24a4549125f4756",
+    "semantic_hash": "2dc4be57645bf4c9f24a4549125f4756"
+  },
+  "pharmacology/books/text/lippincott/0432.txt": {
+    "mtime": 1794839140.5761645,
+    "seen": 1795030114.7103739,
+    "ast_hash": "30ce14bcbd617e0a9428aced9a39636f",
+    "semantic_hash": "30ce14bcbd617e0a9428aced9a39636f"
+  },
+  "pharmacology/books/text/lippincott/0433.txt": {
+    "mtime": 1794839140.595666,
+    "seen": 1795030114.7103748,
+    "ast_hash": "27510ecb351cfe1fc9a3efd946427c9c",
+    "semantic_hash": "27510ecb351cfe1fc9a3efd946427c9c"
+  },
+  "pharmacology/books/text/lippincott/0434.txt": {
+    "mtime": 1794839140.6100106,
+    "seen": 1795030114.710376,
+    "ast_hash": "15c5a3132ac9a4e63fb027b6e710a03d",
+    "semantic_hash": "15c5a3132ac9a4e63fb027b6e710a03d"
+  },
+  "pharmacology/books/text/lippincott/0435.txt": {
+    "mtime": 1794839140.627659,
+    "seen": 1795030114.710377,
+    "ast_hash": "5d3014db8df58026a65e71e1e178a3f9",
+    "semantic_hash": "5d3014db8df58026a65e71e1e178a3f9"
+  },
+  "pharmacology/books/text/lippincott/0437.txt": {
+    "mtime": 1794839140.6706917,
+    "seen": 1795030114.710378,
+    "ast_hash": "2a58dc9c6a824938ba7e2b7242c6d534",
+    "semantic_hash": "2a58dc9c6a824938ba7e2b7242c6d534"
+  },
+  "pharmacology/books/text/lippincott/0438.txt": {
+    "mtime": 1794839140.695099,
+    "seen": 1795030114.7103791,
+    "ast_hash": "a4130662062d2ff3f691753f1927944f",
+    "semantic_hash": "a4130662062d2ff3f691753f1927944f"
+  },
+  "pharmacology/books/text/lippincott/0439.txt": {
+    "mtime": 1794839140.7268944,
+    "seen": 1795030114.710381,
+    "ast_hash": "5c3d6445e818f3692c5afe16425cf014",
+    "semantic_hash": "5c3d6445e818f3692c5afe16425cf014"
+  },
+  "pharmacology/books/text/lippincott/0440.txt": {
+    "mtime": 1794839140.7529714,
+    "seen": 1795030114.710382,
+    "ast_hash": "d518afecadb5f75a850e08cec2e3b0b1",
+    "semantic_hash": "d518afecadb5f75a850e08cec2e3b0b1"
+  },
+  "pharmacology/books/text/lippincott/0441.txt": {
+    "mtime": 1794839140.79447,
+    "seen": 1795030114.7103832,
+    "ast_hash": "a0939bf317b7bab42c35f90961685b6d",
+    "semantic_hash": "a0939bf317b7bab42c35f90961685b6d"
+  },
+  "pharmacology/books/text/lippincott/0442.txt": {
+    "mtime": 1794839140.8078015,
+    "seen": 1795030114.7103841,
+    "ast_hash": "446153469692aa22289f27d96a4d5428",
+    "semantic_hash": "446153469692aa22289f27d96a4d5428"
+  },
+  "pharmacology/books/text/lippincott/0443.txt": {
+    "mtime": 1794839140.8215766,
+    "seen": 1795030114.7103848,
+    "ast_hash": "a12decd65f48719f849e5312f619afd9",
+    "semantic_hash": "a12decd65f48719f849e5312f619afd9"
+  },
+  "pharmacology/books/text/lippincott/0444.txt": {
+    "mtime": 1794839140.842363,
+    "seen": 1795030114.710386,
+    "ast_hash": "ba23951fe6c54c61d61ac5921d7dbfba",
+    "semantic_hash": "ba23951fe6c54c61d61ac5921d7dbfba"
+  },
+  "pharmacology/books/text/lippincott/0445.txt": {
+    "mtime": 1794839140.8561575,
+    "seen": 1795030114.710387,
+    "ast_hash": "ec7b72e0f4e598f228dbfc2592dfc69d",
+    "semantic_hash": "ec7b72e0f4e598f228dbfc2592dfc69d"
+  },
+  "pharmacology/books/text/lippincott/0446.txt": {
+    "mtime": 1794839140.877249,
+    "seen": 1795030114.710388,
+    "ast_hash": "de3dace898e646478cec73ff53f5b0d8",
+    "semantic_hash": "de3dace898e646478cec73ff53f5b0d8"
+  },
+  "pharmacology/books/text/lippincott/0447.txt": {
+    "mtime": 1794839140.8991432,
+    "seen": 1795030114.710389,
+    "ast_hash": "9fbfcb759af7f4ef2f2719933360fb0f",
+    "semantic_hash": "9fbfcb759af7f4ef2f2719933360fb0f"
+  },
+  "pharmacology/books/text/lippincott/0448.txt": {
+    "mtime": 1794839140.9165282,
+    "seen": 1795030114.71039,
+    "ast_hash": "44f615c2dc5958b328e14dae8b00d25a",
+    "semantic_hash": "44f615c2dc5958b328e14dae8b00d25a"
+  },
+  "pharmacology/books/text/lippincott/0449.txt": {
+    "mtime": 1794839140.9330156,
+    "seen": 1795030114.710392,
+    "ast_hash": "742bcd9c77ecd3010d2b5059f7253e61",
+    "semantic_hash": "742bcd9c77ecd3010d2b5059f7253e61"
+  },
+  "pharmacology/books/text/lippincott/0450.txt": {
+    "mtime": 1794839140.949964,
+    "seen": 1795030114.7103932,
+    "ast_hash": "103ebc677a2c52e175c109415f6b032d",
+    "semantic_hash": "103ebc677a2c52e175c109415f6b032d"
+  },
+  "pharmacology/books/text/lippincott/0451.txt": {
+    "mtime": 1794839140.9651537,
+    "seen": 1795030114.7103941,
+    "ast_hash": "7edda9df7d0d7584aef962fdfbd497bb",
+    "semantic_hash": "7edda9df7d0d7584aef962fdfbd497bb"
+  },
+  "pharmacology/books/text/lippincott/0452.txt": {
+    "mtime": 1794839140.9730475,
+    "seen": 1795030114.7103949,
+    "ast_hash": "93bb0a18a7c4cc6bb584b6c1beff9c10",
+    "semantic_hash": "93bb0a18a7c4cc6bb584b6c1beff9c10"
+  },
+  "pharmacology/books/text/lippincott/0453.txt": {
+    "mtime": 1794839140.9910073,
+    "seen": 1795030114.7103958,
+    "ast_hash": "b66332db625a5c11c01a52f9e619a636",
+    "semantic_hash": "b66332db625a5c11c01a52f9e619a636"
+  },
+  "pharmacology/books/text/lippincott/0454.txt": {
+    "mtime": 1794839141.0064387,
+    "seen": 1795030114.710397,
+    "ast_hash": "37bee8a7f4e89ff4605d4a6fe31dd70a",
+    "semantic_hash": "37bee8a7f4e89ff4605d4a6fe31dd70a"
+  },
+  "pharmacology/books/text/lippincott/0455.txt": {
+    "mtime": 1794839141.0234802,
+    "seen": 1795030114.710398,
+    "ast_hash": "36036085298287e063b3d2255a80aaf5",
+    "semantic_hash": "36036085298287e063b3d2255a80aaf5"
+  },
+  "pharmacology/books/text/lippincott/0456.txt": {
+    "mtime": 1794839141.0347235,
+    "seen": 1795030114.710399,
+    "ast_hash": "1aaa01deff9cce89a10098bca3dba0e5",
+    "semantic_hash": "1aaa01deff9cce89a10098bca3dba0e5"
+  },
+  "pharmacology/books/text/lippincott/0457.txt": {
+    "mtime": 1794839141.0496223,
+    "seen": 1795030114.7104,
+    "ast_hash": "b1aebcb2607a4d5ed10260edfc3f3905",
+    "semantic_hash": "b1aebcb2607a4d5ed10260edfc3f3905"
+  },
+  "pharmacology/books/text/lippincott/0458.txt": {
+    "mtime": 1794839141.0996215,
+    "seen": 1795030114.710401,
+    "ast_hash": "71cdda5c9b9fbc5f73f68b5e4ec935a5",
+    "semantic_hash": "71cdda5c9b9fbc5f73f68b5e4ec935a5"
+  },
+  "pharmacology/books/text/lippincott/0459.txt": {
+    "mtime": 1794839141.1477492,
+    "seen": 1795030114.710402,
+    "ast_hash": "e69dea3e08c21f3431aa1359b0362cb2",
+    "semantic_hash": "e69dea3e08c21f3431aa1359b0362cb2"
+  },
+  "pharmacology/books/text/lippincott/0460.txt": {
+    "mtime": 1794839141.1710634,
+    "seen": 1795030114.710403,
+    "ast_hash": "85ae13ef69aa608455a61f572c976dea",
+    "semantic_hash": "85ae13ef69aa608455a61f572c976dea"
+  },
+  "pharmacology/books/text/lippincott/0461.txt": {
+    "mtime": 1794839141.1891434,
+    "seen": 1795030114.7104042,
+    "ast_hash": "be79d0ada8139e3c3eca7b90bd9d477a",
+    "semantic_hash": "be79d0ada8139e3c3eca7b90bd9d477a"
+  },
+  "pharmacology/books/text/lippincott/0462.txt": {
+    "mtime": 1794839141.208527,
+    "seen": 1795030114.710405,
+    "ast_hash": "010e3bb905ea526790798bf22d096dfe",
+    "semantic_hash": "010e3bb905ea526790798bf22d096dfe"
+  },
+  "pharmacology/books/text/lippincott/0463.txt": {
+    "mtime": 1794839141.2254367,
+    "seen": 1795030114.710407,
+    "ast_hash": "4acdcecbc41c953745a8d16b37a16168",
+    "semantic_hash": "4acdcecbc41c953745a8d16b37a16168"
+  },
+  "pharmacology/books/text/lippincott/0464.txt": {
+    "mtime": 1794839141.24252,
+    "seen": 1795030114.710408,
+    "ast_hash": "4d3bff06fcdcb952e5e8e6754f1b8b38",
+    "semantic_hash": "4d3bff06fcdcb952e5e8e6754f1b8b38"
+  },
+  "pharmacology/books/text/lippincott/0465.txt": {
+    "mtime": 1794839141.2590876,
+    "seen": 1795030114.710409,
+    "ast_hash": "ba3c07732844c998c53fa1c8136d9b25",
+    "semantic_hash": "ba3c07732844c998c53fa1c8136d9b25"
+  },
+  "pharmacology/books/text/lippincott/0466.txt": {
+    "mtime": 1794839141.2760594,
+    "seen": 1795030114.7104099,
+    "ast_hash": "73484d60e7140bceabf59aa3b24c53fa",
+    "semantic_hash": "73484d60e7140bceabf59aa3b24c53fa"
+  },
+  "pharmacology/books/text/lippincott/0467.txt": {
+    "mtime": 1794839141.2990859,
+    "seen": 1795030114.710411,
+    "ast_hash": "d5a9c70880981b86030cd861b8a6e990",
+    "semantic_hash": "d5a9c70880981b86030cd861b8a6e990"
+  },
+  "pharmacology/books/text/lippincott/0468.txt": {
+    "mtime": 1794839141.3280952,
+    "seen": 1795030114.710412,
+    "ast_hash": "c2a60bf931ef3a93a7947c69beb43a77",
+    "semantic_hash": "c2a60bf931ef3a93a7947c69beb43a77"
+  },
+  "pharmacology/books/text/lippincott/0469.txt": {
+    "mtime": 1794839141.3461444,
+    "seen": 1795030114.710413,
+    "ast_hash": "432d8f28bd8fa3441cd9fc66bcc9e0a7",
+    "semantic_hash": "432d8f28bd8fa3441cd9fc66bcc9e0a7"
+  },
+  "pharmacology/books/text/lippincott/0470.txt": {
+    "mtime": 1794839141.3643885,
+    "seen": 1795030114.7104142,
+    "ast_hash": "7e06a5ca706b47b97a5db1afef1af718",
+    "semantic_hash": "7e06a5ca706b47b97a5db1afef1af718"
+  },
+  "pharmacology/books/text/lippincott/0471.txt": {
+    "mtime": 1794839141.3807733,
+    "seen": 1795030114.7104151,
+    "ast_hash": "7110c9620dae013acf0802303f884c8a",
+    "semantic_hash": "7110c9620dae013acf0802303f884c8a"
+  },
+  "pharmacology/books/text/lippincott/0472.txt": {
+    "mtime": 1794839141.4054325,
+    "seen": 1795030114.7104158,
+    "ast_hash": "1d0ebbdbace52641395cf544516cfc2a",
+    "semantic_hash": "1d0ebbdbace52641395cf544516cfc2a"
+  },
+  "pharmacology/books/text/lippincott/0473.txt": {
+    "mtime": 1794839141.4403286,
+    "seen": 1795030114.710418,
+    "ast_hash": "7d7bcae46e5853942207ee06f08cb4f6",
+    "semantic_hash": "7d7bcae46e5853942207ee06f08cb4f6"
+  },
+  "pharmacology/books/text/lippincott/0474.txt": {
+    "mtime": 1794839141.4531531,
+    "seen": 1795030114.710419,
+    "ast_hash": "aed4335d35e09ab9e4cf6e9ace54317b",
+    "semantic_hash": "aed4335d35e09ab9e4cf6e9ace54317b"
+  },
+  "pharmacology/books/text/lippincott/0475.txt": {
+    "mtime": 1794839141.4862406,
+    "seen": 1795030114.71042,
+    "ast_hash": "2431814a0004de1a333ac507e60838d0",
+    "semantic_hash": "2431814a0004de1a333ac507e60838d0"
+  },
+  "pharmacology/books/text/lippincott/0476.txt": {
+    "mtime": 1794839141.5081403,
+    "seen": 1795030114.710421,
+    "ast_hash": "d8f1961a8730277f886287a785ea73dc",
+    "semantic_hash": "d8f1961a8730277f886287a785ea73dc"
+  },
+  "pharmacology/books/text/lippincott/0477.txt": {
+    "mtime": 1794839141.5323236,
+    "seen": 1795030114.710422,
+    "ast_hash": "e5aa70a2b8dd61148424a01f2a809127",
+    "semantic_hash": "e5aa70a2b8dd61148424a01f2a809127"
+  },
+  "pharmacology/books/text/lippincott/0481.txt": {
+    "mtime": 1794839141.5807722,
+    "seen": 1795030114.710424,
+    "ast_hash": "04e72291ec9c81c395418a2160bc9607",
+    "semantic_hash": "04e72291ec9c81c395418a2160bc9607"
+  },
+  "pharmacology/books/text/lippincott/0482.txt": {
+    "mtime": 1794839141.6012504,
+    "seen": 1795030114.7104251,
+    "ast_hash": "2144e2c4941514c3466bf9212b2a3bdf",
+    "semantic_hash": "2144e2c4941514c3466bf9212b2a3bdf"
+  },
+  "pharmacology/books/text/lippincott/0483.txt": {
+    "mtime": 1794839141.6178758,
+    "seen": 1795030114.710426,
+    "ast_hash": "999c236ba9de16cff5e8f3edf4e33a3d",
+    "semantic_hash": "999c236ba9de16cff5e8f3edf4e33a3d"
+  },
+  "pharmacology/books/text/lippincott/0484.txt": {
+    "mtime": 1794839141.635949,
+    "seen": 1795030114.7104268,
+    "ast_hash": "b50894e22e98bc5278473d52a2bb92b8",
+    "semantic_hash": "b50894e22e98bc5278473d52a2bb92b8"
+  },
+  "pharmacology/books/text/lippincott/0485.txt": {
+    "mtime": 1794839141.6544225,
+    "seen": 1795030114.710428,
+    "ast_hash": "abe117b8a1b64ca79de53cc988615e94",
+    "semantic_hash": "abe117b8a1b64ca79de53cc988615e94"
+  },
+  "pharmacology/books/text/lippincott/0489.txt": {
+    "mtime": 1794839141.7108173,
+    "seen": 1795030114.710429,
+    "ast_hash": "81f6bc3d11218f52bf504fa29be58b23",
+    "semantic_hash": "81f6bc3d11218f52bf504fa29be58b23"
+  },
+  "pharmacology/books/text/lippincott/0490.txt": {
+    "mtime": 1794839141.7338855,
+    "seen": 1795030114.71043,
+    "ast_hash": "d57d504bdb0533a18c6532a36060a191",
+    "semantic_hash": "d57d504bdb0533a18c6532a36060a191"
+  },
+  "pharmacology/books/text/lippincott/0491.txt": {
+    "mtime": 1794839141.768457,
+    "seen": 1795030114.7104309,
+    "ast_hash": "3f6eb01992752dd356aaf41bafd0aa6d",
+    "semantic_hash": "3f6eb01992752dd356aaf41bafd0aa6d"
+  },
+  "pharmacology/books/text/lippincott/0492.txt": {
+    "mtime": 1794839141.7880704,
+    "seen": 1795030114.710432,
+    "ast_hash": "45c02aa0e6f121db52ab5854d52a8e94",
+    "semantic_hash": "45c02aa0e6f121db52ab5854d52a8e94"
+  },
+  "pharmacology/books/text/lippincott/0493.txt": {
+    "mtime": 1794839141.8055909,
+    "seen": 1795030114.710434,
+    "ast_hash": "97c9ebe45074a274881453b3ca98d1d6",
+    "semantic_hash": "97c9ebe45074a274881453b3ca98d1d6"
+  },
+  "pharmacology/books/text/lippincott/0494.txt": {
+    "mtime": 1794839141.8225965,
+    "seen": 1795030114.7104352,
+    "ast_hash": "6bacbfc3ab7fa41975147db45650dac1",
+    "semantic_hash": "6bacbfc3ab7fa41975147db45650dac1"
+  },
+  "pharmacology/books/text/lippincott/0495.txt": {
+    "mtime": 1794839141.857652,
+    "seen": 1795030114.710436,
+    "ast_hash": "d7d88e3d60ed45f57913800de0bc95f4",
+    "semantic_hash": "d7d88e3d60ed45f57913800de0bc95f4"
+  },
+  "pharmacology/books/text/lippincott/0496.txt": {
+    "mtime": 1794839141.880631,
+    "seen": 1795030114.710437,
+    "ast_hash": "c8cdbc6310dfad7ffea54998686fd964",
+    "semantic_hash": "c8cdbc6310dfad7ffea54998686fd964"
+  },
+  "pharmacology/books/text/lippincott/0497.txt": {
+    "mtime": 1794839141.9053817,
+    "seen": 1795030114.7104378,
+    "ast_hash": "9a39bdeb972465faf1520fab9be78c75",
+    "semantic_hash": "9a39bdeb972465faf1520fab9be78c75"
+  },
+  "pharmacology/books/text/lippincott/0498.txt": {
+    "mtime": 1794839141.9255035,
+    "seen": 1795030114.710439,
+    "ast_hash": "681fcc6e5f4a9047cad3eb170deff79e",
+    "semantic_hash": "681fcc6e5f4a9047cad3eb170deff79e"
+  },
+  "pharmacology/books/text/lippincott/0499.txt": {
+    "mtime": 1794839141.9483106,
+    "seen": 1795030114.71044,
+    "ast_hash": "5d7287316716fc3ed8fd86975d46c2a1",
+    "semantic_hash": "5d7287316716fc3ed8fd86975d46c2a1"
+  },
+  "pharmacology/books/text/lippincott/0500.txt": {
+    "mtime": 1794839141.9648087,
+    "seen": 1795030114.7104409,
+    "ast_hash": "0eceafd86d50706c77386fb8143b3ebc",
+    "semantic_hash": "0eceafd86d50706c77386fb8143b3ebc"
+  },
+  "pharmacology/books/text/lippincott/0501.txt": {
+    "mtime": 1794839141.9984357,
+    "seen": 1795030114.710442,
+    "ast_hash": "047ac387d059fc21c5e3186229bc9d2b",
+    "semantic_hash": "047ac387d059fc21c5e3186229bc9d2b"
+  },
+  "pharmacology/books/text/lippincott/0502.txt": {
+    "mtime": 1794839142.0291705,
+    "seen": 1795030114.710444,
+    "ast_hash": "cfa3f4d9ec435ee4fd343bc0114a4dee",
+    "semantic_hash": "cfa3f4d9ec435ee4fd343bc0114a4dee"
+  },
+  "pharmacology/books/text/lippincott/0503.txt": {
+    "mtime": 1794839142.0452912,
+    "seen": 1795030114.7104452,
+    "ast_hash": "5dee57499fa62ce191f5b5c8cc08613c",
+    "semantic_hash": "5dee57499fa62ce191f5b5c8cc08613c"
+  },
+  "pharmacology/books/text/lippincott/0504.txt": {
+    "mtime": 1794839142.0645328,
+    "seen": 1795030114.7104461,
+    "ast_hash": "8515b93a6f5da07b68dea4dd0b4fef9a",
+    "semantic_hash": "8515b93a6f5da07b68dea4dd0b4fef9a"
+  },
+  "pharmacology/books/text/lippincott/0505.txt": {
+    "mtime": 1794839142.0863836,
+    "seen": 1795030114.710447,
+    "ast_hash": "49b738909a98d6858b1bfef0af1285c0",
+    "semantic_hash": "49b738909a98d6858b1bfef0af1285c0"
+  },
+  "pharmacology/books/text/lippincott/0506.txt": {
+    "mtime": 1794839142.1134825,
+    "seen": 1795030114.710448,
+    "ast_hash": "5fbc362a8513ffb43b9b4028d20d4137",
+    "semantic_hash": "5fbc362a8513ffb43b9b4028d20d4137"
+  },
+  "pharmacology/books/text/lippincott/0507.txt": {
+    "mtime": 1794839142.1627674,
+    "seen": 1795030114.710449,
+    "ast_hash": "717e3cb8a891cae20a914c381894cb44",
+    "semantic_hash": "717e3cb8a891cae20a914c381894cb44"
+  },
+  "pharmacology/books/text/lippincott/0508.txt": {
+    "mtime": 1794839142.1893232,
+    "seen": 1795030114.71045,
+    "ast_hash": "499217ef9f15aa5a4261979bdaa630da",
+    "semantic_hash": "499217ef9f15aa5a4261979bdaa630da"
+  },
+  "pharmacology/books/text/lippincott/0509.txt": {
+    "mtime": 1794839142.2102714,
+    "seen": 1795030114.710451,
+    "ast_hash": "2e91a456e0433c15079503071ce49929",
+    "semantic_hash": "2e91a456e0433c15079503071ce49929"
+  },
+  "pharmacology/books/text/lippincott/0510.txt": {
+    "mtime": 1794839142.244298,
+    "seen": 1795030114.710452,
+    "ast_hash": "31c537cfdee0563c34de408f6cdaf6ed",
+    "semantic_hash": "31c537cfdee0563c34de408f6cdaf6ed"
+  },
+  "pharmacology/books/text/lippincott/0511.txt": {
+    "mtime": 1794839142.2787955,
+    "seen": 1795030114.710454,
+    "ast_hash": "f7de3866a0f791b183eee3bfd7ec1960",
+    "semantic_hash": "f7de3866a0f791b183eee3bfd7ec1960"
+  },
+  "pharmacology/books/text/lippincott/0512.txt": {
+    "mtime": 1794839142.3044147,
+    "seen": 1795030114.710455,
+    "ast_hash": "a755825b575bfc4e87edff85542aac58",
+    "semantic_hash": "a755825b575bfc4e87edff85542aac58"
+  },
+  "pharmacology/books/text/lippincott/0513.txt": {
+    "mtime": 1794839142.3414676,
+    "seen": 1795030114.7104561,
+    "ast_hash": "f9a30c34ca6242cece4810f971eaabf3",
+    "semantic_hash": "f9a30c34ca6242cece4810f971eaabf3"
+  },
+  "pharmacology/books/text/lippincott/0514.txt": {
+    "mtime": 1794839142.3644974,
+    "seen": 1795030114.710457,
+    "ast_hash": "8ce25901cf39ff15b018c3e3b288400a",
+    "semantic_hash": "8ce25901cf39ff15b018c3e3b288400a"
+  },
+  "pharmacology/books/text/lippincott/0515.txt": {
+    "mtime": 1794839142.391114,
+    "seen": 1795030114.710458,
+    "ast_hash": "7acee58e1237301f614ac51866adeb9c",
+    "semantic_hash": "7acee58e1237301f614ac51866adeb9c"
+  },
+  "pharmacology/books/text/lippincott/0516.txt": {
+    "mtime": 1794839142.413915,
+    "seen": 1795030114.710459,
+    "ast_hash": "c4443cfa8f1473fe76f06a4ace9916db",
+    "semantic_hash": "c4443cfa8f1473fe76f06a4ace9916db"
+  },
+  "pharmacology/books/text/lippincott/0517.txt": {
+    "mtime": 1794839142.4336553,
+    "seen": 1795030114.71046,
+    "ast_hash": "2fcdc699e07a1f7674c44ae9e50d8f0f",
+    "semantic_hash": "2fcdc699e07a1f7674c44ae9e50d8f0f"
+  },
+  "pharmacology/books/text/lippincott/0518.txt": {
+    "mtime": 1794839142.4485757,
+    "seen": 1795030114.710461,
+    "ast_hash": "4a70b9876f643400ac96bf384588c329",
+    "semantic_hash": "4a70b9876f643400ac96bf384588c329"
+  },
+  "pharmacology/books/text/lippincott/0519.txt": {
+    "mtime": 1794839142.4612775,
+    "seen": 1795030114.7104619,
+    "ast_hash": "0859eb1cafcb234ca701e171b613f968",
+    "semantic_hash": "0859eb1cafcb234ca701e171b613f968"
+  },
+  "pharmacology/books/text/lippincott/0520.txt": {
+    "mtime": 1794839142.4709558,
+    "seen": 1795030114.710463,
+    "ast_hash": "d870e691d9d60dd792475dee2cea87aa",
+    "semantic_hash": "d870e691d9d60dd792475dee2cea87aa"
+  },
+  "pharmacology/books/text/lippincott/0521.txt": {
+    "mtime": 1794839142.4874473,
+    "seen": 1795030114.710464,
+    "ast_hash": "c001ea605652cb5ad8afe0966f34bc95",
+    "semantic_hash": "c001ea605652cb5ad8afe0966f34bc95"
+  },
+  "pharmacology/books/text/lippincott/0522.txt": {
+    "mtime": 1794839142.5269446,
+    "seen": 1795030114.710465,
+    "ast_hash": "03bb7abd2320ee81cafde1cdad0f6b41",
+    "semantic_hash": "03bb7abd2320ee81cafde1cdad0f6b41"
+  },
+  "pharmacology/books/text/lippincott/0523.txt": {
+    "mtime": 1794839142.5842998,
+    "seen": 1795030114.7104661,
+    "ast_hash": "6000b141903676c76b3792928d198c49",
+    "semantic_hash": "6000b141903676c76b3792928d198c49"
+  },
+  "pharmacology/books/text/lippincott/0524.txt": {
+    "mtime": 1794839142.6272225,
+    "seen": 1795030114.710467,
+    "ast_hash": "c2666b0f6e09c02f3ecadd458f759880",
+    "semantic_hash": "c2666b0f6e09c02f3ecadd458f759880"
+  },
+  "pharmacology/books/text/lippincott/0525.txt": {
+    "mtime": 1794839142.6487849,
+    "seen": 1795030114.710469,
+    "ast_hash": "3a756ad50b45011a9edf65d435a72f02",
+    "semantic_hash": "3a756ad50b45011a9edf65d435a72f02"
+  },
+  "pharmacology/books/text/lippincott/0526.txt": {
+    "mtime": 1794839142.6860745,
+    "seen": 1795030114.71047,
+    "ast_hash": "a15631032760a2cb37a2b1109597a98b",
+    "semantic_hash": "a15631032760a2cb37a2b1109597a98b"
+  },
+  "pharmacology/books/text/lippincott/0527.txt": {
+    "mtime": 1794839142.722007,
+    "seen": 1795030114.710471,
+    "ast_hash": "862be0b9dab2e25191512686279aae0a",
+    "semantic_hash": "862be0b9dab2e25191512686279aae0a"
+  },
+  "pharmacology/books/text/lippincott/0528.txt": {
+    "mtime": 1794839142.7438817,
+    "seen": 1795030114.7104719,
+    "ast_hash": "38d4e8de9ee0c17ebd99f99b55728f5a",
+    "semantic_hash": "38d4e8de9ee0c17ebd99f99b55728f5a"
+  },
+  "pharmacology/books/text/lippincott/0529.txt": {
+    "mtime": 1794839142.7724602,
+    "seen": 1795030114.710473,
+    "ast_hash": "c626270b200b916a5f010de92c5d92ec",
+    "semantic_hash": "c626270b200b916a5f010de92c5d92ec"
+  },
+  "pharmacology/books/text/lippincott/0530.txt": {
+    "mtime": 1794839142.7993782,
+    "seen": 1795030114.710474,
+    "ast_hash": "e12bccb84478c3826a374bef92ecc24f",
+    "semantic_hash": "e12bccb84478c3826a374bef92ecc24f"
+  },
+  "pharmacology/books/text/lippincott/0531.txt": {
+    "mtime": 1794839142.8204696,
+    "seen": 1795030114.710475,
+    "ast_hash": "4d299a82818c95fd732a4f824dcd2795",
+    "semantic_hash": "4d299a82818c95fd732a4f824dcd2795"
+  },
+  "pharmacology/books/text/lippincott/0532.txt": {
+    "mtime": 1794839142.8491187,
+    "seen": 1795030114.710476,
+    "ast_hash": "cf33ad7f930e7c9d31cc76abc6c04e73",
+    "semantic_hash": "cf33ad7f930e7c9d31cc76abc6c04e73"
+  },
+  "pharmacology/books/text/lippincott/0533.txt": {
+    "mtime": 1794839142.8671165,
+    "seen": 1795030114.710477,
+    "ast_hash": "eab518803a649c6c8229b7594928309f",
+    "semantic_hash": "eab518803a649c6c8229b7594928309f"
+  },
+  "pharmacology/books/text/lippincott/0534.txt": {
+    "mtime": 1794839142.8820877,
+    "seen": 1795030114.710478,
+    "ast_hash": "62811e3668278561314fb53ad92571db",
+    "semantic_hash": "62811e3668278561314fb53ad92571db"
+  },
+  "pharmacology/books/text/lippincott/0535.txt": {
+    "mtime": 1794839142.8987591,
+    "seen": 1795030114.710479,
+    "ast_hash": "a105c855ce1b320f040baf62887ba63d",
+    "semantic_hash": "a105c855ce1b320f040baf62887ba63d"
+  },
+  "pharmacology/books/text/lippincott/0536.txt": {
+    "mtime": 1794839142.9154031,
+    "seen": 1795030114.71048,
+    "ast_hash": "1c2b8b16005fb8770244e6f8c283f063",
+    "semantic_hash": "1c2b8b16005fb8770244e6f8c283f063"
+  },
+  "pharmacology/books/text/lippincott/0537.txt": {
+    "mtime": 1794839142.935714,
+    "seen": 1795030114.710481,
+    "ast_hash": "372926c63233d97b6d3d715c13cb88aa",
+    "semantic_hash": "372926c63233d97b6d3d715c13cb88aa"
+  },
+  "pharmacology/books/text/lippincott/0538.txt": {
+    "mtime": 1794839142.9651778,
+    "seen": 1795030114.7104828,
+    "ast_hash": "450621bdd6bbf36704d28f7487c28baa",
+    "semantic_hash": "450621bdd6bbf36704d28f7487c28baa"
+  },
+  "pharmacology/books/text/lippincott/0539.txt": {
+    "mtime": 1794839142.992756,
+    "seen": 1795030114.710484,
+    "ast_hash": "d3aa9e08dd0e2a1dfa6cb39ce70ae8d7",
+    "semantic_hash": "d3aa9e08dd0e2a1dfa6cb39ce70ae8d7"
+  },
+  "pharmacology/books/text/lippincott/0540.txt": {
+    "mtime": 1794839143.0204592,
+    "seen": 1795030114.710485,
+    "ast_hash": "92dbdc372cf305452fecaf077c4354fe",
+    "semantic_hash": "92dbdc372cf305452fecaf077c4354fe"
+  },
+  "pharmacology/books/text/lippincott/0541.txt": {
+    "mtime": 1794839143.0386934,
+    "seen": 1795030114.710486,
+    "ast_hash": "91fb64cbc41fd56566560b1ff9439a2d",
+    "semantic_hash": "91fb64cbc41fd56566560b1ff9439a2d"
+  },
+  "pharmacology/books/text/lippincott/0542.txt": {
+    "mtime": 1794839143.06047,
+    "seen": 1795030114.7104871,
+    "ast_hash": "b7cb117a41f8903b22333cee5fa23e78",
+    "semantic_hash": "b7cb117a41f8903b22333cee5fa23e78"
+  },
+  "pharmacology/books/text/lippincott/0543.txt": {
+    "mtime": 1794839143.089433,
+    "seen": 1795030114.710488,
+    "ast_hash": "446a7e577c6630154e554e30422dcf12",
+    "semantic_hash": "446a7e577c6630154e554e30422dcf12"
+  },
+  "pharmacology/books/text/lippincott/0544.txt": {
+    "mtime": 1794839143.1173253,
+    "seen": 1795030114.710489,
+    "ast_hash": "a9eb14638420596c3b1c389bfecf4f57",
+    "semantic_hash": "a9eb14638420596c3b1c389bfecf4f57"
+  },
+  "pharmacology/books/text/lippincott/0545.txt": {
+    "mtime": 1794839143.1362448,
+    "seen": 1795030114.7104902,
+    "ast_hash": "3f09ad292a1f02f4f9010d23dececb75",
+    "semantic_hash": "3f09ad292a1f02f4f9010d23dececb75"
+  },
+  "pharmacology/books/text/lippincott/0546.txt": {
+    "mtime": 1794839143.1746774,
+    "seen": 1795030114.710491,
+    "ast_hash": "173e37c1285d8977029cc1d512b6211a",
+    "semantic_hash": "173e37c1285d8977029cc1d512b6211a"
+  },
+  "pharmacology/books/text/lippincott/0547.txt": {
+    "mtime": 1794839143.199216,
+    "seen": 1795030114.710492,
+    "ast_hash": "636ee14e1e87c4c5e5a9c9b023e0a78a",
+    "semantic_hash": "636ee14e1e87c4c5e5a9c9b023e0a78a"
+  },
+  "pharmacology/books/text/lippincott/0548.txt": {
+    "mtime": 1794839143.2191615,
+    "seen": 1795030114.7104928,
+    "ast_hash": "7b879e92fd8b038f0440bf61d2ae4c7e",
+    "semantic_hash": "7b879e92fd8b038f0440bf61d2ae4c7e"
+  },
+  "pharmacology/books/text/lippincott/0550.txt": {
+    "mtime": 1794839143.24732,
+    "seen": 1795030114.710495,
+    "ast_hash": "8f2cb3e02eebd4563ee56745fd06c7c5",
+    "semantic_hash": "8f2cb3e02eebd4563ee56745fd06c7c5"
+  },
+  "pharmacology/books/text/lippincott/0551.txt": {
+    "mtime": 1794839143.2667265,
+    "seen": 1795030114.710496,
+    "ast_hash": "b46888354e8c557e409c934616cf0b2d",
+    "semantic_hash": "b46888354e8c557e409c934616cf0b2d"
+  },
+  "pharmacology/books/text/lippincott/0552.txt": {
+    "mtime": 1794839143.2865605,
+    "seen": 1795030114.7104971,
+    "ast_hash": "e152e141a70a79a03fe6fe2e96aeadef",
+    "semantic_hash": "e152e141a70a79a03fe6fe2e96aeadef"
+  },
+  "pharmacology/books/text/lippincott/0553.txt": {
+    "mtime": 1794839143.319601,
+    "seen": 1795030114.710498,
+    "ast_hash": "e39e921df4feb474a1415ec831a6e1c5",
+    "semantic_hash": "e39e921df4feb474a1415ec831a6e1c5"
+  },
+  "pharmacology/books/text/lippincott/0554.txt": {
+    "mtime": 1794839143.349016,
+    "seen": 1795030114.710499,
+    "ast_hash": "a003cb000e64c31349a3db269c4f6557",
+    "semantic_hash": "a003cb000e64c31349a3db269c4f6557"
+  },
+  "pharmacology/books/text/lippincott/0555.txt": {
+    "mtime": 1794839143.3691878,
+    "seen": 1795030114.7105,
+    "ast_hash": "440d4358f68e2c4bb27560c99f045cce",
+    "semantic_hash": "440d4358f68e2c4bb27560c99f045cce"
+  },
+  "pharmacology/books/text/lippincott/0556.txt": {
+    "mtime": 1794839143.3860784,
+    "seen": 1795030114.7105012,
+    "ast_hash": "3e7be5e0121d888c15a20d2647e1821d",
+    "semantic_hash": "3e7be5e0121d888c15a20d2647e1821d"
+  },
+  "pharmacology/books/text/lippincott/0557.txt": {
+    "mtime": 1794839143.4028447,
+    "seen": 1795030114.710502,
+    "ast_hash": "bacef86040bdde353522bcc366a100a6",
+    "semantic_hash": "bacef86040bdde353522bcc366a100a6"
+  },
+  "pharmacology/books/text/lippincott/0558.txt": {
+    "mtime": 1794839143.4161305,
+    "seen": 1795030114.7105029,
+    "ast_hash": "6ce88e3ebebd13da516ede44ded6cca7",
+    "semantic_hash": "6ce88e3ebebd13da516ede44ded6cca7"
+  },
+  "pharmacology/books/text/lippincott/0559.txt": {
+    "mtime": 1794839143.4400558,
+    "seen": 1795030114.710505,
+    "ast_hash": "60f9e83d60932ad48e33013aa4232ba2",
+    "semantic_hash": "60f9e83d60932ad48e33013aa4232ba2"
+  },
+  "pharmacology/books/text/lippincott/0560.txt": {
+    "mtime": 1794839143.4562905,
+    "seen": 1795030114.710506,
+    "ast_hash": "a18bce31a513ede50007e9caa38cc23e",
+    "semantic_hash": "a18bce31a513ede50007e9caa38cc23e"
+  },
+  "pharmacology/books/text/lippincott/0561.txt": {
+    "mtime": 1794839143.4717739,
+    "seen": 1795030114.710507,
+    "ast_hash": "3ed457bdb5ddbcce84cd4a9284f9e582",
+    "semantic_hash": "3ed457bdb5ddbcce84cd4a9284f9e582"
+  },
+  "pharmacology/books/text/lippincott/0563.txt": {
+    "mtime": 1794839143.5006611,
+    "seen": 1795030114.710508,
+    "ast_hash": "9595f56217a49b4a776d5c0380c6799f",
+    "semantic_hash": "9595f56217a49b4a776d5c0380c6799f"
+  },
+  "pharmacology/books/text/lippincott/0565.txt": {
+    "mtime": 1794839143.5208447,
+    "seen": 1795030114.710509,
+    "ast_hash": "cbd9a0601bbc09b19685dd3fda9bcf28",
+    "semantic_hash": "cbd9a0601bbc09b19685dd3fda9bcf28"
+  },
+  "pharmacology/books/text/lippincott/0566.txt": {
+    "mtime": 1794839143.5337458,
+    "seen": 1795030114.71051,
+    "ast_hash": "32219e609efb23238f7b630bbe8ec107",
+    "semantic_hash": "32219e609efb23238f7b630bbe8ec107"
+  },
+  "pharmacology/books/text/lippincott/0567.txt": {
+    "mtime": 1794839143.57286,
+    "seen": 1795030114.7105112,
+    "ast_hash": "c1041f051214e7681855bc23cb39db70",
+    "semantic_hash": "c1041f051214e7681855bc23cb39db70"
+  },
+  "pharmacology/books/text/lippincott/0568.txt": {
+    "mtime": 1794839143.602889,
+    "seen": 1795030114.7105122,
+    "ast_hash": "f7abff4692305f86fac7c112aea89b40",
+    "semantic_hash": "f7abff4692305f86fac7c112aea89b40"
+  },
+  "pharmacology/books/text/lippincott/0569.txt": {
+    "mtime": 1794839143.6282234,
+    "seen": 1795030114.7105129,
+    "ast_hash": "da757d6bdd9bb569628ad6f68e23037f",
+    "semantic_hash": "da757d6bdd9bb569628ad6f68e23037f"
+  },
+  "pharmacology/books/text/lippincott/0570.txt": {
+    "mtime": 1794839143.6498947,
+    "seen": 1795030114.7105138,
+    "ast_hash": "ba1ea916bd18c0c4c4d8905a431ff53e",
+    "semantic_hash": "ba1ea916bd18c0c4c4d8905a431ff53e"
+  },
+  "pharmacology/books/text/lippincott/0571.txt": {
+    "mtime": 1794839143.6655347,
+    "seen": 1795030114.710516,
+    "ast_hash": "397696984e52e62b539249e2c216db39",
+    "semantic_hash": "397696984e52e62b539249e2c216db39"
+  },
+  "pharmacology/books/text/lippincott/0572.txt": {
+    "mtime": 1794839143.680453,
+    "seen": 1795030114.710517,
+    "ast_hash": "926633932bb411094a0afdf47a008706",
+    "semantic_hash": "926633932bb411094a0afdf47a008706"
+  },
+  "pharmacology/books/text/lippincott/0573.txt": {
+    "mtime": 1794839143.6981757,
+    "seen": 1795030114.7105181,
+    "ast_hash": "7af40e30cb1eafe397caa2e72da6b587",
+    "semantic_hash": "7af40e30cb1eafe397caa2e72da6b587"
+  },
+  "pharmacology/books/text/lippincott/0574.txt": {
+    "mtime": 1794839143.7248235,
+    "seen": 1795030114.710519,
+    "ast_hash": "96fe1e0ce9e6fd55f8ed03d6eae1963f",
+    "semantic_hash": "96fe1e0ce9e6fd55f8ed03d6eae1963f"
+  },
+  "pharmacology/books/text/lippincott/0575.txt": {
+    "mtime": 1794839143.7404282,
+    "seen": 1795030114.71052,
+    "ast_hash": "71911203aa8f547f15e53717b7c45cfc",
+    "semantic_hash": "71911203aa8f547f15e53717b7c45cfc"
+  },
+  "pharmacology/books/text/lippincott/0576.txt": {
+    "mtime": 1794839143.7554014,
+    "seen": 1795030114.710521,
+    "ast_hash": "ec69d791b0fb026284bbd0de51d9ccab",
+    "semantic_hash": "ec69d791b0fb026284bbd0de51d9ccab"
+  },
+  "pharmacology/books/text/lippincott/0577.txt": {
+    "mtime": 1794839143.7697392,
+    "seen": 1795030114.7105222,
+    "ast_hash": "6eb60e260b132952a3edbdf8a71ce5b8",
+    "semantic_hash": "6eb60e260b132952a3edbdf8a71ce5b8"
+  },
+  "pharmacology/books/text/lippincott/0578.txt": {
+    "mtime": 1794839143.7860358,
+    "seen": 1795030114.710523,
+    "ast_hash": "b7f039020e4de7657edb6304ec0100e9",
+    "semantic_hash": "b7f039020e4de7657edb6304ec0100e9"
+  },
+  "pharmacology/books/text/lippincott/0579.txt": {
+    "mtime": 1794839143.793184,
+    "seen": 1795030114.7105238,
+    "ast_hash": "bf41b4b7f4a78f6726f0ee55701b7e9e",
+    "semantic_hash": "bf41b4b7f4a78f6726f0ee55701b7e9e"
+  },
+  "pharmacology/books/text/lippincott/0581.txt": {
+    "mtime": 1794839143.8152785,
+    "seen": 1795030114.710525,
+    "ast_hash": "bb43fa504e4be06f9780a2919fe94321",
+    "semantic_hash": "bb43fa504e4be06f9780a2919fe94321"
+  },
+  "pharmacology/books/text/lippincott/0582.txt": {
+    "mtime": 1794839143.8491113,
+    "seen": 1795030114.710526,
+    "ast_hash": "de014c34e0c230359a628ee3229b736f",
+    "semantic_hash": "de014c34e0c230359a628ee3229b736f"
+  },
+  "pharmacology/books/text/lippincott/0583.txt": {
+    "mtime": 1794839143.8797467,
+    "seen": 1795030114.710528,
+    "ast_hash": "a458b5ff461203d2d9edcabb32e7377e",
+    "semantic_hash": "a458b5ff461203d2d9edcabb32e7377e"
+  },
+  "pharmacology/books/text/lippincott/0584.txt": {
+    "mtime": 1794839143.899003,
+    "seen": 1795030114.710529,
+    "ast_hash": "3967aab29fb71a4a9a78fb6aebb5592b",
+    "semantic_hash": "3967aab29fb71a4a9a78fb6aebb5592b"
+  },
+  "pharmacology/books/text/lippincott/0585.txt": {
+    "mtime": 1794839143.9150994,
+    "seen": 1795030114.71053,
+    "ast_hash": "5c314fbd699205320ed9f6509dc65296",
+    "semantic_hash": "5c314fbd699205320ed9f6509dc65296"
+  },
+  "pharmacology/books/text/lippincott/0586.txt": {
+    "mtime": 1794839143.9331524,
+    "seen": 1795030114.710531,
+    "ast_hash": "6b14861ee4cad1dfda312d823780b11b",
+    "semantic_hash": "6b14861ee4cad1dfda312d823780b11b"
+  },
+  "pharmacology/books/text/lippincott/0587.txt": {
+    "mtime": 1794839143.9643974,
+    "seen": 1795030114.7105322,
+    "ast_hash": "c2d6cf746a57c900552234c07f8da12b",
+    "semantic_hash": "c2d6cf746a57c900552234c07f8da12b"
+  },
+  "pharmacology/books/text/lippincott/0588.txt": {
+    "mtime": 1794839144.0164812,
+    "seen": 1795030114.7105331,
+    "ast_hash": "7995ae50e900b9edfac37f914dba7c40",
+    "semantic_hash": "7995ae50e900b9edfac37f914dba7c40"
+  },
+  "pharmacology/books/text/lippincott/0589.txt": {
+    "mtime": 1794839144.0518675,
+    "seen": 1795030114.7105339,
+    "ast_hash": "8e0fa5201e3d9a41c7e4ff6f4b859c19",
+    "semantic_hash": "8e0fa5201e3d9a41c7e4ff6f4b859c19"
+  },
+  "pharmacology/books/text/lippincott/0590.txt": {
+    "mtime": 1794839144.0702946,
+    "seen": 1795030114.7105348,
+    "ast_hash": "83aa94246c912118611f64b5e246bbb7",
+    "semantic_hash": "83aa94246c912118611f64b5e246bbb7"
+  },
+  "pharmacology/books/text/lippincott/0591.txt": {
+    "mtime": 1794839144.1141372,
+    "seen": 1795030114.710536,
+    "ast_hash": "6a99b0ef2425f218e73856580fa4be45",
+    "semantic_hash": "6a99b0ef2425f218e73856580fa4be45"
+  },
+  "pharmacology/books/text/lippincott/0592.txt": {
+    "mtime": 1794839144.1372645,
+    "seen": 1795030114.710537,
+    "ast_hash": "051edae5bda012bea006cdf682d1884e",
+    "semantic_hash": "051edae5bda012bea006cdf682d1884e"
+  },
+  "pharmacology/books/text/lippincott/0593.txt": {
+    "mtime": 1794839144.164169,
+    "seen": 1795030114.710538,
+    "ast_hash": "baf340fbcfdf0504897f679865789b15",
+    "semantic_hash": "baf340fbcfdf0504897f679865789b15"
+  },
+  "pharmacology/books/text/lippincott/0594.txt": {
+    "mtime": 1794839144.189785,
+    "seen": 1795030114.71054,
+    "ast_hash": "7f8212895ff1624a152edaac55577931",
+    "semantic_hash": "7f8212895ff1624a152edaac55577931"
+  },
+  "pharmacology/books/text/lippincott/0595.txt": {
+    "mtime": 1794839144.210941,
+    "seen": 1795030114.710541,
+    "ast_hash": "5c5066b6dfc7d26331f1d00be2ffed0e",
+    "semantic_hash": "5c5066b6dfc7d26331f1d00be2ffed0e"
+  },
+  "pharmacology/books/text/lippincott/0596.txt": {
+    "mtime": 1794839144.2331324,
+    "seen": 1795030114.710542,
+    "ast_hash": "6a4751bd36600f09301cfe4371ba71eb",
+    "semantic_hash": "6a4751bd36600f09301cfe4371ba71eb"
+  },
+  "pharmacology/books/text/lippincott/0597.txt": {
+    "mtime": 1794839144.2454336,
+    "seen": 1795030114.7105432,
+    "ast_hash": "50b1e5152fe56d350f3edb324b51ccb3",
+    "semantic_hash": "50b1e5152fe56d350f3edb324b51ccb3"
+  },
+  "pharmacology/books/text/lippincott/0598.txt": {
+    "mtime": 1794839144.2613313,
+    "seen": 1795030114.7105439,
+    "ast_hash": "42296faac64191b6aa887b1fc3e7978d",
+    "semantic_hash": "42296faac64191b6aa887b1fc3e7978d"
+  },
+  "pharmacology/books/text/lippincott/0599.txt": {
+    "mtime": 1794839144.280369,
+    "seen": 1795030114.7105448,
+    "ast_hash": "31ae17eb8d640df0fb3eecc4d7f64087",
+    "semantic_hash": "31ae17eb8d640df0fb3eecc4d7f64087"
+  },
+  "pharmacology/books/text/lippincott/0601.txt": {
+    "mtime": 1794839144.2997763,
+    "seen": 1795030114.710546,
+    "ast_hash": "e543cf3436f2ad807f36499dd6228fe4",
+    "semantic_hash": "e543cf3436f2ad807f36499dd6228fe4"
+  },
+  "pharmacology/books/text/lippincott/0602.txt": {
+    "mtime": 1794839144.3210711,
+    "seen": 1795030114.710547,
+    "ast_hash": "167f12edcc487bd3cd06cc2241340a3f",
+    "semantic_hash": "167f12edcc487bd3cd06cc2241340a3f"
+  },
+  "pharmacology/books/text/lippincott/0603.txt": {
+    "mtime": 1794839144.3398383,
+    "seen": 1795030114.710548,
+    "ast_hash": "2ba987441ce0ab693b58900296a174da",
+    "semantic_hash": "2ba987441ce0ab693b58900296a174da"
+  },
+  "pharmacology/books/text/lippincott/0604.txt": {
+    "mtime": 1794839144.3553786,
+    "seen": 1795030114.7105489,
+    "ast_hash": "330970fa3eb81d75acc8abb68d2692ca",
+    "semantic_hash": "330970fa3eb81d75acc8abb68d2692ca"
+  },
+  "pharmacology/books/text/lippincott/0605.txt": {
+    "mtime": 1794839144.3875492,
+    "seen": 1795030114.71055,
+    "ast_hash": "190f6e0662cc3a33c25ff98d3fb0d96e",
+    "semantic_hash": "190f6e0662cc3a33c25ff98d3fb0d96e"
+  },
+  "pharmacology/books/text/lippincott/0606.txt": {
+    "mtime": 1794839144.4149659,
+    "seen": 1795030114.710551,
+    "ast_hash": "8f3d4510b8b09fa80b198284117540e7",
+    "semantic_hash": "8f3d4510b8b09fa80b198284117540e7"
+  },
+  "pharmacology/books/text/lippincott/0607.txt": {
+    "mtime": 1794839144.4384,
+    "seen": 1795030114.710552,
+    "ast_hash": "dfc36b65af24668bc274a595312c09db",
+    "semantic_hash": "dfc36b65af24668bc274a595312c09db"
+  },
+  "pharmacology/books/text/lippincott/0608.txt": {
+    "mtime": 1794839144.464912,
+    "seen": 1795030114.7105532,
+    "ast_hash": "a6feb53798e80d36fa4cc9065a9eb5e7",
+    "semantic_hash": "a6feb53798e80d36fa4cc9065a9eb5e7"
+  },
+  "pharmacology/books/text/lippincott/0609.txt": {
+    "mtime": 1794839144.5022843,
+    "seen": 1795030114.7105548,
+    "ast_hash": "733069318a407b564217b047c87c4ace",
+    "semantic_hash": "733069318a407b564217b047c87c4ace"
+  },
+  "pharmacology/books/text/lippincott/0610.txt": {
+    "mtime": 1794839144.5222075,
+    "seen": 1795030114.7105558,
+    "ast_hash": "71952bd69d4787e8caeddf0d3db337b2",
+    "semantic_hash": "71952bd69d4787e8caeddf0d3db337b2"
+  },
+  "pharmacology/books/text/lippincott/0611.txt": {
+    "mtime": 1794839144.5412889,
+    "seen": 1795030114.710557,
+    "ast_hash": "991dee3586b6c3b8bf1b3297a2308ff6",
+    "semantic_hash": "991dee3586b6c3b8bf1b3297a2308ff6"
+  },
+  "pharmacology/books/text/lippincott/0612.txt": {
+    "mtime": 1794839144.5599124,
+    "seen": 1795030114.710558,
+    "ast_hash": "f82ef336bb2521a444e4b07a4f7888c1",
+    "semantic_hash": "f82ef336bb2521a444e4b07a4f7888c1"
+  },
+  "pharmacology/books/text/lippincott/0613.txt": {
+    "mtime": 1794839144.577722,
+    "seen": 1795030114.710559,
+    "ast_hash": "57f7754c0b7fb892df727d9cba3164c7",
+    "semantic_hash": "57f7754c0b7fb892df727d9cba3164c7"
+  },
+  "pharmacology/books/text/lippincott/0614.txt": {
+    "mtime": 1794839144.5971828,
+    "seen": 1795030114.71056,
+    "ast_hash": "7de5f5e3202b3763d6c0c6d094022cf4",
+    "semantic_hash": "7de5f5e3202b3763d6c0c6d094022cf4"
+  },
+  "pharmacology/books/text/lippincott/0615.txt": {
+    "mtime": 1794839144.6229322,
+    "seen": 1795030114.710561,
+    "ast_hash": "569d5c3995b70236700875c5c343fd73",
+    "semantic_hash": "569d5c3995b70236700875c5c343fd73"
+  },
+  "pharmacology/books/text/lippincott/0616.txt": {
+    "mtime": 1794839144.650416,
+    "seen": 1795030114.710562,
+    "ast_hash": "f953b8d9fbd6ee915f5d633f0de2768f",
+    "semantic_hash": "f953b8d9fbd6ee915f5d633f0de2768f"
+  },
+  "pharmacology/books/text/lippincott/0617.txt": {
+    "mtime": 1794839144.6675568,
+    "seen": 1795030114.7105632,
+    "ast_hash": "af324e288b10eaa0fbfda7305885bc7b",
+    "semantic_hash": "af324e288b10eaa0fbfda7305885bc7b"
+  },
+  "pharmacology/books/text/lippincott/0618.txt": {
+    "mtime": 1794839144.6903384,
+    "seen": 1795030114.710565,
+    "ast_hash": "f376471c91dcb925fa7c704e2de8e1f1",
+    "semantic_hash": "f376471c91dcb925fa7c704e2de8e1f1"
+  },
+  "pharmacology/books/text/lippincott/0619.txt": {
+    "mtime": 1794839144.7151325,
+    "seen": 1795030114.7105658,
+    "ast_hash": "5dccdaa1b9e8c0fab8305b2d7e08a902",
+    "semantic_hash": "5dccdaa1b9e8c0fab8305b2d7e08a902"
+  },
+  "pharmacology/books/text/lippincott/0620.txt": {
+    "mtime": 1794839144.745432,
+    "seen": 1795030114.710567,
+    "ast_hash": "3820ae016f3b01b98521eca83c736b85",
+    "semantic_hash": "3820ae016f3b01b98521eca83c736b85"
+  },
+  "pharmacology/books/text/lippincott/0621.txt": {
+    "mtime": 1794839144.7774746,
+    "seen": 1795030114.710568,
+    "ast_hash": "1441e9a4807040c187f83b49fc47547c",
+    "semantic_hash": "1441e9a4807040c187f83b49fc47547c"
+  },
+  "pharmacology/books/text/lippincott/0622.txt": {
+    "mtime": 1794839144.7924805,
+    "seen": 1795030114.710569,
+    "ast_hash": "7400909af27414e00d316f64f7f66c03",
+    "semantic_hash": "7400909af27414e00d316f64f7f66c03"
+  },
+  "pharmacology/books/text/lippincott/0623.txt": {
+    "mtime": 1794839144.8138885,
+    "seen": 1795030114.71057,
+    "ast_hash": "d2c59d95a380860c5a7c76fcfa866228",
+    "semantic_hash": "d2c59d95a380860c5a7c76fcfa866228"
+  },
+  "pharmacology/books/text/lippincott/0624.txt": {
+    "mtime": 1794839144.8358665,
+    "seen": 1795030114.710571,
+    "ast_hash": "548404bfdfa6df50ab279fa5eea37bdf",
+    "semantic_hash": "548404bfdfa6df50ab279fa5eea37bdf"
+  },
+  "pharmacology/books/text/lippincott/0625.txt": {
+    "mtime": 1794839144.8572118,
+    "seen": 1795030114.710572,
+    "ast_hash": "7d96354cc64cb378791b953bdadc7dcb",
+    "semantic_hash": "7d96354cc64cb378791b953bdadc7dcb"
+  },
+  "pharmacology/books/text/lippincott/0626.txt": {
+    "mtime": 1794839144.880914,
+    "seen": 1795030114.7105742,
+    "ast_hash": "4541b0408b584a49638463e4f5632ba6",
+    "semantic_hash": "4541b0408b584a49638463e4f5632ba6"
+  },
+  "pharmacology/books/text/lippincott/0627.txt": {
+    "mtime": 1794839144.8943567,
+    "seen": 1795030114.710575,
+    "ast_hash": "cd4c1c5cfdfd507ac62cf689a3dc2767",
+    "semantic_hash": "cd4c1c5cfdfd507ac62cf689a3dc2767"
+  },
+  "pharmacology/books/text/lippincott/0628.txt": {
+    "mtime": 1794839144.9129326,
+    "seen": 1795030114.710576,
+    "ast_hash": "e70cb9bafbb5d6d237f8eb2529dc4bd7",
+    "semantic_hash": "e70cb9bafbb5d6d237f8eb2529dc4bd7"
+  },
+  "pharmacology/books/text/lippincott/0629.txt": {
+    "mtime": 1794839144.9208534,
+    "seen": 1795030114.710577,
+    "ast_hash": "d24eb73574e9f5f4f4e00530010e2d7d",
+    "semantic_hash": "d24eb73574e9f5f4f4e00530010e2d7d"
+  },
+  "pharmacology/books/text/lippincott/0630.txt": {
+    "mtime": 1794839144.9221597,
+    "seen": 1795030114.710578,
+    "ast_hash": "f2dda1ee70efbf3e50dc3bf06a2c334b",
+    "semantic_hash": "f2dda1ee70efbf3e50dc3bf06a2c334b"
+  },
+  "pharmacology/books/text/lippincott/0631.txt": {
+    "mtime": 1794839144.9406521,
+    "seen": 1795030114.710579,
+    "ast_hash": "32da068c5d0848b5a262833e8eca1848",
+    "semantic_hash": "32da068c5d0848b5a262833e8eca1848"
+  },
+  "pharmacology/books/text/lippincott/0632.txt": {
+    "mtime": 1794839144.9533856,
+    "seen": 1795030114.7105799,
+    "ast_hash": "66d842dad09a72ce2c11d574f2ed23cb",
+    "semantic_hash": "66d842dad09a72ce2c11d574f2ed23cb"
+  },
+  "pharmacology/books/text/lippincott/0633.txt": {
+    "mtime": 1794839144.976359,
+    "seen": 1795030114.710581,
+    "ast_hash": "c468b6ecb69a725283a4c073d0bf61e1",
+    "semantic_hash": "c468b6ecb69a725283a4c073d0bf61e1"
+  },
+  "pharmacology/books/text/lippincott/0634.txt": {
+    "mtime": 1794839144.9938035,
+    "seen": 1795030114.710583,
+    "ast_hash": "0316dfeffe1adffdacdc6a568c43c263",
+    "semantic_hash": "0316dfeffe1adffdacdc6a568c43c263"
+  },
+  "pharmacology/books/text/lippincott/0635.txt": {
+    "mtime": 1794839145.0101569,
+    "seen": 1795030114.7105842,
+    "ast_hash": "38b8a25bf27ab142b8a38a92a754ec2b",
+    "semantic_hash": "38b8a25bf27ab142b8a38a92a754ec2b"
+  },
+  "pharmacology/books/text/lippincott/0636.txt": {
+    "mtime": 1794839145.0320175,
+    "seen": 1795030114.710585,
+    "ast_hash": "1241c8c6cc4c0c1abd3c082e9d7bf3f6",
+    "semantic_hash": "1241c8c6cc4c0c1abd3c082e9d7bf3f6"
+  },
+  "pharmacology/books/text/lippincott/0637.txt": {
+    "mtime": 1794839145.056163,
+    "seen": 1795030114.710586,
+    "ast_hash": "8f52293ac917cad1879188ed77392e5f",
+    "semantic_hash": "8f52293ac917cad1879188ed77392e5f"
+  },
+  "pharmacology/books/text/lippincott/0638.txt": {
+    "mtime": 1794839145.0716481,
+    "seen": 1795030114.7105868,
+    "ast_hash": "9be8d6f93293801769503d71c5fd132f",
+    "semantic_hash": "9be8d6f93293801769503d71c5fd132f"
+  },
+  "pharmacology/books/text/lippincott/0639.txt": {
+    "mtime": 1794839145.140883,
+    "seen": 1795030114.710588,
+    "ast_hash": "222b5d13f57139653b6dfd90930e9216",
+    "semantic_hash": "222b5d13f57139653b6dfd90930e9216"
+  },
+  "pharmacology/books/text/lippincott/0640.txt": {
+    "mtime": 1794839145.1752937,
+    "seen": 1795030114.710589,
+    "ast_hash": "e96749b9ef7960623b5bd599b7ae53ef",
+    "semantic_hash": "e96749b9ef7960623b5bd599b7ae53ef"
+  },
+  "pharmacology/books/text/lippincott/0641.txt": {
+    "mtime": 1794839145.1917086,
+    "seen": 1795030114.71059,
+    "ast_hash": "a9127c6cf67cd25d3443a77d51e0fb79",
+    "semantic_hash": "a9127c6cf67cd25d3443a77d51e0fb79"
+  },
+  "pharmacology/books/text/lippincott/0642.txt": {
+    "mtime": 1794839145.20791,
+    "seen": 1795030114.710591,
+    "ast_hash": "292b105317c0712a6d20c5d3ac5fb4a8",
+    "semantic_hash": "292b105317c0712a6d20c5d3ac5fb4a8"
+  },
+  "pharmacology/books/text/lippincott/0643.txt": {
+    "mtime": 1794839145.231219,
+    "seen": 1795030114.710592,
+    "ast_hash": "f4e5d880053f7874d067dae001191cbc",
+    "semantic_hash": "f4e5d880053f7874d067dae001191cbc"
+  },
+  "pharmacology/books/text/lippincott/0644.txt": {
+    "mtime": 1794839145.248442,
+    "seen": 1795030114.710593,
+    "ast_hash": "7f17b7807fb5e306ac6c5ded00be39da",
+    "semantic_hash": "7f17b7807fb5e306ac6c5ded00be39da"
+  },
+  "pharmacology/books/text/lippincott/0645.txt": {
+    "mtime": 1794839145.273919,
+    "seen": 1795030114.7105951,
+    "ast_hash": "d3b4020cbbc045460467308b719f2f32",
+    "semantic_hash": "d3b4020cbbc045460467308b719f2f32"
+  },
+  "pharmacology/books/text/lippincott/0646.txt": {
+    "mtime": 1794839145.2916367,
+    "seen": 1795030114.710596,
+    "ast_hash": "b2ccf5d2a9844071df0237970c1fc194",
+    "semantic_hash": "b2ccf5d2a9844071df0237970c1fc194"
+  },
+  "pharmacology/books/text/lippincott/0647.txt": {
+    "mtime": 1794839145.3107355,
+    "seen": 1795030114.710597,
+    "ast_hash": "171ca7752dfcb5d79694156057d5460a",
+    "semantic_hash": "171ca7752dfcb5d79694156057d5460a"
+  },
+  "pharmacology/books/text/lippincott/0648.txt": {
+    "mtime": 1794839145.3269618,
+    "seen": 1795030114.710598,
+    "ast_hash": "3432b99cb36af1963edd2af6520bd92f",
+    "semantic_hash": "3432b99cb36af1963edd2af6520bd92f"
+  },
+  "pharmacology/books/text/lippincott/0649.txt": {
+    "mtime": 1794839145.3469694,
+    "seen": 1795030114.710599,
+    "ast_hash": "a62730a7b9c4244b92d3ae34ceac3647",
+    "semantic_hash": "a62730a7b9c4244b92d3ae34ceac3647"
+  },
+  "pharmacology/books/text/lippincott/0650.txt": {
+    "mtime": 1794839145.3682826,
+    "seen": 1795030114.7106,
+    "ast_hash": "a47cd8b7f78cee8d906bb0443ebf234a",
+    "semantic_hash": "a47cd8b7f78cee8d906bb0443ebf234a"
+  },
+  "pharmacology/books/text/lippincott/0651.txt": {
+    "mtime": 1794839145.386654,
+    "seen": 1795030114.7106009,
+    "ast_hash": "217979a8e83461b597760dcaceddefa3",
+    "semantic_hash": "217979a8e83461b597760dcaceddefa3"
+  },
+  "pharmacology/books/text/lippincott/0652.txt": {
+    "mtime": 1794839145.4046507,
+    "seen": 1795030114.710602,
+    "ast_hash": "0b0196f0abf2c278519a4b840038fdd9",
+    "semantic_hash": "0b0196f0abf2c278519a4b840038fdd9"
+  },
+  "pharmacology/books/text/lippincott/0653.txt": {
+    "mtime": 1794839145.4211943,
+    "seen": 1795030114.710604,
+    "ast_hash": "6f3263155dfbac69dc43421488f6e8f1",
+    "semantic_hash": "6f3263155dfbac69dc43421488f6e8f1"
+  },
+  "pharmacology/books/text/lippincott/0654.txt": {
+    "mtime": 1794839145.4375842,
+    "seen": 1795030114.7106051,
+    "ast_hash": "14e1bc414641079d96d095a9a6c8e15d",
+    "semantic_hash": "14e1bc414641079d96d095a9a6c8e15d"
+  },
+  "pharmacology/books/text/lippincott/0655.txt": {
+    "mtime": 1794839145.4982924,
+    "seen": 1795030114.710606,
+    "ast_hash": "97b5ad036414909429d1f8b618497851",
+    "semantic_hash": "97b5ad036414909429d1f8b618497851"
+  },
+  "pharmacology/books/text/lippincott/0656.txt": {
+    "mtime": 1794839145.5159142,
+    "seen": 1795030114.710607,
+    "ast_hash": "2de644862e2b6fd0e4add8e25ab5f559",
+    "semantic_hash": "2de644862e2b6fd0e4add8e25ab5f559"
+  },
+  "pharmacology/books/text/lippincott/0657.txt": {
+    "mtime": 1794839145.557603,
+    "seen": 1795030114.7106078,
+    "ast_hash": "5a3e1a37b5fe67015ffc8f89d8ca8e58",
+    "semantic_hash": "5a3e1a37b5fe67015ffc8f89d8ca8e58"
+  },
+  "pharmacology/books/text/lippincott/0658.txt": {
+    "mtime": 1794839145.5727892,
+    "seen": 1795030114.710609,
+    "ast_hash": "2178d2de0c90e7ee2a20cd61f81344d9",
+    "semantic_hash": "2178d2de0c90e7ee2a20cd61f81344d9"
+  },
+  "pharmacology/books/text/lippincott/0659.txt": {
+    "mtime": 1794839145.6178858,
+    "seen": 1795030114.71061,
+    "ast_hash": "10cae6dd572917d1e3824d38f77b98c7",
+    "semantic_hash": "10cae6dd572917d1e3824d38f77b98c7"
+  },
+  "pharmacology/books/text/lippincott/0660.txt": {
+    "mtime": 1794839145.6322224,
+    "seen": 1795030114.7106109,
+    "ast_hash": "8933949c1e6750cf5ffa707af2e44a72",
+    "semantic_hash": "8933949c1e6750cf5ffa707af2e44a72"
+  },
+  "pharmacology/books/text/lippincott/0661.txt": {
+    "mtime": 1794839145.645428,
+    "seen": 1795030114.710612,
+    "ast_hash": "34de6632d3f9fe50663d2ce47d8818f0",
+    "semantic_hash": "34de6632d3f9fe50663d2ce47d8818f0"
+  },
+  "pharmacology/books/text/lippincott/0663.txt": {
+    "mtime": 1794839145.6653302,
+    "seen": 1795030114.710614,
+    "ast_hash": "97cbc5b38a99b5bf5ad98b9cb273124a",
+    "semantic_hash": "97cbc5b38a99b5bf5ad98b9cb273124a"
+  },
+  "pharmacology/books/text/lippincott/0664.txt": {
+    "mtime": 1794839145.6807945,
+    "seen": 1795030114.7106152,
+    "ast_hash": "1e4a92f3b3bc8c5150932200a80dcb27",
+    "semantic_hash": "1e4a92f3b3bc8c5150932200a80dcb27"
+  },
+  "pharmacology/books/text/lippincott/0665.txt": {
+    "mtime": 1794839145.7013948,
+    "seen": 1795030114.710616,
+    "ast_hash": "b6b8ed24c02d08e5e528cac47c2f5497",
+    "semantic_hash": "b6b8ed24c02d08e5e528cac47c2f5497"
+  },
+  "pharmacology/books/text/lippincott/0666.txt": {
+    "mtime": 1794839145.7190378,
+    "seen": 1795030114.710617,
+    "ast_hash": "042056dbaf34a5a05d98cdcb7e738e81",
+    "semantic_hash": "042056dbaf34a5a05d98cdcb7e738e81"
+  },
+  "pharmacology/books/text/lippincott/0667.txt": {
+    "mtime": 1794839145.7352285,
+    "seen": 1795030114.710618,
+    "ast_hash": "8bbe9b4100662838e317bcf86acf9f53",
+    "semantic_hash": "8bbe9b4100662838e317bcf86acf9f53"
+  },
+  "pharmacology/books/text/lippincott/0668.txt": {
+    "mtime": 1794839145.7518876,
+    "seen": 1795030114.710619,
+    "ast_hash": "3d4f8aafeb0023f4303954cba2df561c",
+    "semantic_hash": "3d4f8aafeb0023f4303954cba2df561c"
+  },
+  "pharmacology/books/text/lippincott/0669.txt": {
+    "mtime": 1794839145.770055,
+    "seen": 1795030114.71062,
+    "ast_hash": "a2bdc1c554e87dbde12661da3d54330f",
+    "semantic_hash": "a2bdc1c554e87dbde12661da3d54330f"
+  },
+  "pharmacology/books/text/lippincott/0670.txt": {
+    "mtime": 1794839145.7910619,
+    "seen": 1795030114.7106209,
+    "ast_hash": "fdb73cdcfee303346ecafb2eb7f00c2e",
+    "semantic_hash": "fdb73cdcfee303346ecafb2eb7f00c2e"
+  },
+  "pharmacology/books/text/lippincott/0671.txt": {
+    "mtime": 1794839145.8086112,
+    "seen": 1795030114.7106218,
+    "ast_hash": "fda39a4a5d53df1ccbc85e4d1a004677",
+    "semantic_hash": "fda39a4a5d53df1ccbc85e4d1a004677"
+  },
+  "pharmacology/books/text/lippincott/0672.txt": {
+    "mtime": 1794839145.8265667,
+    "seen": 1795030114.710623,
+    "ast_hash": "5916ad6d66cfdc9d9f80b8ed37359183",
+    "semantic_hash": "5916ad6d66cfdc9d9f80b8ed37359183"
+  },
+  "pharmacology/books/text/lippincott/0675.txt": {
+    "mtime": 1794839145.8738947,
+    "seen": 1795030114.710625,
+    "ast_hash": "471203f7995946e8bc958fb0186e1733",
+    "semantic_hash": "471203f7995946e8bc958fb0186e1733"
+  },
+  "pharmacology/books/text/lippincott/0676.txt": {
+    "mtime": 1794839145.8923259,
+    "seen": 1795030114.7106261,
+    "ast_hash": "2ec70cd6310dcde856e8d3fdb8f0408a",
+    "semantic_hash": "2ec70cd6310dcde856e8d3fdb8f0408a"
+  },
+  "pharmacology/books/text/lippincott/0677.txt": {
+    "mtime": 1794839145.9188771,
+    "seen": 1795030114.710627,
+    "ast_hash": "b6ec85e506f4190b7cae91554f28a7f9",
+    "semantic_hash": "b6ec85e506f4190b7cae91554f28a7f9"
+  },
+  "pharmacology/books/text/lippincott/0678.txt": {
+    "mtime": 1794839145.9383872,
+    "seen": 1795030114.710628,
+    "ast_hash": "721dbf6a26cd3534eeff8b6979b5906a",
+    "semantic_hash": "721dbf6a26cd3534eeff8b6979b5906a"
+  },
+  "pharmacology/books/text/lippincott/0679.txt": {
+    "mtime": 1794839145.956881,
+    "seen": 1795030114.7106292,
+    "ast_hash": "0d65983f15bcf38d42e4b6bd84072a25",
+    "semantic_hash": "0d65983f15bcf38d42e4b6bd84072a25"
+  },
+  "pharmacology/books/text/lippincott/0680.txt": {
+    "mtime": 1794839145.9854243,
+    "seen": 1795030114.71063,
+    "ast_hash": "cf588679cf2a43bb89bda25c21bd9b50",
+    "semantic_hash": "cf588679cf2a43bb89bda25c21bd9b50"
+  },
+  "pharmacology/books/text/lippincott/0681.txt": {
+    "mtime": 1794839145.9993932,
+    "seen": 1795030114.7106318,
+    "ast_hash": "d0943f34dd0dbbd66480d54ab385d8c4",
+    "semantic_hash": "d0943f34dd0dbbd66480d54ab385d8c4"
+  },
+  "pharmacology/books/text/lippincott/0682.txt": {
+    "mtime": 1794839146.013346,
+    "seen": 1795030114.710633,
+    "ast_hash": "87d24517e9522d0306b54a86d0cf65eb",
+    "semantic_hash": "87d24517e9522d0306b54a86d0cf65eb"
+  },
+  "pharmacology/books/text/lippincott/0683.txt": {
+    "mtime": 1794839146.0320466,
+    "seen": 1795030114.710634,
+    "ast_hash": "2a5226705b3d98cb8a443f66ed1f25f1",
+    "semantic_hash": "2a5226705b3d98cb8a443f66ed1f25f1"
+  },
+  "pharmacology/books/text/lippincott/0684.txt": {
+    "mtime": 1794839146.0498679,
+    "seen": 1795030114.710635,
+    "ast_hash": "161f997b8a75c8fed2c21a4d9fd3c0d6",
+    "semantic_hash": "161f997b8a75c8fed2c21a4d9fd3c0d6"
+  },
+  "pharmacology/books/text/lippincott/0685.txt": {
+    "mtime": 1794839146.0739872,
+    "seen": 1795030114.7106361,
+    "ast_hash": "db6bdd29e54ba51a697d0d8bdc603dcd",
+    "semantic_hash": "db6bdd29e54ba51a697d0d8bdc603dcd"
+  },
+  "pharmacology/books/text/lippincott/0686.txt": {
+    "mtime": 1794839146.0864599,
+    "seen": 1795030114.710637,
+    "ast_hash": "9542d7efe1642e18520218b75cfafac2",
+    "semantic_hash": "9542d7efe1642e18520218b75cfafac2"
+  },
+  "pharmacology/books/text/lippincott/0687.txt": {
+    "mtime": 1794839146.105843,
+    "seen": 1795030114.710638,
+    "ast_hash": "bdbafd1bb87e609d78138fda5bd0ed99",
+    "semantic_hash": "bdbafd1bb87e609d78138fda5bd0ed99"
+  },
+  "pharmacology/books/text/lippincott/0688.txt": {
+    "mtime": 1794839146.125083,
+    "seen": 1795030114.710639,
+    "ast_hash": "4409f5932b27e99e283b4e5c1aac94b0",
+    "semantic_hash": "4409f5932b27e99e283b4e5c1aac94b0"
+  },
+  "pharmacology/books/text/lippincott/0689.txt": {
+    "mtime": 1794839146.1420405,
+    "seen": 1795030114.7106402,
+    "ast_hash": "f4bfcc755c9959fa0cca5b7346b579ce",
+    "semantic_hash": "f4bfcc755c9959fa0cca5b7346b579ce"
+  },
+  "pharmacology/books/text/lippincott/0690.txt": {
+    "mtime": 1794839146.1562467,
+    "seen": 1795030114.7106419,
+    "ast_hash": "83b945e37775a571313b9bef01be1f55",
+    "semantic_hash": "83b945e37775a571313b9bef01be1f55"
+  },
+  "pharmacology/books/text/lippincott/0691.txt": {
+    "mtime": 1794839146.1719997,
+    "seen": 1795030114.710643,
+    "ast_hash": "b150573fd9de6799a4203c328949010b",
+    "semantic_hash": "b150573fd9de6799a4203c328949010b"
+  },
+  "pharmacology/books/text/lippincott/0693.txt": {
+    "mtime": 1794839146.1894803,
+    "seen": 1795030114.710644,
+    "ast_hash": "19be92507b100e6d745c2ae86a1ec504",
+    "semantic_hash": "19be92507b100e6d745c2ae86a1ec504"
+  },
+  "pharmacology/books/text/lippincott/0694.txt": {
+    "mtime": 1794839146.2707062,
+    "seen": 1795030114.710645,
+    "ast_hash": "e645475fe4ddb0bd03a33bc834b959b3",
+    "semantic_hash": "e645475fe4ddb0bd03a33bc834b959b3"
+  },
+  "pharmacology/books/text/lippincott/0695.txt": {
+    "mtime": 1794839146.297301,
+    "seen": 1795030114.710646,
+    "ast_hash": "4e605ec38b0cbc87a792df0808280331",
+    "semantic_hash": "4e605ec38b0cbc87a792df0808280331"
+  },
+  "pharmacology/books/text/lippincott/0696.txt": {
+    "mtime": 1794839146.3205342,
+    "seen": 1795030114.710647,
+    "ast_hash": "25f154f7af02b31e6ce47f16f026dbb5",
+    "semantic_hash": "25f154f7af02b31e6ce47f16f026dbb5"
+  },
+  "pharmacology/books/text/lippincott/0697.txt": {
+    "mtime": 1794839146.3513503,
+    "seen": 1795030114.710648,
+    "ast_hash": "ba396f6d781693be299ca5471d56f3c2",
+    "semantic_hash": "ba396f6d781693be299ca5471d56f3c2"
+  },
+  "pharmacology/books/text/lippincott/0698.txt": {
+    "mtime": 1794839146.3742533,
+    "seen": 1795030114.710649,
+    "ast_hash": "64f4ea26158e56efd32bb1fb8c94b407",
+    "semantic_hash": "64f4ea26158e56efd32bb1fb8c94b407"
+  },
+  "pharmacology/books/text/lippincott/0699.txt": {
+    "mtime": 1794839146.4011545,
+    "seen": 1795030114.7106502,
+    "ast_hash": "4c87f99e5483b59b6a88f148009f487e",
+    "semantic_hash": "4c87f99e5483b59b6a88f148009f487e"
+  },
+  "pharmacology/books/text/lippincott/0700.txt": {
+    "mtime": 1794839146.4221563,
+    "seen": 1795030114.710651,
+    "ast_hash": "002f5dda712423c6cdc211a5dd09370c",
+    "semantic_hash": "002f5dda712423c6cdc211a5dd09370c"
+  },
+  "pharmacology/books/text/lippincott/0701.txt": {
+    "mtime": 1794839146.4407601,
+    "seen": 1795030114.7106519,
+    "ast_hash": "6c3b445d73345d87cad437d875b89cb5",
+    "semantic_hash": "6c3b445d73345d87cad437d875b89cb5"
+  },
+  "pharmacology/books/text/lippincott/0702.txt": {
+    "mtime": 1794839146.4555435,
+    "seen": 1795030114.710654,
+    "ast_hash": "28f922d6210e33c3d9b8fb1012963ba1",
+    "semantic_hash": "28f922d6210e33c3d9b8fb1012963ba1"
+  },
+  "pharmacology/books/text/lippincott/0703.txt": {
+    "mtime": 1794839146.471041,
+    "seen": 1795030114.710655,
+    "ast_hash": "bc490edf2732a82205eff95538836e37",
+    "semantic_hash": "bc490edf2732a82205eff95538836e37"
+  },
+  "pharmacology/books/text/lippincott/0704.txt": {
+    "mtime": 1794839146.4868484,
+    "seen": 1795030114.710656,
+    "ast_hash": "c9c24a9258b87b1cd492da74bb2f625e",
+    "semantic_hash": "c9c24a9258b87b1cd492da74bb2f625e"
+  },
+  "pharmacology/books/text/lippincott/0705.txt": {
+    "mtime": 1794839146.501684,
+    "seen": 1795030114.7106571,
+    "ast_hash": "806fd98f8d05594a95ce98b09ff0190e",
+    "semantic_hash": "806fd98f8d05594a95ce98b09ff0190e"
+  },
+  "pharmacology/books/text/lippincott/0706.txt": {
+    "mtime": 1794839146.522167,
+    "seen": 1795030114.710658,
+    "ast_hash": "c462cf584d4457e4434379c3bf16498d",
+    "semantic_hash": "c462cf584d4457e4434379c3bf16498d"
+  },
+  "pharmacology/books/text/lippincott/0707.txt": {
+    "mtime": 1794839146.5351882,
+    "seen": 1795030114.710659,
+    "ast_hash": "579a93a48937414d599bbe224a83784e",
+    "semantic_hash": "579a93a48937414d599bbe224a83784e"
+  },
+  "pharmacology/books/text/lippincott/0708.txt": {
+    "mtime": 1794839146.5556753,
+    "seen": 1795030114.71066,
+    "ast_hash": "d99e0f7e1667fb822ef7e248f661aefc",
+    "semantic_hash": "d99e0f7e1667fb822ef7e248f661aefc"
+  },
+  "pharmacology/books/text/lippincott/0709.txt": {
+    "mtime": 1794839146.571892,
+    "seen": 1795030114.7106612,
+    "ast_hash": "e55ec251f5165eb6271c22f2f9f15a80",
+    "semantic_hash": "e55ec251f5165eb6271c22f2f9f15a80"
+  },
+  "pharmacology/books/text/lippincott/0710.txt": {
+    "mtime": 1794839146.5921526,
+    "seen": 1795030114.710662,
+    "ast_hash": "26e4a5dc395b7b1510d1239867604a52",
+    "semantic_hash": "26e4a5dc395b7b1510d1239867604a52"
+  },
+  "pharmacology/books/text/lippincott/0711.txt": {
+    "mtime": 1794839146.607804,
+    "seen": 1795030114.710664,
+    "ast_hash": "7da0fbd72d490610d82457e6551aaf42",
+    "semantic_hash": "7da0fbd72d490610d82457e6551aaf42"
+  },
+  "pharmacology/books/text/lippincott/0712.txt": {
+    "mtime": 1794839146.6415834,
+    "seen": 1795030114.710665,
+    "ast_hash": "74147b0b96a16b0ae0f9b971de501ab1",
+    "semantic_hash": "74147b0b96a16b0ae0f9b971de501ab1"
+  },
+  "pharmacology/books/text/lippincott/0713.txt": {
+    "mtime": 1794839146.6674469,
+    "seen": 1795030114.710666,
+    "ast_hash": "4ff837af4a8c21b0f8f0e61d733a210b",
+    "semantic_hash": "4ff837af4a8c21b0f8f0e61d733a210b"
+  },
+  "pharmacology/books/text/lippincott/0714.txt": {
+    "mtime": 1794839146.6844256,
+    "seen": 1795030114.710667,
+    "ast_hash": "f984c02bd730a97e4eb8f57bf3fdf011",
+    "semantic_hash": "f984c02bd730a97e4eb8f57bf3fdf011"
+  },
+  "pharmacology/books/text/lippincott/0715.txt": {
+    "mtime": 1794839146.69906,
+    "seen": 1795030114.710668,
+    "ast_hash": "6c7eb0db8c32597f339f71a549645e4b",
+    "semantic_hash": "6c7eb0db8c32597f339f71a549645e4b"
+  },
+  "pharmacology/books/text/lippincott/0716.txt": {
+    "mtime": 1794839146.7185817,
+    "seen": 1795030114.710669,
+    "ast_hash": "55deaab84e987dedc69a94264b4b5a53",
+    "semantic_hash": "55deaab84e987dedc69a94264b4b5a53"
+  },
+  "pharmacology/books/text/lippincott/0717.txt": {
+    "mtime": 1794839146.7288399,
+    "seen": 1795030114.71067,
+    "ast_hash": "e931b6b1f9b606a4ee5e2d80aeec29d7",
+    "semantic_hash": "e931b6b1f9b606a4ee5e2d80aeec29d7"
+  },
+  "pharmacology/books/text/lippincott/0719.txt": {
+    "mtime": 1794839146.7419336,
+    "seen": 1795030114.7106712,
+    "ast_hash": "2fcf7b90b8a537500d04c217e1376869",
+    "semantic_hash": "2fcf7b90b8a537500d04c217e1376869"
+  },
+  "pharmacology/books/text/lippincott/0720.txt": {
+    "mtime": 1794839146.7588186,
+    "seen": 1795030114.710672,
+    "ast_hash": "14c62641546efbe0e099c2b8d3d5c8c2",
+    "semantic_hash": "14c62641546efbe0e099c2b8d3d5c8c2"
+  },
+  "pharmacology/books/text/lippincott/0721.txt": {
+    "mtime": 1794839146.7832007,
+    "seen": 1795030114.7106729,
+    "ast_hash": "9d3c0e4dd967f4646ec52ac42dfaac80",
+    "semantic_hash": "9d3c0e4dd967f4646ec52ac42dfaac80"
+  },
+  "pharmacology/books/text/lippincott/0722.txt": {
+    "mtime": 1794839146.7987936,
+    "seen": 1795030114.710675,
+    "ast_hash": "df9d89efba4073e42bac1b4aa7d8824e",
+    "semantic_hash": "df9d89efba4073e42bac1b4aa7d8824e"
+  },
+  "pharmacology/books/text/lippincott/0723.txt": {
+    "mtime": 1794839146.8157482,
+    "seen": 1795030114.710676,
+    "ast_hash": "a06ad73ca91b6a790222c9833d896171",
+    "semantic_hash": "a06ad73ca91b6a790222c9833d896171"
+  },
+  "pharmacology/books/text/lippincott/0724.txt": {
+    "mtime": 1794839146.8423927,
+    "seen": 1795030114.710677,
+    "ast_hash": "0776b75d4c17e0cca2c344849be82363",
+    "semantic_hash": "0776b75d4c17e0cca2c344849be82363"
+  },
+  "pharmacology/books/text/lippincott/0725.txt": {
+    "mtime": 1794839146.8582797,
+    "seen": 1795030114.710678,
+    "ast_hash": "b852aa5a1aa76c9c1e72af518ec19c9c",
+    "semantic_hash": "b852aa5a1aa76c9c1e72af518ec19c9c"
+  },
+  "pharmacology/books/text/lippincott/0726.txt": {
+    "mtime": 1794839146.8742838,
+    "seen": 1795030114.710679,
+    "ast_hash": "822ef48f26d1d13e2d872cbb099c0ff2",
+    "semantic_hash": "822ef48f26d1d13e2d872cbb099c0ff2"
+  },
+  "pharmacology/books/text/lippincott/0727.txt": {
+    "mtime": 1794839146.891072,
+    "seen": 1795030114.71068,
+    "ast_hash": "c08c150f83817cab38731bb5066f147a",
+    "semantic_hash": "c08c150f83817cab38731bb5066f147a"
+  },
+  "pharmacology/books/text/lippincott/0728.txt": {
+    "mtime": 1794839146.903473,
+    "seen": 1795030114.7106812,
+    "ast_hash": "31b10249f2d272716995291d26b05974",
+    "semantic_hash": "31b10249f2d272716995291d26b05974"
+  },
+  "pharmacology/books/text/lippincott/0729.txt": {
+    "mtime": 1794839146.935614,
+    "seen": 1795030114.7106822,
+    "ast_hash": "21de5d3115fff9cba1835a00177234bd",
+    "semantic_hash": "21de5d3115fff9cba1835a00177234bd"
+  },
+  "pharmacology/books/text/lippincott/0730.txt": {
+    "mtime": 1794839146.9657843,
+    "seen": 1795030114.7106838,
+    "ast_hash": "928ddc66307d5097f028cb7867e52891",
+    "semantic_hash": "928ddc66307d5097f028cb7867e52891"
+  },
+  "pharmacology/books/text/lippincott/0731.txt": {
+    "mtime": 1794839146.982222,
+    "seen": 1795030114.710685,
+    "ast_hash": "f714d62ebd88d8255449a718d7db494a",
+    "semantic_hash": "f714d62ebd88d8255449a718d7db494a"
+  },
+  "pharmacology/books/text/lippincott/0732.txt": {
+    "mtime": 1794839146.998947,
+    "seen": 1795030114.710686,
+    "ast_hash": "50f23529700cf0ce981d2684d0b7827e",
+    "semantic_hash": "50f23529700cf0ce981d2684d0b7827e"
+  },
+  "pharmacology/books/text/lippincott/0733.txt": {
+    "mtime": 1794839147.016968,
+    "seen": 1795030114.710687,
+    "ast_hash": "c107d8f43e407530cdd3a425d8517861",
+    "semantic_hash": "c107d8f43e407530cdd3a425d8517861"
+  },
+  "pharmacology/books/text/lippincott/0734.txt": {
+    "mtime": 1794839147.03496,
+    "seen": 1795030114.710688,
+    "ast_hash": "946293a1b53950613f2df7469d638baf",
+    "semantic_hash": "946293a1b53950613f2df7469d638baf"
+  },
+  "pharmacology/books/text/lippincott/0735.txt": {
+    "mtime": 1794839147.0492842,
+    "seen": 1795030114.710689,
+    "ast_hash": "b037353dbbea4f78a260d9e14d3ecabe",
+    "semantic_hash": "b037353dbbea4f78a260d9e14d3ecabe"
+  },
+  "pharmacology/books/text/lippincott/0737.txt": {
+    "mtime": 1794839147.0710719,
+    "seen": 1795030114.71069,
+    "ast_hash": "561522dfc97a9de4d184ab912c94487a",
+    "semantic_hash": "561522dfc97a9de4d184ab912c94487a"
+  },
+  "pharmacology/books/text/lippincott/0738.txt": {
+    "mtime": 1794839147.102383,
+    "seen": 1795030114.710691,
+    "ast_hash": "5b719aa29d4c20dfe9fe85b094f44cf8",
+    "semantic_hash": "5b719aa29d4c20dfe9fe85b094f44cf8"
+  },
+  "pharmacology/books/text/lippincott/0739.txt": {
+    "mtime": 1794839147.1231992,
+    "seen": 1795030114.7106931,
+    "ast_hash": "35348113d761719b944cb591b489ed2c",
+    "semantic_hash": "35348113d761719b944cb591b489ed2c"
+  },
+  "pharmacology/books/text/lippincott/0740.txt": {
+    "mtime": 1794839147.1812835,
+    "seen": 1795030114.7106938,
+    "ast_hash": "3a71c504669f924df66404e3d40eee5c",
+    "semantic_hash": "3a71c504669f924df66404e3d40eee5c"
+  },
+  "pharmacology/books/text/lippincott/0741.txt": {
+    "mtime": 1794839147.2063,
+    "seen": 1795030114.710695,
+    "ast_hash": "ced463eb83cbe97ade8ad6c0fb61464f",
+    "semantic_hash": "ced463eb83cbe97ade8ad6c0fb61464f"
+  },
+  "pharmacology/books/text/lippincott/0742.txt": {
+    "mtime": 1794839147.2296193,
+    "seen": 1795030114.710696,
+    "ast_hash": "1b5eb1246401e9d94b18c8a1a5fc8759",
+    "semantic_hash": "1b5eb1246401e9d94b18c8a1a5fc8759"
+  },
+  "pharmacology/books/text/lippincott/0743.txt": {
+    "mtime": 1794839147.253652,
+    "seen": 1795030114.710697,
+    "ast_hash": "9d57c4bc775ef5f215b07fb2c39e34ab",
+    "semantic_hash": "9d57c4bc775ef5f215b07fb2c39e34ab"
+  },
+  "pharmacology/books/text/lippincott/0744.txt": {
+    "mtime": 1794839147.2726798,
+    "seen": 1795030114.710698,
+    "ast_hash": "4176d2b09246923ffaa71e35223d77ea",
+    "semantic_hash": "4176d2b09246923ffaa71e35223d77ea"
+  },
+  "pharmacology/books/text/lippincott/0745.txt": {
+    "mtime": 1794839147.2904956,
+    "seen": 1795030114.710699,
+    "ast_hash": "d7e5fa4fec86e08daf58f900988e654e",
+    "semantic_hash": "d7e5fa4fec86e08daf58f900988e654e"
+  },
+  "pharmacology/books/text/lippincott/0746.txt": {
+    "mtime": 1794839147.3094325,
+    "seen": 1795030114.7107,
+    "ast_hash": "2a1fbe9cf049379b16a191c7382fc1ec",
+    "semantic_hash": "2a1fbe9cf049379b16a191c7382fc1ec"
+  },
+  "pharmacology/books/text/lippincott/0747.txt": {
+    "mtime": 1794839147.3266973,
+    "seen": 1795030114.710701,
+    "ast_hash": "684ec6f68a61eb355ae85ededbcb1e41",
+    "semantic_hash": "684ec6f68a61eb355ae85ededbcb1e41"
+  },
+  "pharmacology/books/text/lippincott/0748.txt": {
+    "mtime": 1794839147.3431525,
+    "seen": 1795030114.7107022,
+    "ast_hash": "18d50bfca9d2332782096c60d0a88d17",
+    "semantic_hash": "18d50bfca9d2332782096c60d0a88d17"
+  },
+  "pharmacology/books/text/lippincott/0749.txt": {
+    "mtime": 1794839147.360199,
+    "seen": 1795030114.7107031,
+    "ast_hash": "ea0dadb4f53041f8da5a213905c977a7",
+    "semantic_hash": "ea0dadb4f53041f8da5a213905c977a7"
+  },
+  "pharmacology/books/text/lippincott/0750.txt": {
+    "mtime": 1794839147.3773825,
+    "seen": 1795030114.710718,
+    "ast_hash": "710f4268d8cd374ff5669b65c826f937",
+    "semantic_hash": "710f4268d8cd374ff5669b65c826f937"
+  },
+  "pharmacology/books/text/lippincott/0751.txt": {
+    "mtime": 1794839147.396752,
+    "seen": 1795030114.7107189,
+    "ast_hash": "93e010d668955b4aa71b12565a62ed38",
+    "semantic_hash": "93e010d668955b4aa71b12565a62ed38"
+  },
+  "pharmacology/books/text/lippincott/0752.txt": {
+    "mtime": 1794839147.4136736,
+    "seen": 1795030114.710721,
+    "ast_hash": "2fb9b67458591a805af8ceda67740ddf",
+    "semantic_hash": "2fb9b67458591a805af8ceda67740ddf"
+  },
+  "pharmacology/books/text/lippincott/0753.txt": {
+    "mtime": 1794839147.430413,
+    "seen": 1795030114.710722,
+    "ast_hash": "c7e111c732d6e3ba15f3fd8ee1dd1a47",
+    "semantic_hash": "c7e111c732d6e3ba15f3fd8ee1dd1a47"
+  },
+  "pharmacology/books/text/lippincott/0754.txt": {
+    "mtime": 1794839147.4523816,
+    "seen": 1795030114.7107232,
+    "ast_hash": "8604b3653ce241e59afa081434be86cf",
+    "semantic_hash": "8604b3653ce241e59afa081434be86cf"
+  },
+  "pharmacology/books/text/lippincott/0755.txt": {
+    "mtime": 1794839147.475093,
+    "seen": 1795030114.710724,
+    "ast_hash": "231d1b2942ac04a2bcf276ff848ec940",
+    "semantic_hash": "231d1b2942ac04a2bcf276ff848ec940"
+  },
+  "pharmacology/books/text/lippincott/0756.txt": {
+    "mtime": 1794839147.4984558,
+    "seen": 1795030114.710725,
+    "ast_hash": "8cf019c1f6830d809f566a953da26780",
+    "semantic_hash": "8cf019c1f6830d809f566a953da26780"
+  },
+  "pharmacology/books/text/lippincott/0757.txt": {
+    "mtime": 1794839147.5144603,
+    "seen": 1795030114.7107258,
+    "ast_hash": "f5baf5d1d465c292f692c8695d88056b",
+    "semantic_hash": "f5baf5d1d465c292f692c8695d88056b"
+  },
+  "pharmacology/books/text/lippincott/0758.txt": {
+    "mtime": 1794839147.5320325,
+    "seen": 1795030114.710727,
+    "ast_hash": "eb68a884aaf172642b3ff6a8f9d1360c",
+    "semantic_hash": "eb68a884aaf172642b3ff6a8f9d1360c"
+  },
+  "pharmacology/books/text/lippincott/0759.txt": {
+    "mtime": 1794839147.550286,
+    "seen": 1795030114.710729,
+    "ast_hash": "684cf3ce663a261de7b2a6c932862a81",
+    "semantic_hash": "684cf3ce663a261de7b2a6c932862a81"
+  },
+  "pharmacology/books/text/lippincott/0760.txt": {
+    "mtime": 1794839147.5674925,
+    "seen": 1795030114.71073,
+    "ast_hash": "f3106ea000b82af8d081ad50194d5f56",
+    "semantic_hash": "f3106ea000b82af8d081ad50194d5f56"
+  },
+  "pharmacology/books/text/lippincott/0761.txt": {
+    "mtime": 1794839147.5755947,
+    "seen": 1795030114.710731,
+    "ast_hash": "3a9e9d045e4a62dd9ce54e8c6d11094d",
+    "semantic_hash": "3a9e9d045e4a62dd9ce54e8c6d11094d"
+  },
+  "pharmacology/books/text/lippincott/0763.txt": {
+    "mtime": 1794839147.5938163,
+    "seen": 1795030114.710732,
+    "ast_hash": "61fa928efd9c98d10eeef0afaaa72f8e",
+    "semantic_hash": "61fa928efd9c98d10eeef0afaaa72f8e"
+  },
+  "pharmacology/books/text/lippincott/0764.txt": {
+    "mtime": 1794839147.61385,
+    "seen": 1795030114.710733,
+    "ast_hash": "3e24348394470811e86538363563a5a1",
+    "semantic_hash": "3e24348394470811e86538363563a5a1"
+  },
+  "pharmacology/books/text/lippincott/0765.txt": {
+    "mtime": 1794839147.6324017,
+    "seen": 1795030114.7107341,
+    "ast_hash": "d3000c2d0266beaff8cd36fc4f2479ff",
+    "semantic_hash": "d3000c2d0266beaff8cd36fc4f2479ff"
+  },
+  "pharmacology/books/text/lippincott/0766.txt": {
+    "mtime": 1794839147.6483264,
+    "seen": 1795030114.7107358,
+    "ast_hash": "850ceb35eb5431086a808a449228564d",
+    "semantic_hash": "850ceb35eb5431086a808a449228564d"
+  },
+  "pharmacology/books/text/lippincott/0767.txt": {
+    "mtime": 1794839147.671303,
+    "seen": 1795030114.710737,
+    "ast_hash": "5bf75abaff374423c1892eaed6c1636b",
+    "semantic_hash": "5bf75abaff374423c1892eaed6c1636b"
+  },
+  "pharmacology/books/text/lippincott/0768.txt": {
+    "mtime": 1794839147.6866698,
+    "seen": 1795030114.710738,
+    "ast_hash": "275e5d097516bb7e81e48c44c747ae07",
+    "semantic_hash": "275e5d097516bb7e81e48c44c747ae07"
+  },
+  "pharmacology/books/text/lippincott/0769.txt": {
+    "mtime": 1794839147.7005503,
+    "seen": 1795030114.710739,
+    "ast_hash": "1b76e979f031094de9add8d3d1a4da92",
+    "semantic_hash": "1b76e979f031094de9add8d3d1a4da92"
+  },
+  "pharmacology/books/text/lippincott/0770.txt": {
+    "mtime": 1794839147.7184558,
+    "seen": 1795030114.7107399,
+    "ast_hash": "72230f2722a219d19fcd89b742e972b7",
+    "semantic_hash": "72230f2722a219d19fcd89b742e972b7"
+  },
+  "pharmacology/books/text/lippincott/0771.txt": {
+    "mtime": 1794839147.7320988,
+    "seen": 1795030114.710741,
+    "ast_hash": "83b61d9d380efc31b51cb60ba5bc3a35",
+    "semantic_hash": "83b61d9d380efc31b51cb60ba5bc3a35"
+  },
+  "pharmacology/books/text/lippincott/0773.txt": {
+    "mtime": 1794839147.7559705,
+    "seen": 1795030114.710742,
+    "ast_hash": "079752b3d49d483c2f15102e998f6eec",
+    "semantic_hash": "079752b3d49d483c2f15102e998f6eec"
+  },
+  "pharmacology/books/text/lippincott/0774.txt": {
+    "mtime": 1794839147.7705452,
+    "seen": 1795030114.710743,
+    "ast_hash": "c795932a1ea9a3ae7652f295870d4dec",
+    "semantic_hash": "c795932a1ea9a3ae7652f295870d4dec"
+  },
+  "pharmacology/books/text/lippincott/0775.txt": {
+    "mtime": 1794839147.7880254,
+    "seen": 1795030114.710745,
+    "ast_hash": "3166eb3b144f0438759b4282f217eeb7",
+    "semantic_hash": "3166eb3b144f0438759b4282f217eeb7"
+  },
+  "pharmacology/books/text/lippincott/0776.txt": {
+    "mtime": 1794839147.8164454,
+    "seen": 1795030114.710746,
+    "ast_hash": "a9de43727b386942cf607cc1ce36f7b4",
+    "semantic_hash": "a9de43727b386942cf607cc1ce36f7b4"
+  },
+  "pharmacology/books/text/lippincott/0777.txt": {
+    "mtime": 1794839147.8347251,
+    "seen": 1795030114.7107468,
+    "ast_hash": "7edc393dc7832e66019971015ce73bf6",
+    "semantic_hash": "7edc393dc7832e66019971015ce73bf6"
+  },
+  "pharmacology/books/text/lippincott/0778.txt": {
+    "mtime": 1794839147.8540206,
+    "seen": 1795030114.710748,
+    "ast_hash": "de0ec1d0f7bf82b3d9bdadfaf2ec9445",
+    "semantic_hash": "de0ec1d0f7bf82b3d9bdadfaf2ec9445"
+  },
+  "pharmacology/books/text/lippincott/0779.txt": {
+    "mtime": 1794839147.8650196,
+    "seen": 1795030114.710749,
+    "ast_hash": "7fd3d0560fe55ee9c108267262e98da8",
+    "semantic_hash": "7fd3d0560fe55ee9c108267262e98da8"
+  },
+  "pharmacology/books/text/lippincott/0780.txt": {
+    "mtime": 1794839147.885661,
+    "seen": 1795030114.7107499,
+    "ast_hash": "bfdabe08b72cad1e16dc31a17fc5190e",
+    "semantic_hash": "bfdabe08b72cad1e16dc31a17fc5190e"
+  },
+  "pharmacology/books/text/lippincott/0781.txt": {
+    "mtime": 1794839147.9062765,
+    "seen": 1795030114.710751,
+    "ast_hash": "2f8f856cd25ab0ba4e083e7e1e6c0468",
+    "semantic_hash": "2f8f856cd25ab0ba4e083e7e1e6c0468"
+  },
+  "pharmacology/books/text/lippincott/0783.txt": {
+    "mtime": 1794839147.923443,
+    "seen": 1795030114.710752,
+    "ast_hash": "27c45638eafeddbd64a0f632adabe9e8",
+    "semantic_hash": "27c45638eafeddbd64a0f632adabe9e8"
+  },
+  "pharmacology/books/text/lippincott/0784.txt": {
+    "mtime": 1794839147.9478621,
+    "seen": 1795030114.710753,
+    "ast_hash": "a799d1cfc8f97b37dfd477aa37584ebc",
+    "semantic_hash": "a799d1cfc8f97b37dfd477aa37584ebc"
+  },
+  "pharmacology/books/text/lippincott/0785.txt": {
+    "mtime": 1794839147.9641743,
+    "seen": 1795030114.7107542,
+    "ast_hash": "ecf2d4dd9e0163d0c1fcbefc04f44f27",
+    "semantic_hash": "ecf2d4dd9e0163d0c1fcbefc04f44f27"
+  },
+  "pharmacology/books/text/lippincott/0786.txt": {
+    "mtime": 1794839147.9793088,
+    "seen": 1795030114.710755,
+    "ast_hash": "184257dbe2c937cc9acb4f139a5d6f35",
+    "semantic_hash": "184257dbe2c937cc9acb4f139a5d6f35"
+  },
+  "pharmacology/books/text/lippincott/0787.txt": {
+    "mtime": 1794839147.993651,
+    "seen": 1795030114.710756,
+    "ast_hash": "e485060bccb54551dcdc2f7b24fdd752",
+    "semantic_hash": "e485060bccb54551dcdc2f7b24fdd752"
+  },
+  "pharmacology/books/text/lippincott/0788.txt": {
+    "mtime": 1794839148.0085824,
+    "seen": 1795030114.710758,
+    "ast_hash": "ab8b524e0eaeab3a4e49d717cf4c2b7c",
+    "semantic_hash": "ab8b524e0eaeab3a4e49d717cf4c2b7c"
+  },
+  "pharmacology/books/text/lippincott/0789.txt": {
+    "mtime": 1794839148.0230796,
+    "seen": 1795030114.710759,
+    "ast_hash": "3c74bfe85fa2f0d8c79b3eef4affa334",
+    "semantic_hash": "3c74bfe85fa2f0d8c79b3eef4affa334"
+  },
+  "pharmacology/books/text/lippincott/0790.txt": {
+    "mtime": 1794839148.0408652,
+    "seen": 1795030114.7107599,
+    "ast_hash": "770abda9ca7e5d4c5296707a6d63f001",
+    "semantic_hash": "770abda9ca7e5d4c5296707a6d63f001"
+  },
+  "pharmacology/books/text/lippincott/0791.txt": {
+    "mtime": 1794839148.0608587,
+    "seen": 1795030114.710761,
+    "ast_hash": "a8972488659e774a13337888d261f348",
+    "semantic_hash": "a8972488659e774a13337888d261f348"
+  },
+  "pharmacology/books/text/lippincott/0792.txt": {
+    "mtime": 1794839148.0766604,
+    "seen": 1795030114.710762,
+    "ast_hash": "1200724bd469d2d59dbee9e01361d6c5",
+    "semantic_hash": "1200724bd469d2d59dbee9e01361d6c5"
+  },
+  "pharmacology/books/text/lippincott/0793.txt": {
+    "mtime": 1794839148.0904806,
+    "seen": 1795030114.710763,
+    "ast_hash": "84c6391e75e46c1c00749a6f2ea8fe5e",
+    "semantic_hash": "84c6391e75e46c1c00749a6f2ea8fe5e"
+  },
+  "pharmacology/books/text/lippincott/0794.txt": {
+    "mtime": 1794839148.1052954,
+    "seen": 1795030114.710764,
+    "ast_hash": "14c3d307db2ff00a41d35e84ba2e1ff9",
+    "semantic_hash": "14c3d307db2ff00a41d35e84ba2e1ff9"
+  },
+  "pharmacology/books/text/lippincott/0795.txt": {
+    "mtime": 1794839148.1199248,
+    "seen": 1795030114.7107651,
+    "ast_hash": "c8dcfd59c6d50cb2ed64c8679f6a3842",
+    "semantic_hash": "c8dcfd59c6d50cb2ed64c8679f6a3842"
+  },
+  "pharmacology/books/text/lippincott/0796.txt": {
+    "mtime": 1794839148.1329556,
+    "seen": 1795030114.710766,
+    "ast_hash": "bdd4033926c4d758f9d2281769ee23f2",
+    "semantic_hash": "bdd4033926c4d758f9d2281769ee23f2"
+  },
+  "pharmacology/books/text/lippincott/0797.txt": {
+    "mtime": 1794839148.1666698,
+    "seen": 1795030114.710767,
+    "ast_hash": "a0184eddf8470513a0c346b4da69b339",
+    "semantic_hash": "a0184eddf8470513a0c346b4da69b339"
+  },
+  "pharmacology/books/text/lippincott/0798.txt": {
+    "mtime": 1794839148.186055,
+    "seen": 1795030114.7107682,
+    "ast_hash": "4dde8d10cf5aec18cd5176cd5dc7ecf1",
+    "semantic_hash": "4dde8d10cf5aec18cd5176cd5dc7ecf1"
+  },
+  "pharmacology/books/text/lippincott/0799.txt": {
+    "mtime": 1794839148.2090127,
+    "seen": 1795030114.710769,
+    "ast_hash": "04a23a328bdb9da06d6a6b9549c868cc",
+    "semantic_hash": "04a23a328bdb9da06d6a6b9549c868cc"
+  },
+  "pharmacology/books/text/lippincott/0800.txt": {
+    "mtime": 1794839148.2315772,
+    "seen": 1795030114.71077,
+    "ast_hash": "5e7702f9c57900e3eda124a63e539922",
+    "semantic_hash": "5e7702f9c57900e3eda124a63e539922"
+  },
+  "pharmacology/books/text/lippincott/0801.txt": {
+    "mtime": 1794839148.2490573,
+    "seen": 1795030114.7107708,
+    "ast_hash": "667ea97e433a8d1237da3a17a5a69d11",
+    "semantic_hash": "667ea97e433a8d1237da3a17a5a69d11"
+  },
+  "pharmacology/books/text/lippincott/0802.txt": {
+    "mtime": 1794839148.2697604,
+    "seen": 1795030114.710772,
+    "ast_hash": "45258693a7221c8181d698b1668076e0",
+    "semantic_hash": "45258693a7221c8181d698b1668076e0"
+  },
+  "pharmacology/books/text/lippincott/0803.txt": {
+    "mtime": 1794839148.2803164,
+    "seen": 1795030114.710774,
+    "ast_hash": "63463bf11090c932037f45296b5ea7cb",
+    "semantic_hash": "63463bf11090c932037f45296b5ea7cb"
+  },
+  "pharmacology/books/text/lippincott/0804.txt": {
+    "mtime": 1794839148.2994847,
+    "seen": 1795030114.7107751,
+    "ast_hash": "98ca58752242353a8b6fc404e4b119f6",
+    "semantic_hash": "98ca58752242353a8b6fc404e4b119f6"
+  },
+  "pharmacology/books/text/lippincott/0805.txt": {
+    "mtime": 1794839148.3183,
+    "seen": 1795030114.710776,
+    "ast_hash": "7074a50fd3f0beff0e7d9fb3e4b5ec9d",
+    "semantic_hash": "7074a50fd3f0beff0e7d9fb3e4b5ec9d"
+  },
+  "pharmacology/books/text/lippincott/0806.txt": {
+    "mtime": 1794839148.3325706,
+    "seen": 1795030114.710777,
+    "ast_hash": "0d69b193f7a9ba36ae32ac9137b6ad31",
+    "semantic_hash": "0d69b193f7a9ba36ae32ac9137b6ad31"
+  },
+  "pharmacology/books/text/lippincott/0807.txt": {
+    "mtime": 1794839148.3495524,
+    "seen": 1795030114.710778,
+    "ast_hash": "e5dd9f45fad0805960a7f7f0d27ab886",
+    "semantic_hash": "e5dd9f45fad0805960a7f7f0d27ab886"
+  },
+  "pharmacology/books/text/lippincott/0808.txt": {
+    "mtime": 1794839148.3671677,
+    "seen": 1795030114.710779,
+    "ast_hash": "588f4001d50984d567ae6176c32049f4",
+    "semantic_hash": "588f4001d50984d567ae6176c32049f4"
+  },
+  "pharmacology/books/text/lippincott/0809.txt": {
+    "mtime": 1794839148.3875113,
+    "seen": 1795030114.71078,
+    "ast_hash": "87a81a01602b6f78622a8e4fa19f7ce6",
+    "semantic_hash": "87a81a01602b6f78622a8e4fa19f7ce6"
+  },
+  "pharmacology/books/text/lippincott/0810.txt": {
+    "mtime": 1794839148.402881,
+    "seen": 1795030114.7107809,
+    "ast_hash": "f6829faba2043e2f1ae8492b2b0ce8aa",
+    "semantic_hash": "f6829faba2043e2f1ae8492b2b0ce8aa"
+  },
+  "pharmacology/books/text/lippincott/0811.txt": {
+    "mtime": 1794839148.4192922,
+    "seen": 1795030114.710782,
+    "ast_hash": "1190c7c921d7667e4ff9ca517643cf87",
+    "semantic_hash": "1190c7c921d7667e4ff9ca517643cf87"
+  },
+  "pharmacology/books/text/lippincott/0812.txt": {
+    "mtime": 1794839148.4358625,
+    "seen": 1795030114.710783,
+    "ast_hash": "92298619b3f342eeac7031bbddcc778e",
+    "semantic_hash": "92298619b3f342eeac7031bbddcc778e"
+  },
+  "pharmacology/books/text/lippincott/0813.txt": {
+    "mtime": 1794839148.4534512,
+    "seen": 1795030114.710784,
+    "ast_hash": "43a3bfd431c7a35192ee009159c0a8d5",
+    "semantic_hash": "43a3bfd431c7a35192ee009159c0a8d5"
+  },
+  "pharmacology/books/text/lippincott/0814.txt": {
+    "mtime": 1794839148.4713132,
+    "seen": 1795030114.710785,
+    "ast_hash": "ba5193501db7262ed669b81a31f50075",
+    "semantic_hash": "ba5193501db7262ed669b81a31f50075"
+  },
+  "pharmacology/books/text/lippincott/0815.txt": {
+    "mtime": 1794839148.4898028,
+    "seen": 1795030114.710788,
+    "ast_hash": "fca6db9114b64cedfe7267b984ae13e0",
+    "semantic_hash": "fca6db9114b64cedfe7267b984ae13e0"
+  },
+  "pharmacology/books/text/lippincott/0817.txt": {
+    "mtime": 1794839148.5247366,
+    "seen": 1795030114.7107892,
+    "ast_hash": "b40b4a96941e524d0eb7cf7f7aa21961",
+    "semantic_hash": "b40b4a96941e524d0eb7cf7f7aa21961"
+  },
+  "pharmacology/books/text/lippincott/0818.txt": {
+    "mtime": 1794839148.5408175,
+    "seen": 1795030114.71079,
+    "ast_hash": "3edc758042174ab70afd905a462bcdff",
+    "semantic_hash": "3edc758042174ab70afd905a462bcdff"
+  },
+  "pharmacology/books/text/lippincott/0819.txt": {
+    "mtime": 1794839148.5551262,
+    "seen": 1795030114.7107909,
+    "ast_hash": "13da9e17cac3228a10e10357e4a11a22",
+    "semantic_hash": "13da9e17cac3228a10e10357e4a11a22"
+  },
+  "pharmacology/books/text/lippincott/0820.txt": {
+    "mtime": 1794839148.570692,
+    "seen": 1795030114.7107918,
+    "ast_hash": "de264cf53270101c98e21077beff00c0",
+    "semantic_hash": "de264cf53270101c98e21077beff00c0"
+  },
+  "pharmacology/books/text/lippincott/0821.txt": {
+    "mtime": 1794839148.5872622,
+    "seen": 1795030114.710793,
+    "ast_hash": "4f1b953a80d445b5653aebe10b706960",
+    "semantic_hash": "4f1b953a80d445b5653aebe10b706960"
+  },
+  "pharmacology/books/text/lippincott/0823.txt": {
+    "mtime": 1794839148.6061907,
+    "seen": 1795030114.710794,
+    "ast_hash": "be35d98a7a43a630ae2e7c79cf0809e6",
+    "semantic_hash": "be35d98a7a43a630ae2e7c79cf0809e6"
+  },
+  "pharmacology/books/text/lippincott/0824.txt": {
+    "mtime": 1794839148.6269133,
+    "seen": 1795030114.710795,
+    "ast_hash": "31c7f9516dc2b8be2540a5fc2c872453",
+    "semantic_hash": "31c7f9516dc2b8be2540a5fc2c872453"
+  },
+  "pharmacology/books/text/lippincott/0825.txt": {
+    "mtime": 1794839148.6624148,
+    "seen": 1795030114.710797,
+    "ast_hash": "2175aca39be69b5064cd810f8e56edf5",
+    "semantic_hash": "2175aca39be69b5064cd810f8e56edf5"
+  },
+  "pharmacology/books/text/lippincott/0826.txt": {
+    "mtime": 1794839148.685634,
+    "seen": 1795030114.710798,
+    "ast_hash": "6feb387e180b6e44c18c2f5481da93e2",
+    "semantic_hash": "6feb387e180b6e44c18c2f5481da93e2"
+  },
+  "pharmacology/books/text/lippincott/0827.txt": {
+    "mtime": 1794839148.7085474,
+    "seen": 1795030114.7107992,
+    "ast_hash": "6d8b598d42161c7fe0e47f43c830def4",
+    "semantic_hash": "6d8b598d42161c7fe0e47f43c830def4"
+  },
+  "pharmacology/books/text/lippincott/0828.txt": {
+    "mtime": 1794839148.7352183,
+    "seen": 1795030114.7108,
+    "ast_hash": "d31566a7f0f8243196ce6bb856c774fe",
+    "semantic_hash": "d31566a7f0f8243196ce6bb856c774fe"
+  },
+  "pharmacology/books/text/lippincott/0829.txt": {
+    "mtime": 1794839148.7520673,
+    "seen": 1795030114.710801,
+    "ast_hash": "10a684618b24b4ca59cdce35faee3ed2",
+    "semantic_hash": "10a684618b24b4ca59cdce35faee3ed2"
+  },
+  "pharmacology/books/text/lippincott/0830.txt": {
+    "mtime": 1794839148.7688193,
+    "seen": 1795030114.7108018,
+    "ast_hash": "64a6698778bd438fcdee143e9312f46a",
+    "semantic_hash": "64a6698778bd438fcdee143e9312f46a"
+  },
+  "pharmacology/books/text/lippincott/0831.txt": {
+    "mtime": 1794839148.7879813,
+    "seen": 1795030114.710803,
+    "ast_hash": "ebf5a63318c4057c49d891be8cf954d5",
+    "semantic_hash": "ebf5a63318c4057c49d891be8cf954d5"
+  },
+  "pharmacology/books/text/lippincott/0832.txt": {
+    "mtime": 1794839148.8066492,
+    "seen": 1795030114.710804,
+    "ast_hash": "1542fdf3c22e9fa69eadcacf104e9d7d",
+    "semantic_hash": "1542fdf3c22e9fa69eadcacf104e9d7d"
+  },
+  "pharmacology/books/text/lippincott/0833.txt": {
+    "mtime": 1794839148.8166301,
+    "seen": 1795030114.710805,
+    "ast_hash": "53a9d14bcfe2dea11af66641b185ebbb",
+    "semantic_hash": "53a9d14bcfe2dea11af66641b185ebbb"
+  },
+  "pharmacology/books/text/lippincott/0834.txt": {
+    "mtime": 1794839148.8178947,
+    "seen": 1795030114.7108061,
+    "ast_hash": "5be2f2095ba3dd13df284c9d0307e3e3",
+    "semantic_hash": "5be2f2095ba3dd13df284c9d0307e3e3"
+  },
+  "pharmacology/books/text/lippincott/0835.txt": {
+    "mtime": 1794839148.8403513,
+    "seen": 1795030114.710808,
+    "ast_hash": "c2da27dd97cb8b73fd53a4d18e980408",
+    "semantic_hash": "c2da27dd97cb8b73fd53a4d18e980408"
+  },
+  "pharmacology/books/text/lippincott/0836.txt": {
+    "mtime": 1794839148.8562877,
+    "seen": 1795030114.710809,
+    "ast_hash": "297b5e1672eec3d7be516c33e91cc060",
+    "semantic_hash": "297b5e1672eec3d7be516c33e91cc060"
+  },
+  "pharmacology/books/text/lippincott/0837.txt": {
+    "mtime": 1794839148.8732865,
+    "seen": 1795030114.7108102,
+    "ast_hash": "47ab65804734b7e62fe9c7f1801e838a",
+    "semantic_hash": "47ab65804734b7e62fe9c7f1801e838a"
+  },
+  "pharmacology/books/text/lippincott/0838.txt": {
+    "mtime": 1794839148.8898463,
+    "seen": 1795030114.710811,
+    "ast_hash": "764f4547296d529c3716cd73f096d760",
+    "semantic_hash": "764f4547296d529c3716cd73f096d760"
+  },
+  "pharmacology/books/text/lippincott/0839.txt": {
+    "mtime": 1794839148.906421,
+    "seen": 1795030114.7108119,
+    "ast_hash": "5bc52060446047f3552041fdf3b93322",
+    "semantic_hash": "5bc52060446047f3552041fdf3b93322"
+  },
+  "pharmacology/books/text/lippincott/0840.txt": {
+    "mtime": 1794839148.9228156,
+    "seen": 1795030114.710813,
+    "ast_hash": "a70c2581d636e49183c6523f762161c8",
+    "semantic_hash": "a70c2581d636e49183c6523f762161c8"
+  },
+  "pharmacology/books/text/lippincott/0841.txt": {
+    "mtime": 1794839148.9402065,
+    "seen": 1795030114.710814,
+    "ast_hash": "797c725e76bfb4dbd991200e44e51dd3",
+    "semantic_hash": "797c725e76bfb4dbd991200e44e51dd3"
+  },
+  "pharmacology/books/text/lippincott/0842.txt": {
+    "mtime": 1794839148.959193,
+    "seen": 1795030114.710815,
+    "ast_hash": "333cb8a17dbef91d317d6f6d86bbae87",
+    "semantic_hash": "333cb8a17dbef91d317d6f6d86bbae87"
+  },
+  "pharmacology/books/text/lippincott/0843.txt": {
+    "mtime": 1794839148.9769022,
+    "seen": 1795030114.710816,
+    "ast_hash": "70868c8f8377fe171190a5e050c9f0bb",
+    "semantic_hash": "70868c8f8377fe171190a5e050c9f0bb"
+  },
+  "pharmacology/books/text/lippincott/0844.txt": {
+    "mtime": 1794839148.9936066,
+    "seen": 1795030114.710817,
+    "ast_hash": "8c1e00c264f189e48a4fb3e66a61b047",
+    "semantic_hash": "8c1e00c264f189e48a4fb3e66a61b047"
+  },
+  "pharmacology/books/text/lippincott/0845.txt": {
+    "mtime": 1794839149.0098631,
+    "seen": 1795030114.710819,
+    "ast_hash": "c3e2e6ae2505c86024207528bdf6ba3e",
+    "semantic_hash": "c3e2e6ae2505c86024207528bdf6ba3e"
+  },
+  "pharmacology/books/text/lippincott/0846.txt": {
+    "mtime": 1794839149.0272255,
+    "seen": 1795030114.7108202,
+    "ast_hash": "ea5d4b1386edb52d6f46f6a659879649",
+    "semantic_hash": "ea5d4b1386edb52d6f46f6a659879649"
+  },
+  "pharmacology/books/text/lippincott/0847.txt": {
+    "mtime": 1794839149.0447583,
+    "seen": 1795030114.7108212,
+    "ast_hash": "c6f8c74d8a9528d06a34557142eda5d9",
+    "semantic_hash": "c6f8c74d8a9528d06a34557142eda5d9"
+  },
+  "pharmacology/books/text/lippincott/0848.txt": {
+    "mtime": 1794839149.0595188,
+    "seen": 1795030114.7108219,
+    "ast_hash": "73f6542c8c775ff8a729de25e04d70e8",
+    "semantic_hash": "73f6542c8c775ff8a729de25e04d70e8"
+  },
+  "pharmacology/books/text/lippincott/0849.txt": {
+    "mtime": 1794839149.0804517,
+    "seen": 1795030114.7108228,
+    "ast_hash": "9a9ebb40d06acf9cac3348ed13315df2",
+    "semantic_hash": "9a9ebb40d06acf9cac3348ed13315df2"
+  },
+  "pharmacology/books/text/lippincott/0850.txt": {
+    "mtime": 1794839149.0908053,
+    "seen": 1795030114.710824,
+    "ast_hash": "4ee00a5386a9c33277da4321dced75ef",
+    "semantic_hash": "4ee00a5386a9c33277da4321dced75ef"
+  },
+  "pharmacology/books/text/lippincott/_toc.txt": {
+    "mtime": 1794839149.4493532,
+    "seen": 1795030114.710825,
+    "ast_hash": "6f7e1bf95a45d82930dda44340da72e7",
+    "semantic_hash": "6f7e1bf95a45d82930dda44340da72e7"
+  },
+  "pharmacology/past papers/annual 2023.txt": {
+    "mtime": 1795027321.6904137,
+    "seen": 1795030114.710826,
+    "ast_hash": "3d8118e250edfba273a6b7714b482fd4",
+    "semantic_hash": "3d8118e250edfba273a6b7714b482fd4"
+  },
+  "pharmacology/past papers/annual 2024.txt": {
+    "mtime": 1794838497.9733114,
+    "seen": 1795030114.710828,
+    "ast_hash": "fa098e7cde3ff7d99b0bc9970c541943",
+    "semantic_hash": "fa098e7cde3ff7d99b0bc9970c541943"
+  },
+  "pharmacology/past papers/pharmacology-paper-VI-section-II.txt": {
+    "mtime": 1794838594.2184846,
+    "seen": 1795030114.710829,
+    "ast_hash": "370d7ab5c61ae83488bd11d82fb61766",
+    "semantic_hash": "370d7ab5c61ae83488bd11d82fb61766"
+  },
+  "pharmacology/past papers/supply 2023.txt": {
+    "mtime": 1795027540.740259,
+    "seen": 1795030114.71083,
+    "ast_hash": "918ab17754e314df0aa27d1745e259ab",
+    "semantic_hash": "918ab17754e314df0aa27d1745e259ab"
+  },
+  "pharmacology/past papers/supply 2023/written.txt": {
+    "mtime": 1795027368.6985495,
+    "seen": 1795030114.7108312,
+    "ast_hash": "cf0b32bfbaa34584ca2898c210168275",
+    "semantic_hash": "cf0b32bfbaa34584ca2898c210168275"
+  },
+  "pharmacology/Pharmacology - Question Answers Long.pdf": {
+    "mtime": 1794838414.260254,
+    "seen": 1795030114.710832,
+    "ast_hash": "9af38ba0b047a195fc2da7de2315be2c",
+    "semantic_hash": "9af38ba0b047a195fc2da7de2315be2c"
+  },
+  "pharmacology/Pharmacology - Question Answers Short.pdf": {
+    "mtime": 1794838415.8698184,
+    "seen": 1795030114.7108328,
+    "ast_hash": "2e23bf25544e493bc7b3af1c5ae76f40",
+    "semantic_hash": "2e23bf25544e493bc7b3af1c5ae76f40"
+  },
+  "pharmacology/pharmacology - exam notes - chapter 16-18-19-20 .pdf": {
+    "mtime": 1794838413.2792995,
+    "seen": 1795030114.710834,
+    "ast_hash": "d96f2431bb379ac7e3409500d846f6b5",
+    "semantic_hash": "d96f2431bb379ac7e3409500d846f6b5"
+  }
+}

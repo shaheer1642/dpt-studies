@@ -1,0 +1,72 @@
+Supply 2023
+3RD YEAR PHARMACOLOGY
+
+                            Short questions
+
+  1.  Define bioavailability. Enumerate factors effecting it.
+  2.  Give differences between zero and first order elimination with help of
+      diagram and 3 examples in each case
+  3.  A young child of 6 years has been given atropine before his eye
+      examination by a doctor.
+        A) what are pharmacological effects of atropine on eye?
+        B) what are other clinical uses of anti muscarinic agents?
+  4.  A 35 year old farmer has been diagnosed as a case of organophosphate
+      poisoning. enumerate drugs available to treat him. what are their
+      mechanism of actions.
+  5.  A patient had more than 2 attacks of gout. Name the drugs used to
+      decrease the production of uric acid in this patient, along with
+      mechanism of action of these drugs.
+  6.  What do u understand by DMARDs? Enumerate them
+  7.  A 15 year old girl is suffering from asthma. her treating physician had
+      decided to prescribe corticosteroids for her. Give adverse effects of
+      corticosteroids.
+  8.  Give triple regimen of H pylori eradication with doses.
+  9.  Give all regimens of H pylori eradication with doses
+  10. write down mechanism of action of aminoglycosides with specific adverse
+      effects.
+
+  10. [from photo "short question 10.png"]
+      Write short answers of the following up to 5 lines maximum:
+        a) What is the effect of using combination of Aminoglycoside plus
+           tubocurarine
+        b) Why deferoxamine is prescribed to a patient of thalassemia major
+           receiving multiple blood transfusions?
+        c) Name first line anti-tuberculous drugs.
+        d) Why low dose of aspirin is not prescribed in patients of
+           hyperuricemia?
+        e) What is the mechanism of action of benzodiazepines?
+        f) Enumerate dopamine antagonists used as antiemetic drugs.
+
+
+                             Long questions
+
+                              SECTION-II
+
+Long question 1  [from photo "long question 1.png"; printed as Q.3]
+      Answer the following questions regarding phonophoresis:
+        a) Mechanism of delivery of drugs.
+        b) Enumerate the drugs that can be delivered by this route.
+        c) Either advantages or disadvantages of this route of
+           administratio[rest of line cut off in photo] route of drug
+           administration.
+
+Long question 2
+      Enumerate skeletal muscle relaxants. give mechanism of action and
+      adverse effects. what are the clinical indications in my hugh [sic]
+      skeletal muscle relaxants are used?
+
+Long question 3
+      A 45 year old female is diagnosed with RA enumarte various groups of
+      drugs with examples useful for her. also give mechanism of action and
+      adverse effects of biological agents.
+
+
+[Put together from the "supply 2023" folder: the typed file written.txt plus
+two photos of a solved-papers book. Wording is kept as typed or printed; only
+spacing is tidied. Three things to check against the real paper:
+ - written.txt is headed "Supply 2022", but the folder is named "supply 2023".
+ - There are two items numbered 10: the typed one (aminoglycosides) and the
+   photo named "short question 10". Typed questions 8 and 9 look like the same
+   question written twice, so the typed numbering is probably off by one.
+ - In long question 1(c) the end of the first line is cut off in the photo.
+No marks are given in either source.]

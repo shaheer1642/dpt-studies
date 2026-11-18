@@ -31,9 +31,44 @@ pharmacology/
   books/text/       extracted text, one file per page (generated)
   past papers/      exam papers: photos and their .txt transcriptions
   answers/          model answers: HTML source and rendered PDF
-  prompts/          reusable briefs for answer-writing tasks
-  tools/            scripts (extract_books.py)
+  prompts/          reusable briefs for answer-writing and graph-building tasks
+  tools/            scripts (extract_books.py, merge_book_concepts.py)
+graphify-out/       knowledge graph of Lippincott + the study files (see below)
 ```
+
+## Knowledge graph (graphify)
+
+`graphify-out/` holds a graph built on 2026-11-19 from Lippincott pp. 1–850
+plus the past papers, answers and notes. **Katzung is not in it yet.**
+
+- It is a map for finding where a topic is, not a source. Use it to find
+  Lippincott pages and related concepts, then open those pages and cite them,
+  and still search Katzung's text as usual.
+- Each concept is one node, `concept_<name>` (e.g. `concept_propranolol`), with
+  `pages` = the printed Lippincott pages it appears on. Edges carry a `kind`
+  (mechanism, use, adverse_effect, contraindication, interaction, ...). Exam
+  questions are nodes linked to the concepts they ask about.
+- Query: `graphify query "<question>"`, or load `graph.json` and look a
+  concept up directly. `graph.html` shows communities only (graph is over
+  graphify's 5,000-node view limit).
+- Figure and summary-table pages (e.g. pp. 342–343) were extracted thinly;
+  study-question pages and blank pages have no nodes.
+
+Rebuilding or adding Katzung:
+
+- graphify is told to ignore `.gitignore` here
+  (`graphify-out/.graphify_build.json`), because the book text it must read is
+  git-ignored. Scope is set in `.graphifyignore`; Katzung is excluded there.
+- Give extraction subagents graphify's standard prompt plus
+  `pharmacology/prompts/graphify-extraction-notes.md`.
+- graphify does not merge the same concept across pages. After graphify's
+  Part C, run `$(cat graphify-out/.graphify_python) pharmacology/tools/merge_book_concepts.py`
+  before building, and stamp the manifest from the pre-merge extraction.
+- At most 20 subagents run at once. Check every batch afterwards: some
+  subagents skipped the last page of a 24-page list, and many reported
+  estimated rather than exact line counts in `coverage`.
+- Cost: Lippincott took about 4.4M subagent tokens on Sonnet 5.5 (38 batches).
+  Katzung is about 2.3 times as much text.
 
 ## Searching the books
 

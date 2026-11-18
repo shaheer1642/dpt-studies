@@ -4,6 +4,11 @@
 pharmacology/books/*.pdf
 pharmacology/books/text/
 
+# Knowledge graph: commit the outputs, not graphify's working files
+graphify-out/cache/
+graphify-out/.chunks/
+graphify-out/.graphify_*
+
 # Local tooling and OS files
 .venv/
 .DS_Store
