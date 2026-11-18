@@ -1,0 +1,10 @@
+# Textbook PDFs and their extracted text: copyrighted, kept local only.
+# Put the two PDFs in pharmacology/books/ and run
+#   .venv/bin/python pharmacology/tools/extract_books.py
+pharmacology/books/*.pdf
+pharmacology/books/text/
+
+# Local tooling and OS files
+.venv/
+.DS_Store
+__pycache__/
