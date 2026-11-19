@@ -118,9 +118,17 @@ text in `pharmacology/books/text/<lippincott|katzung>/`:
 
 ## Writing answers
 
-- Size answers to the marks: a 5-mark short question is about 25 handwritten
-  lines (150 to 250 words); a 15-mark long question is 400 to 600 words under
-  headings that follow the question's parts.
+- Size answers for full marks. The student found 150–250 / 400–600 words too
+  short (2026-11-19). Now: a 5–6-mark short question fills its 25 lines, about
+  250–350 words plus a table or diagram; a 15-mark long question is about
+  800–1,100 words under headings that follow the question's parts; an
+  "up to 5 lines" sub-part is 50–80 words.
+- Briefs for answer sheets: `pharmacology/prompts/answer-sheet.md` (reusable,
+  one paper per PDF).
+- Safety classifier stops: writing answers on organophosphate poisoning was
+  stopped (Annual 2023), and so was one skeletal muscle relaxant answer. Do
+  not reword or retry stopped content; leave that question with a note giving
+  the book pages to read. The brief says how.
 - Answer what was asked, in the order asked: enumerate, classify, tabulate.
 - Plain English, short bullets, the books' own drug names.
 - Past-paper transcriptions keep the paper's wording as printed, mistakes
